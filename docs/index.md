@@ -1,4 +1,4 @@
-# NSI 1ère au lycée Jean Cassaigne
+# Physique Chimie appliqué en BTS MECP au lycée Jean Cassaigne
 ---
 
 

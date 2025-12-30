@@ -1,1 +1,5 @@
 title: Séances 01
+
+arrange:
+    - index.md
+    - 01_chapitre_1

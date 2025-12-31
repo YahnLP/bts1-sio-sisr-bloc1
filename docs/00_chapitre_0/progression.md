@@ -29,6 +29,11 @@ Construire progressivement les **compétences scientifiques et techniques néces
 | 1      | Diagnostic – Analyse d’un produit cosmétique simple | Corps pur, mélange homogène / hétérogène        | Lire une situation, identifier les données |
 | 2      | Solutions cosmétiques                               | Solutions, dissolution, solubilité, miscibilité | Décrire un système                         |
 | 3      | Concentration d’un actif                            | Concentration massique, quantité de matière     | Calculer et interpréter                    |
+
+🧪 TP 1 → Dissolution – Dilution – Échelle de teinte
+
+| Séance | Thème / situation professionnelle                   | Notions du référentiel couvertes                | Compétences travaillées                    |
+| ------ | --------------------------------------------------- | ----------------------------------------------- | ------------------------------------------ |
 | 4      | Dilution en formulation                             | Dilution, conservation de la masse              | Choisir une méthode                        |
 | 5      | Masse volumique et texture                          | Masse volumique, densité                        | Relier valeur ↔ propriété                  |
 | 6      | Cohérence des résultats                             | Unités, ordre de grandeur                       | Vérifier et critiquer                      |

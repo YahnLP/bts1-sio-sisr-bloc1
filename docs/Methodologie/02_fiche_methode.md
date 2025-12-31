@@ -84,8 +84,11 @@ C_m = \frac{m}{V}
 \]
 
 avec :
+
 - \( C_m \) en g·L⁻¹
+
 - \( m \) en g
+
 - \( V \) en L
 
 ---

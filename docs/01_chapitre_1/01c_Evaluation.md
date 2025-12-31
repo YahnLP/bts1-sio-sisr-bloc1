@@ -3,7 +3,7 @@ author: ELP
 title: 01 🖊️ Évaluation diagnostique
 ---
 
-# 01 Diagnostique : 🖊️ Évaluation diagnostique 
+# 01 Diagnostic : 🖊️ Évaluation diagnostique 
 
 ## Corps pur et mélanges
 

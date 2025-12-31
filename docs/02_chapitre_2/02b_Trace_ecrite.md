@@ -1,10 +1,10 @@
 ---
 author: ELP
-title: 01 📖 Trace écrite
+title: 02 📖 Trace écrite
 ---
 
 
-# 01 Diagnostique : 📖 Trace écrite
+# 02 Solutions cosmétiques : 📖 Trace écrite
 
 
 **Analyse d’un produit cosmétique simple**

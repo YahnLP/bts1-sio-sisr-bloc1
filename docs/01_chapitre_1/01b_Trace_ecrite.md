@@ -4,7 +4,7 @@ title: 01 📖 Trace écrite
 ---
 
 
-# 01 Diagnostique : 📖 Trace écrite
+# 01 Diagnostic : 📖 Trace écrite
 
 
 **Analyse d’un produit cosmétique simple**

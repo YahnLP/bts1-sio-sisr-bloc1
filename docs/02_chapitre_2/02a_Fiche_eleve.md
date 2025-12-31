@@ -1,9 +1,9 @@
 ﻿---
 author: ELP
-title: 01 📝 Fiche élève
+title: 02 📝 Fiche élève
 ---
 
-# 01 Diagnostic : 📝 Fiche élève
+# 02 Solutions cosmétiques : 📝 Fiche élève
 
 **Analyse d’un produit cosmétique simple**
 

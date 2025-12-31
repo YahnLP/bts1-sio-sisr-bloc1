@@ -1,9 +1,9 @@
 ---
 author: ELP
-title: 01 🖊️ Evaluation
+title: 02 🖊️ Evaluation
 ---
 
-# 01 Diagnostic : 🖊️ Évaluation diagnostique 
+# 02 Solutions cosmétiques : 🖊️ Évaluation diagnostique 
 
 **Corps pur et mélanges**
 

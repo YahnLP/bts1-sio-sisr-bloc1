@@ -3,7 +3,7 @@ author: ELP
 title: 01 📝 Fiche élève
 ---
 
-# 01 Diagnostique : 📝 Fiche élève
+# 01 Diagnostic : 📝 Fiche élève
 
 **Analyse d’un produit cosmétique simple**
 

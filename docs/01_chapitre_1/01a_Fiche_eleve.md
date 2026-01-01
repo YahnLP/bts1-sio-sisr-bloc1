@@ -44,13 +44,15 @@ Voici l’exemple du produit que nous analyserons :
 1. Nom du produit observé :  
    ..............................................................................
 
-2. Aspect du produit (entourer ou compléter) : 
+2\. Aspect du produit (entourer ou compléter) : 
 
-   - limpide / trouble  
-   - uniforme / non uniforme  
-   - une phase / plusieurs phases  
+      - limpide / trouble  
 
-3. À l’œil nu, peut-on distinguer différents constituants ?  
+      - uniforme / non uniforme 
+
+      - une phase / plusieurs phases  
+
+3\. À l’œil nu, peut-on distinguer différents constituants ?  
    ☐ Oui  ☐ Non  
 
 ---
@@ -61,11 +63,11 @@ Voici l’exemple du produit que nous analyserons :
 
 1. Relevez **au moins trois ingrédients** du produit :  
 
-   - ........................................................................  
-   - ........................................................................  
-   - ........................................................................  
+      - ........................................................................  
+      - ........................................................................  
+      - ........................................................................  
 
-2. Le produit est-il composé d’une seule substance ?  
+2\. Le produit est-il composé d’une seule substance ?  
 
    ☐ Oui  ☐ Non  
 
@@ -81,15 +83,15 @@ Répondez en rédigeant **des phrases complètes**.
    ..............................................................................
    ..............................................................................
 
-2. Le produit est-il un **mélange** ?  
+2\. Le produit est-il un **mélange** ?  
 
    ☐ Oui  ☐ Non  
 
-3. Si oui, s’agit-il d’un mélange :  
+3\. Si oui, s’agit-il d’un mélange :  
 
    ☐ homogène  ☐ hétérogène  
 
-4. Justifiez votre réponse à l’aide de l’observation et de la composition.  
+4\. Justifiez votre réponse à l’aide de l’observation et de la composition.  
 
    ..............................................................................
    ..............................................................................

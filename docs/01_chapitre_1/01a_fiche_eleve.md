@@ -62,11 +62,12 @@ Voici l’exemple du produit que nous analyserons :
 
 À l’aide d’Internet (site de la marque, base INCI, etc.) :
 
-1. Relevez **au moins trois ingrédients** du produit :  
+1\. Relevez **au moins trois ingrédients** du produit :  
 
       - <br>  
       - <br> 
       - <br> 
+      
 2\. Le produit est-il composé d’une seule substance ?  
 
    ☐ Oui  ☐ Non  
@@ -137,4 +138,4 @@ Pour vous, comment définiriez-vous :
 
 ## 🔗 Pour la suite…
 
-Lors de la prochaine séance, nous apprendrons à **décrire quantitativement** ces mélanges, notamment à l’aide de la notion de **solution**.
+Lors de la prochaine séance, nous apprendrons à **décrire quantitativement** ces mélanges, notamment à l’aide de la notion de **solution**. 

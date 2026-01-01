@@ -7,8 +7,7 @@ title: 03 📝 Fiche élève
 
 **Concentration massique – Quantité de matière**
 
-> En BTS MECP, un calcul n’est jamais suffisant seul :  
-> il doit être **expliqué, justifié et interprété** dans un contexte professionnel.
+> En BTS MECP, un calcul n’est jamais suffisant seul : il doit être **expliqué, justifié et interprété** dans un contexte professionnel.
 
 ---
 
@@ -28,9 +27,7 @@ Un sérum anti-âge est commercialisé avec l’indication suivante :
 
 > **« 20 % d’acide hyaluronique »**
 
-Avant toute validation de formulation ou de communication produit,
-il est nécessaire de **traduire cette information commerciale
-en données scientifiques exploitables**.
+Avant toute validation de formulation ou de communication produit, il est nécessaire de **traduire cette information commerciale en données scientifiques exploitables**.
 
 ---
 
@@ -40,8 +37,7 @@ en données scientifiques exploitables**.
 
 *Sérum cosmétique affichant une teneur de 20 % en acide hyaluronique.*
 
-⚠️ Cette indication est couramment utilisée en cosmétique,  
-mais elle doit être **interprétée scientifiquement**.
+⚠️ Cette indication est couramment utilisée en cosmétique,  mais elle doit être **interprétée scientifiquement**.
 
 ---
 
@@ -52,10 +48,10 @@ mais elle doit être **interprétée scientifiquement**.
    ..............................................................................
    ..............................................................................
 
-2. S’agit-il d’une information :
+2\. S’agit-il d’une information :
    ☐ qualitative  ☐ quantitative  
 
-3. Cette indication permet-elle de connaître précisément la quantité d’actif
+3\. Cette indication permet-elle de connaître précisément la quantité d’actif
 contenue dans le produit ?  
    ☐ Oui  ☐ Non  
 
@@ -68,8 +64,7 @@ Justifiez brièvement votre réponse.
 
 ## 🔍 Travail 2 – Identifier les grandeurs utiles
 
-Pour exprimer scientifiquement la quantité d’un actif dans un produit,
-il est nécessaire de connaître certaines grandeurs.
+Pour exprimer scientifiquement la quantité d’un actif dans un produit, il est nécessaire de connaître certaines grandeurs.
 
 1. Quelle grandeur permet de quantifier un actif ?  
    ☐ masse  ☐ volume  ☐ température  
@@ -79,15 +74,13 @@ il est nécessaire de connaître certaines grandeurs.
 
 3. Complétez la phrase suivante :
 
-> Pour décrire quantitativement un actif dans un produit cosmétique,
-> il faut relier la **..................** de l’actif au **..................** de la solution.
+> Pour décrire quantitativement un actif dans un produit cosmétique, il faut relier la **..................** de l’actif au **..................** de la solution.
 
 ---
 
 ## 🧪 Travail 3 – Concentration massique
 
-On appelle **concentration massique** la masse de soluté dissoute
-dans un volume de solution.
+On appelle **concentration massique** la masse de soluté dissoute dans un volume de solution.
 
 La relation est :
 
@@ -96,16 +89,18 @@ C_m = \frac{m}{V}
 \]
 
 avec :
+
 - \( C_m \) : concentration massique (g·L⁻¹)
+
 - \( m \) : masse du soluté (g)
+
 - \( V \) : volume de solution (L)
 
 ---
 
 ### Application guidée
 
-Un sérum contient **5,0 g d’acide hyaluronique**
-dissous dans **250 mL** de solution.
+Un sérum contient **5,0 g d’acide hyaluronique** dissous dans **250 mL** de solution.
 
 1. Identifier le **soluté** :  
    ..............................................................................
@@ -141,8 +136,7 @@ Rédigez une phrase d’interprétation complète.
 
 ## 🧠 Travail 5 – Introduction de la quantité de matière
 
-En chimie, on utilise également la **quantité de matière**, notée \( n \),
-exprimée en **moles (mol)**.
+En chimie, on utilise également la **quantité de matière**, notée \( n \), exprimée en **moles (mol)**.
 
 La relation est :
 
@@ -151,7 +145,9 @@ n = \frac{m}{M}
 \]
 
 où :
+
 - \( m \) est la masse (g),
+
 - \( M \) est la masse molaire (g·mol⁻¹).
 
 👉 Cette notion sera approfondie dans les prochaines séances.
@@ -174,5 +170,4 @@ Pour vous, comment définiriez-vous :
 
 ## 🔗 Pour la suite…
 
-Lors de la prochaine séance, nous apprendrons à **comparer des concentrations**
-et à **vérifier la conformité d’un dosage cosmétique**.
+Lors de la prochaine séance, nous apprendrons à **comparer des concentrations** et à **vérifier la conformité d’un dosage cosmétique**.

@@ -41,8 +41,10 @@ Voici l’exemple du produit que nous analyserons :
 ## 🔍 Travail 1 – Observation du produit
 
 1\. Nom du produit observé :  
+
    <br>
    <br>
+
 2\. Aspect du produit (entourer ou compléter) : 
 
       - limpide / trouble  

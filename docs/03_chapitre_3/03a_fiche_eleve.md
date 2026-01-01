@@ -43,7 +43,7 @@ Avant toute validation de formulation ou de communication produit, il est néces
 
 ## 🧠 Travail 1 – Analyse qualitative (sans calcul)
 
-1. Que signifie, selon vous, l’indication **« 20 % »** ?  
+1\. Que signifie, selon vous, l’indication **« 20 % »** ?  
 
    <br>
    <br>
@@ -68,13 +68,13 @@ Justifiez brièvement votre réponse.
 
 Pour exprimer scientifiquement la quantité d’un actif dans un produit, il est nécessaire de connaître certaines grandeurs.
 
-1. Quelle grandeur permet de quantifier un actif ?  
+1\. Quelle grandeur permet de quantifier un actif ?  
    ☐ masse  ☐ volume  ☐ température  
 
-2. Quelle grandeur permet de décrire la solution dans laquelle l’actif est dissous ?  
+2\. Quelle grandeur permet de décrire la solution dans laquelle l’actif est dissous ?  
    ☐ masse  ☐ volume  ☐ pression  
 
-3. Complétez la phrase suivante :
+3\. Complétez la phrase suivante :
 
 > Pour décrire quantitativement un actif dans un produit cosmétique, il faut relier la **..................** de l’actif au **..................** de la solution.
 
@@ -104,27 +104,27 @@ avec :
 
 Un sérum contient **5,0 g d’acide hyaluronique** dissous dans **250 mL** de solution.
 
-1. Identifier le **soluté** :  
+1\. Identifier le **soluté** :  
 
    <br>
 
-2. Identifier la **masse du soluté** :  
+2\. Identifier la **masse du soluté** :  
    <br>
 
 
-3. Identifier le **volume de la solution** :  
+3\. Identifier le **volume de la solution** :  
    <br>
 
 
-4. Convertir le volume en litres :  
+4\. Convertir le volume en litres :  
    <br>
 
 
-5. Calculer la **concentration massique** :  
+5\. Calculer la **concentration massique** :  
 
    <br>
 
-6. Donner l’unité du résultat :  
+6\. Donner l’unité du résultat :  
    <br>
 
 ---

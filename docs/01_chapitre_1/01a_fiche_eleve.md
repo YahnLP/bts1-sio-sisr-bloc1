@@ -137,5 +137,4 @@ Pour vous, comment définiriez-vous :
 
 ## 🔗 Pour la suite…
 
-Lors de la prochaine séance, nous apprendrons à **décrire quantitativement**
-ces mélanges, notamment à l’aide de la notion de **solution**.
+Lors de la prochaine séance, nous apprendrons à **décrire quantitativement** ces mélanges, notamment à l’aide de la notion de **solution**.

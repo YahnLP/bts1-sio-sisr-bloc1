@@ -1,4 +1,4 @@
-﻿---
+---
 author: ELP
 title: Progression
 ---
@@ -20,6 +20,7 @@ Construire progressivement les **compétences scientifiques et techniques néces
 
 ---
 
+
 ## 🔵 Étape 1 – Bases expérimentales et interprétation 
 
 
@@ -31,21 +32,23 @@ Construire progressivement les **compétences scientifiques et techniques néces
 | 2      | Solutions cosmétiques                                                  | Solutions, dissolution, solubilité, miscibilité  | Décrire un système                         |
 | 3      | Concentration d’un actif                                               | Concentration massique                           | Calculer, interpréter                      |
 | 4  | Quantité de matière : sens, usage et décision cosmétique           | Quantité de matière, lien masse ↔ entités        | Donner du sens, raisonner                  |
-| 5  | Dilution en formulation : choix et justification d’une méthode         | Dilution, conservation de la masse               | Choisir et justifier                       |
+| **5**  | Dilution en formulation : choix et justification d’une méthode         | Dilution, conservation de la masse               | Choisir et justifier                       |
 | TP 1   | Dissolution – Dilution – Échelle de teinte                             | Notions S2 à S4                                  | Observer, exploiter                        |
-| 6  | Évaluation formative n°1                                               | Séances 1 à 5                                    | Calculer, interpréter, justifier           |
-| 7  | Masse volumique, texture et perception                                 | Masse volumique, densité                         | Relier valeur ↔ propriété                  |
-| 8  | Cohérence des résultats expérimentaux                                  | Unités, ordres de grandeur                       | Vérifier, critiquer                        |
-| 9  | pH des produits cosmétiques et efficacité cutanée                      | pH, H₃O⁺ / HO⁻, acidité / basicité               | Lire et interpréter une mesure             |
-| 10 | Exploitation d’un ensemble de résultats expérimentaux en cosmétique    | Comparaison de résultats, cohérence, tendances   | Analyser, comparer, argumenter             |
+| **6**  | Évaluation formative n°1                                               | Séances 1 à 5                                    | Calculer, interpréter, justifier           |
+| **7**  | Masse volumique, texture et perception                                 | Masse volumique, densité                         | Relier valeur ↔ propriété                  |
+| **8**  | Cohérence des résultats expérimentaux                                  | Unités, ordres de grandeur                       | Vérifier, critiquer                        |
+| **9**  | pH des produits cosmétiques et efficacité cutanée                      | pH, H₃O⁺ / HO⁻, acidité / basicité               | Lire et interpréter une mesure             |
+| **10** | Exploitation d’un ensemble de résultats expérimentaux en cosmétique    | Comparaison de résultats, cohérence, tendances   | Analyser, comparer, argumenter             |
 | TP 2   | TP pH-métrie : exploitation et interprétation de résultats fournis     | Acido-basicité, pH-métrie                        | Exploiter, interpréter, conclure           |
-| 11 | Évaluation sommative type E2 – Expertise scientifique et technologique | Mobilisation transversale des notions de l’étape | Analyser, interpréter, argumenter          |
-
+| **11** | Évaluation sommative type E2 – Expertise scientifique et technologique | Mobilisation transversale des notions de l’étape | Analyser, interpréter, argumenter          |
 
 
 ---
 
 ## 🟠 Étape 2 – Structuration du raisonnement scientifique 
+
+> Cette étape vise à donner aux étudiants les outils microscopiques nécessaires pour comprendre, interpréter et argumenter face à des dossiers scientifiques et technologiques tels que ceux rencontrés à l’épreuve E2.
+
 
 | Séance | Thème                                                 | Notions                            | Compétences             |
 | ------ | ----------------------------------------------------- | ---------------------------------- | ----------------------- |
@@ -62,7 +65,7 @@ Construire progressivement les **compétences scientifiques et techniques néces
 
 ---
 
-## 🟢 Étape 3 – Préparation explicite à l’épreuve E2 
+## 🟢 Étape 3 – Préparation explicite et approfondie à l’épreuve E2 (réinvestissement des compétences déjà travaillées) 
 
 | Séance           | Thème                             | Notions                       | Compétences                   |
 | ---------------- | --------------------------------- | ----------------------------- | ----------------------------- |
@@ -97,4 +100,6 @@ Chaque TP donne lieu à une **exploitation écrite structurée** (intro – rés
 > « L’ensemble des notions du référentiel de physique-chimie appliquée est couvert dans la progression annuelle, de manière contextualisée, spiralée et orientée vers l’épreuve E2. 
 > La progression tient compte du profil des étudiants et vise une montée progressive en autonomie et en raisonnement scientifique. »
 
+
+---
 

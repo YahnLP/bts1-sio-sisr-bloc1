@@ -64,9 +64,9 @@ Voici l’exemple du produit que nous analyserons :
 
 1\. Relevez **au moins trois ingrédients** du produit :  
 
-      - <br>  
-      - <br> 
-      - <br> 
+<br>  
+<br> 
+<br> 
       
 2\. Le produit est-il composé d’une seule substance ?  
 

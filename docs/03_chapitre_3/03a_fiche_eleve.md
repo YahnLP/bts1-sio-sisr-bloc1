@@ -93,9 +93,9 @@ $C_m = \frac{m}{V}$
 
 avec :
 
-- $ C_m $ : concentration massique (g·L⁻¹)
-- $ m $ : masse du soluté (g)
-- $ V $ : volume de solution (L)
+- $C_m$ : concentration massique (g·L⁻¹)
+- $m$ : masse du soluté (g)
+- $V$ : volume de solution (L)
 
 ---
 

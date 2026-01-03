@@ -101,13 +101,13 @@ Certaines espèces chimiques présentes en solution portent une **charge électr
 
 
 <p align="center">
-  <img src="dichlore.png" alt="Dichlore" width="60%"><br>
+  <img src="../dichlore.png" alt="Dichlore" width="60%"><br>
   <em>dichlore Cl<sub>2</sub></em>
 </p>
 
 
 <p align="center">
-  <img src="co2.png" alt="CO2" width="60%"><br>
+  <img src="../co2.png" alt="CO2" width="60%"><br>
   <em>dioxyde de carbone CO<sub>2</sub></em>
 </p>
 
@@ -115,7 +115,7 @@ Certaines espèces chimiques présentes en solution portent une **charge électr
 
 
 <p align="center">
-  <img src="nacl.png" alt="NaCl" width="40%"><br>
+  <img src="../nacl.png" alt="NaCl" width="40%"><br>
   <em>Schéma ionique NaCl</em>
 </p>
 

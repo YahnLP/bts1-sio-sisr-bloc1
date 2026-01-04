@@ -41,7 +41,7 @@ Les documents fournis doivent être **lus, interprétés et exploités** pour co
 Les molécules d’un produit cosmétique ne sont pas isolées : elles exercent des **forces d’attraction** les unes sur les autres, appelées **interactions moléculaires**.
 
 <p align="center">
-  <img src="billes.png" alt="interaction entre molécules" width="50%"><br>
+  <img src="../billes.png" alt="interaction entre molécules" width="50%"><br>
   <em>Interactions entre molécules</em><br>
 </p>
 
@@ -62,11 +62,11 @@ elles sont dites **polaires**.
 D’autres sont **non polaires**.
 
 <p align="center">
-  <img src="difference_polaire_non.png" alt="Comparaison polaire / non polaire" width="65%"><br>
+  <img src="../difference_polaire_non.png" alt="Comparaison polaire / non polaire" width="65%"><br>
   <em>Comparaison de structure entre molécules polaire et non polaire</em><br>
-  <img src="Dipoli_acqua.png" alt="épartition des charges dans une molécule polaire" width="40%"><br>
+  <img src="../Dipoli_acqua.png" alt="épartition des charges dans une molécule polaire" width="40%"><br>
   <em>Répartition des charges dans une molécule polaire</em><br>
-  <img src="CO2-nonpolar-no-overall-dipole.png" alt="épartition des charges dans une molécule non polaire" width="65%"><br>
+  <img src="../CO2-nonpolar-no-overall-dipole.png" alt="épartition des charges dans une molécule non polaire" width="65%"><br>
   <em>Répartition des charges dans une molécule non polaire</em><br>
 </p>
 
@@ -85,11 +85,11 @@ D’autres sont **non polaires**.
 La **liaison hydrogène** est une interaction particulière qui peut exister entre certaines molécules, notamment celles contenant des groupes –OH ou –NH.
 
 <p align="center">
-  <img src="mol_pol_non.png" alt="Molécule non polaire qui repousse les molécules d'eau et molécule polaire entourée de molécules d'eau" width="70%"><br>
+  <img src="../mol_pol_non.png" alt="Molécule non polaire qui repousse les molécules d'eau et molécule polaire entourée de molécules d'eau" width="70%"><br>
   <em>Molécule non polaire qui repousse les molécules d'eau et molécule polaire entourée de molécules d'eau</em><br>
-  <img src="liaisonH.png" alt="Liaisons hydrogène entre molécules d'eau" width="40%"><br>
+  <img src="../liaisonH.png" alt="Liaisons hydrogène entre molécules d'eau" width="40%"><br>
   <em>Liaisons hydrogène entre molécules d'eau</em><br>
-  <img src="The-OHN-and-NHO-intra-hydrogen.png" alt="liaison hydrogène dans une même molécule" width="65%"><br>
+  <img src="../The-OHN-and-NHO-intra-hydrogen.png" alt="liaison hydrogène dans une même molécule" width="65%"><br>
   <em>liaison hydrogène dans une même molécule</em><br>
 </p>
 

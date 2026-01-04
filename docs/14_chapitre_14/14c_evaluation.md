@@ -34,7 +34,7 @@ Les molécules d’un produit cosmétique exercent entre elles des **forces d’
 Ces interactions sont généralement **faibles individuellement**, mais leur effet global influence fortement les propriétés du produit.
 
 <p align="center">
-  <img src="billes.png" alt="interaction entre molécules" width="50%"><br>
+  <img src="../billes.png" alt="interaction entre molécules" width="50%"><br>
   <em>Interactions entre molécules</em><br>
 </p>
 
@@ -47,7 +47,7 @@ Une représentation microscopique d’une molécule polaire est fournie.
 Elle met en évidence une **répartition inégale des charges électriques**, susceptible d’influencer les interactions entre molécules.
 
 <p align="center">
-  <img src="water_polarity.jpg" alt="Répartition des charge dans une molécules polaires" width="50%"><br>
+  <img src="../water_polarity.jpg" alt="Répartition des charge dans une molécules polaires" width="50%"><br>
   <em>Répartition des charge dans une molécules polaires</em><br>
 </p>
 
@@ -60,11 +60,11 @@ Un schéma montre une interaction particulière entre deux molécules contenant 
 Cette interaction joue un rôle important dans la **cohésion des phases aqueuses** et la **solubilité** de nombreux actifs cosmétiques.
 
 <p align="center">
-  <img src="liaison.png" alt="Exemple de liaison hydrogène entre molécules" width="50%"><br>
+  <img src="../liaison.png" alt="Exemple de liaison hydrogène entre molécules" width="50%"><br>
   <em>Exemple de liaison hydrogène entre molécules</em><br>
-<img src="mol_pol.png" alt="Interaction entre un ion et l’eau" width="50%"><br>
+<img src="../mol_pol.png" alt="Interaction entre un ion et l’eau" width="50%"><br>
   <em>Interaction entre un ion et l’eau</em><br>
-  <img src="The-OHN-and-NHO-intra-hydrogen.png" alt="liaison hydrogène dans une même molécule" width="65%"><br>
+  <img src="../The-OHN-and-NHO-intra-hydrogen.png" alt="liaison hydrogène dans une même molécule" width="65%"><br>
   <em>liaison hydrogène dans une même molécule</em><br>
 </p>
 

@@ -107,6 +107,17 @@ En revanche, il est attendu de :
 
 ---
 
+
+## 🔧 Outil méthodologique associé
+
+Pour **lire, interpréter et exploiter une représentation microscopique** (représentation de Lewis, schéma moléculaire) dans une situation professionnelle et dans une analyse de type **E2**, se référer à :
+
+➡️ [**Fiche méthode 05 – Lire une représentation microscopique dans un dossier scientifique**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
+
+---
+
+
+
 ## 🔗 Pour la suite…
 
 Cette séance prépare directement :

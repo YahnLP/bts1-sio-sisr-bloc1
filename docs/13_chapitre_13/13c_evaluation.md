@@ -4,7 +4,6 @@ title: 13 🖊️ Évaluation formative
 ---
 
 # 13 – Stabilité chimique et représentations de Lewis en cosmétologie  
-## 🖊️ Évaluation formative (logique E2)
 
 **Comprendre – Lire – Relier – Justifier un choix de formulation**
 
@@ -22,8 +21,7 @@ Le dossier scientifique précise que l’actif est utilisé sous une **forme chi
 
 Avant d’exploiter des résultats expérimentaux, il est nécessaire de **comprendre la notion de stabilité chimique** et de savoir l’interpréter à l’échelle microscopique.
 
-⚠️ Aucune manipulation n’est demandée.  
-⚠️ Les documents nécessaires sont **fournis**.
+
 
 ---
 

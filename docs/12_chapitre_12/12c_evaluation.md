@@ -4,7 +4,7 @@ title: 12 🖊️ Évaluation formative
 ---
 
 # 12 – Composition microscopique de la matière en cosmétologie  
-## 🖊️ Évaluation formative (logique E2)
+
 
 **Identifier – Comprendre – Relier – Préparer l’analyse d’un dossier scientifique**
 

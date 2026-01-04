@@ -4,7 +4,7 @@ title: 14 🖊️ Évaluation formative
 ---
 
 # 14 – Interactions moléculaires et propriétés des produits cosmétiques  
-## 🖊️ Évaluation formative (logique E2)
+
 
 **Comprendre – Lire – Interpréter – Argumenter un choix de formulation**
 
@@ -107,6 +107,7 @@ Cette interaction joue un rôle important dans la **cohésion des phases aqueuse
 <br><br><br><br><br><br>
 
 6\. Expliquer pourquoi la liaison hydrogène joue un rôle important dans :
+
 - la **solubilité** d’un actif,
 - la **cohésion** d’une phase aqueuse,
 - la **texture** d’un produit cosmétique.  

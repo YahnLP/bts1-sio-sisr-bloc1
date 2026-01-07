@@ -108,8 +108,8 @@ plugins:
   - awesome-pages:
         collapse_single_pages: true
   - macros
-  - tags:
-      tags_file: defis.md
+  #- tags:
+      #tags_file: defis.md
   
 
 extra_javascript:

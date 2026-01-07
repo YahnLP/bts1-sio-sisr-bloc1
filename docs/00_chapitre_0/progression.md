@@ -66,7 +66,9 @@ Construire progressivement les **compétences scientifiques et techniques néces
 
 ---
 
-## 🟢 Étape 3 – Préparation explicite et approfondie à l’épreuve E2 (réinvestissement des compétences déjà travaillées) 
+## 🟢 Étape 3 – Préparation explicite et approfondie à l’épreuve E2 
+
+*réinvestissement des compétences déjà travaillées*
 
 | Séance           | Thème                             | Notions                       | Compétences                   |
 | ---------------- | --------------------------------- | ----------------------------- | ----------------------------- |

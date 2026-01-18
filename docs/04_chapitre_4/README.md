@@ -1,52 +1,50 @@
 # 04 – Objectifs et ressources
 
-Ce chapitre a pour objectif de donner du **sens à la notion de quantité de matière** en cosmétique, en dépassant une approche uniquement fondée sur la **masse** ou le **pourcentage affiché**.
+Ce chapitre a pour objectif de faire évoluer les étudiants d’une **approche descriptive des solutions** vers une **prise de décision scientifique et technique** en contexte professionnel.
 
-Les étudiants apprennent à **raisonner à l’échelle chimique**, en reliant la masse d’un actif au **nombre d’entités chimiques réellement présentes**, afin d’interpréter l’efficacité d’un produit cosmétique dans un **contexte professionnel**.
+La dilution n’est pas abordée comme une simple application de relation de calcul, mais comme un **choix raisonné de méthode**, tenant compte des **contraintes réelles d’un laboratoire cosmétique** : coût des actifs, précision attendue, matériel disponible et risques de perte de matière.
 
-Cette séance constitue une **étape conceptuelle essentielle** de la progression : elle prépare les étudiants à comprendre comment une **quantité d’actif peut être déterminée indirectement à partir de résultats expérimentaux**, comme cela sera le cas dans les travaux pratiques et à l’épreuve **E2 – Expertise scientifique et technologique**.
+Cette séance constitue une **étape charnière** de la progression : elle permet d’institutionnaliser la notion de dilution **après un travail de raisonnement et d’hypothèses**, et prépare explicitement les étudiants aux attendus de l’épreuve **E2 – Expertise scientifique et technologique**.
 
 ---
 
-## 🎯 Objectifs de la séance  
+## 🎯 Objectifs de la séance
 
 ### Objectifs scientifiques
 
-- Comprendre ce que représente une **quantité de matière**
-- Relier **masse d’un actif** et **nombre d’entités chimiques**
-- Identifier les **limites du raisonnement fondé uniquement sur la masse**
-- Donner du sens à la notion d’**efficacité cosmétique** à l’échelle chimique
+- Comprendre ce qu’implique une **dilution en formulation cosmétique**
+- Mettre en évidence la **conservation de la masse de soluté** lors d’une dilution
+- Identifier différentes **méthodes de dilution** utilisables en laboratoire cosmétique
 
 ### Objectifs méthodologiques (E2)
 
-- Analyser une information quantitative dans un **contexte professionnel**
-- Interpréter une grandeur scientifique **sans automatisme de calcul**
-- Argumenter scientifiquement à partir d’un **raisonnement qualitatif**
-- Adopter une **posture d’expertise** conforme aux attendus de l’épreuve E2
+- Analyser une **situation professionnelle**
+- Comparer plusieurs **méthodes ou protocoles de dilution**
+- **Choisir** une méthode adaptée à un contexte donné
+- **Justifier** un choix à l’aide d’arguments scientifiques et techniques
 
 ---
 
 ## 🧠 Compétences travaillées
 
-- Mobiliser des connaissances scientifiques
 - Analyser une situation professionnelle
-- Interpréter des données quantitatives
-- Argumenter un raisonnement scientifique
-- Communiquer une conclusion structurée (logique E2)
+- Mobiliser des connaissances scientifiques
+- Comparer et critiquer des méthodes expérimentales
+- Argumenter un choix technique
+- Communiquer de manière structurée et justifiée (posture E2)
 
 ---
 
 ## 📥 Ressources à télécharger
 
-📘 **Documents élèves et enseignants**
+📘 **Documents élèves**
 
-- [Télécharger la fiche élève (PDF)](04a_fiche_eleve.pdf)  
-- [Télécharger la trace écrite (PDF)](04b_trace_ecrite.pdf)  
+- [Télécharger la fiche élève (PDF)](04a_fiche_eleve.pdf)
+- [Télécharger la trace écrite (PDF)](04b_trace_ecrite.pdf)
 - [Télécharger l’évaluation formative (PDF)](04c_evaluation.pdf)
 
 ---
 
-📌 **Repère pédagogique important**
-
-> Cette séance ne vise pas l’introduction d’un nouvel outil de calcul, mais la **construction du sens** d’une grandeur scientifique centrale en chimie.  
-> La quantité de matière est abordée comme un **outil de raisonnement et d’interprétation**, indispensable pour comprendre les résultats expérimentaux exploités ultérieurement en laboratoire cosmétique et à l’épreuve **E2**.
+> **Remarque pédagogique importante**  
+> Cette séance ne vise pas la maîtrise immédiate d’un calcul de dilution, mais la construction d’un **raisonnement professionnel**.
+> À l’épreuve **E2**, ce sont la **pertinence du choix**, la **qualité de l’argumentation** et la **prise en compte du contexte** qui sont prioritairement évaluées.

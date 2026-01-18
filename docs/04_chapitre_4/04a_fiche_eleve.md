@@ -3,11 +3,10 @@ author: ELP
 title: 04 📝 Fiche élève
 ---
 
-# 04 – Quantité de matière : donner du sens à la notion d’actif 🧴  
-**Compter chimiquement un actif cosmétique**
+# 04 – Dilution en formulation cosmétique 🧴  
+**Dilution – Conservation de la masse – Choix d’une méthode**
 
-> En BTS MECP, une grandeur scientifique n’est jamais une réponse en soi :  
-> elle sert à **raisonner**, **interpréter** et **prendre une décision professionnelle**.
+> En BTS MECP, il ne suffit pas d’obtenir un résultat juste : il faut **choisir une méthode adaptée**, la **justifier** et **argumenter** dans un **contexte professionnel**, comme attendu à l’épreuve **E2**.
 
 ---
 
@@ -15,11 +14,10 @@ title: 04 📝 Fiche élève
 
 À l’issue de cette séance, vous devez être capable de :
 
-- comprendre ce que représente une **quantité de matière** en chimie,
-- faire le lien entre **masse d’un actif** et **nombre d’entités chimiques**,
-- expliquer pourquoi la chimie ne raisonne pas uniquement en grammes,
-- interpréter une information quantitative dans un **contexte cosmétique**,
-- adopter une **posture d’expertise attendue en E2**.
+- comprendre ce qu’implique une **dilution en formulation cosmétique**,
+- relier la dilution à la **conservation de la masse de soluté**,
+- comparer différentes **méthodes de dilution**,
+- **choisir et justifier** une méthode adaptée à un contexte professionnel.
 
 ---
 
@@ -27,150 +25,387 @@ title: 04 📝 Fiche élève
 
 Vous travaillez dans un **laboratoire de formulation cosmétique**.
 
-Deux crèmes apaisantes affichent la même indication :
+![Laboratoire de formulation](laboratoire_formulation.png){width=50%; : .center }
 
-> **« 0,3 % d’allantoïne »**
+Un laboratoire doit préparer **100 mL d’une lotion** contenant un actif hydrosoluble à **faible concentration**.
 
-Pourtant, lors des tests d’usage,  
+L’actif utilisé est **coûteux** et le matériel de verrerie disponible est **limité**.
 
-- la **crème A** est jugée très apaisante,  
-- la **crème B** est jugée peu efficace.
+Avant de réaliser la préparation, le responsable vous demande de **choisir la méthode de dilution la plus adaptée** et d’en **justifier le choix**.
 
 ---
 
-## 🧠 Travail 1 – Analyse qualitative (sans calcul)
+## 🧠 Travail 1 – Analyse qualitative de la situation (sans calcul)
 
-1\. Les deux produits affichent-ils la **même concentration** d’actif ?  
+1\. Citez **deux contraintes** présentes dans la situation professionnelle.
+
+<br> 
+<br>  
+<br>   
+<br>
    
-   ☐ Oui  ☐ Non  
+   
+   
 
+2\. Pourquoi le **coût de l’actif** est-il un critère important lors d’une dilution ?
 
+   
+<br> 
+<br>  
+<br>   
+<br>
+   
+   
 
-2\. Cette information permet-elle d’affirmer que les deux produits contiennent exactement la **même quantité d’actif au sens chimique** ?  
-
-   ☐ Oui  ☐ Non  
+3\. Cette situation nécessite-t-elle :
+   ☐ uniquement un calcul  
+   ☐ uniquement une observation  
+   ☐ un choix raisonné de méthode
 
 Justifiez brièvement votre réponse.
 
+<br> 
+<br>  
+<br>   
 <br>
-<br>
-
-3\. Proposez **une ou deux hypothèses** pouvant expliquer la différence d’efficacité entre les deux crèmes.
-
-<br>
-<br>
-<br>
+<br>    
+   
+   
 
 ---
 
-## 🔍 Travail 2 – Limites du raisonnement en masse
-
-On considère deux formulations contenant chacune **0,30 g d’actif**.
-
-1\. Les deux formulations contiennent-elles la **même masse d’actif** ?  
-
-   ☐ Oui  ☐ Non  
 
 
-
-2\. Peut-on affirmer qu’elles contiennent le **même nombre de molécules** d’actif ?  
-
-   ☐ Oui  ☐ Non  
+## 🔍 Travail 2 – Hypothèses sur ce qui se passe lors d’une dilution
 
 
+1\. Hypothèse sur la masse de soluté
 
-3\. Complétez la phrase suivante :
+Lorsqu’on prépare une solution plus diluée à partir d’une solution plus concentrée, pensez-vous que la **masse d’actif introduite dans la nouvelle solution** :
 
-> Deux masses identiques d’actifs différents ne correspondent pas forcément au **même ……………………………** de molécules.
+☐ augmente
+☐ diminue
+☐ reste identique
 
----
+Justifiez votre choix **sans formule**, avec vos mots.
 
-## 🧪 Travail 3 – Introduction de la quantité de matière (par le sens)
-
-En chimie, on ne raisonne pas uniquement en grammes.
-
-Pour comparer des substances différentes, les chimistes utilisent une grandeur appelée **quantité de matière**.
-
-### À retenir
-
-> La **quantité de matière** permet de **compter un très grand nombre d’entités chimiques** (molécules, ions, atomes).
-
-Elle ne correspond pas :
-
-- à une masse,
-- ni à un volume,
-
-mais à un **nombre d’entités chimiques**.
-
----
-
-## 🔗 Travail 4 – Lien masse ↔ quantité de matière (raisonnement qualitatif)
-
-Complétez les phrases suivantes :
-
-1\. À masse égale, un actif constitué de **petites molécules** contient généralement un **plus grand / plus petit** nombre de molécules (entourer la bonne réponse).
+<br><br>
+<br><br>
+<br><br>
 
 
+2\. Hypothèse sur le volume de solution
 
-2\. À masse égale, un actif constitué de **grosses molécules** contient généralement un **plus grand / plus petit** nombre de molécules (entourer la bonne réponse).
+Selon vous, pour obtenir une solution **moins concentrée**, le volume de solution finale doit :
+
+☐ augmenter
+☐ diminuer
+☐ rester identique
+
+Expliquez votre raisonnement.
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+3\. Mise en relation qualitative
+
+Complétez la phrase suivante **selon votre raisonnement actuel** :
+
+> Pour obtenir une solution moins concentrée, on agit sur le **………………………………**, ce qui modifie la **………………………………**, sans forcément modifier la **………………………………** d’actif introduite.
+
+
 
 
 
 ---
 
-## 🧠 Travail 5 – Lien avec l’efficacité cosmétique
+## 🧪 Travail 3 – Analyse de protocoles de dilution
 
-On rappelle que l’effet d’un actif dépend :
+Trois méthodes de dilution sont proposées au laboratoire :
 
-- de son interaction avec la peau,
-- donc du **nombre de molécules actives disponibles**.
+- 🔹 **Méthode A** – Dilution directe volumique  
+- 🔹 **Méthode B** – Dilution à partir d’une solution mère intermédiaire  
+- 🔹 **Méthode C** – Dilution par pesée  
 
-1\. À masse égale, quel type d’actif a le plus de chances d’avoir un effet perceptible ?
-
-<br>
-<br>
-
-2\. Justifiez votre réponse **sans utiliser de formule**.
-
-<br>
-<br>
-<br>
+*(Les protocoles détaillés sont fournis à la fin de la fiche.)*
 
 ---
 
-## ✍️ Travail 6 – Interprétation scientifique (attendus E2)
+### Partie A – Analyse
 
-Rédigez une **phrase d’interprétation professionnelle** en complétant :
+Pour chaque méthode, indiquez :
 
-> *La quantité de matière permet de relier la masse d’un actif au nombre de molécules réellement présentes dans un produit cosmétique, ce qui est essentiel pour interpréter son efficacité.*
+- le **matériel nécessaire**,
+- le **nombre d’étapes**,
+- les **sources possibles d’erreur ou de perte de matière**.
 
+<br>  
+<br>   
 <br>
+<br> 
+<br>  
+<br>   
 <br>
+<br> 
+
+   
+   
 
 ---
 
-## 🧾 Trace écrite – À retenir absolument
+### Partie B – Comparaison
 
-Complétez les phrases suivantes :
+Complétez le tableau suivant :
 
-- La **quantité de matière** est une grandeur utilisée en chimie pour **..................................................** des entités chimiques.
+| Critère                    | Méthode A | Méthode B | Méthode C |
+|----------------------------|-----------|-----------|-----------|
+| Précision attendue         |           |           |           |
+| Pertes de matière          |           |           |           |
+| Faisabilité en laboratoire |           |           |           |
 
-- En cosmétique, elle permet d’aller au-delà de la masse pour interpréter **..................................................** d’un actif.
+---
+
+## ✍️ Travail 4 – Choix et justification (attendus BTS / E2)
+
+Quelle méthode de dilution recommanderiez-vous dans ce contexte professionnel ?
+
+Rédigez une **réponse argumentée (4 à 6 lignes)**.  
+*Aide : commencez par*  
+**« La méthode la plus adaptée est… car… »*
+
+   
+<br>  
+<br>   
+<br>
+<br> 
+<br>  
+<br>   
+   
+   
+   
+   
+   
+
+---
+
+## 🧾 Trace écrite – À compléter
+
+Complétez les définitions suivantes :
+
+- **Dilution** :  
+   
+ <br>  
+<br>   
+<br>
+<br>   
+   
+
+- **Conservation de la masse de soluté** :  
+   
+<br>  
+<br>   
+<br>
+<br>   
+   
+
+- **Critères de choix d’une méthode de dilution en cosmétique** :  
+   
+<br>  
+<br>   
+<br>
+<br>  
+
 
 ---
 
 ## 🔗 Pour la suite de la progression
 
-Dans les prochaines séances, nous verrons comment cette grandeur peut être **déterminée indirectement à l’aide d’une réaction chimique**, afin d’analyser et de contrôler la composition des produits cosmétiques.
+Dans les prochaines séances, vous utiliserez ce raisonnement pour **interpréter des mesures expérimentales** (pH, conductivité, absorbance) et **argumenter vos réponses**, comme à l’épreuve **E2 – Expertise scientifique et technologique**.
+
+
 
 ---
 
-## ✅ Auto-évaluation
+> Les documents suivants présentent différentes méthodes de dilution utilisées en laboratoire.
+> Ils servent de support pour analyser, comparer et justifier un choix.
 
-Cochez ce qui vous semble juste :
 
-☐ Je comprends pourquoi la masse seule ne suffit pas en chimie  
-☐ Je sais expliquer ce qu’est une quantité de matière avec mes mots  
-☐ Je fais le lien entre quantité de matière et efficacité cosmétique  
-☐ Je sais interpréter une information scientifique sans formule  
-☐ J’ai encore besoin d’aide pour raisonner à l’échelle chimique
+## 🔹 Méthode A – Dilution directe volumique
+
+### Principe
+
+La dilution directe volumique consiste à prélever **directement un volume précis** de la solution concentrée (solution mère) puis à **compléter avec le solvant** jusqu’au volume final souhaité.
+
+Cette méthode repose sur la **mesure de volumes** à l’aide de verrerie graduée.
+
+
+
+### Matériel utilisé
+
+- Pipette graduée ou pipette jaugée  
+- Fiole jaugée (volume final)  
+- Bécher  
+- Solvant (eau distillée ou phase aqueuse adaptée)
+
+
+
+### Protocole simplifié
+
+1. Prélever un **volume précis** de la solution mère à l’aide d’une pipette.
+2. Introduire ce volume dans une fiole jaugée.
+3. Compléter avec le solvant jusqu’au **trait de jauge**.
+4. Boucher la fiole et homogénéiser par retournements.
+
+
+
+### Avantages
+
+- Méthode **simple et rapide**
+- Peu d’étapes expérimentales
+- Facile à mettre en œuvre en laboratoire
+
+
+
+### Inconvénients
+
+- Précision **dépend fortement de la verrerie utilisée**
+- Risque d’erreur si les volumes prélevés sont **très faibles**
+- Peu adaptée si l’actif est **coûteux** (pertes possibles lors du prélèvement)
+
+
+
+### Domaines d’utilisation
+
+- Dilutions courantes
+- Solutions peu concentrées
+- Situations où la précision extrême n’est pas critique
+
+
+
+### Remarque professionnelle (BTS MECP)
+
+> En formulation cosmétique, la dilution directe volumique peut être limitée lorsque l’on travaille avec des actifs coûteux ou à très faible concentration, car la précision volumique peut devenir insuffisante.
+
+---
+
+## 🔹 Méthode B – Dilution à partir d’une solution mère intermédiaire
+
+### Principe
+
+La dilution à partir d’une **solution mère intermédiaire** consiste à réaliser la dilution **en deux étapes successives** :
+
+1. préparation d’une **solution intermédiaire**, moins concentrée que la solution mère initiale ;
+2. dilution de cette solution intermédiaire jusqu’à la concentration finale souhaitée.
+
+Cette méthode permet de **limiter les volumes très faibles à prélever** et d’améliorer la **précision globale** de la dilution.
+
+
+
+### Matériel utilisé
+
+- Pipette graduée ou pipette jaugée  
+- Fiole jaugée (solution intermédiaire)  
+- Fiole jaugée (solution finale)  
+- Bécher  
+- Solvant (eau distillée ou phase aqueuse adaptée)
+
+
+
+### Protocole simplifié
+
+1. Prélever un volume de la **solution mère initiale**.
+2. Introduire ce volume dans une fiole jaugée et compléter avec le solvant pour obtenir la **solution mère intermédiaire**.
+3. Prélever un volume précis de cette solution intermédiaire.
+4. Introduire ce volume dans une seconde fiole jaugée.
+5. Compléter avec le solvant jusqu’au volume final.
+6. Homogénéiser la solution obtenue.
+
+
+
+### Avantages
+
+- **Meilleure précision** lorsque les volumes à prélever sont très faibles
+- Réduction du risque d’erreur volumique
+- Méthode adaptée aux **faibles concentrations finales**
+
+
+
+### Inconvénients
+
+- Méthode **plus longue** (deux étapes)
+- Manipulations supplémentaires
+- Risque d’erreur si l’homogénéisation intermédiaire est insuffisante
+
+
+
+### Domaines d’utilisation
+
+- Préparations à **très faible concentration**
+- Situations nécessitant une **bonne précision**
+- Laboratoires disposant de verrerie adaptée
+
+
+
+### Remarque professionnelle (BTS MECP)
+
+> En formulation cosmétique, la dilution à partir d’une solution mère intermédiaire est souvent privilégiée lorsque la concentration finale est très faible, car elle permet de sécuriser la précision tout en restant compatible avec les contraintes du laboratoire.
+
+---
+
+## 🔹 Méthode C – Dilution par pesée
+
+### Principe
+
+La dilution par pesée consiste à réaliser la dilution en mesurant les **masses** des constituants (solution mère et solvant) à l’aide d’une **balance**, plutôt que les volumes.
+
+Cette méthode repose sur la **précision de la mesure de masse**, généralement plus fiable que la mesure de volume, notamment pour les faibles quantités.
+
+
+
+### Matériel utilisé
+
+- Balance de précision  
+- Bécher ou flacon de préparation  
+- Spatule ou pipette Pasteur  
+- Solvant (eau distillée ou phase aqueuse adaptée)
+
+
+
+### Protocole simplifié
+
+1. Placer un bécher propre sur la balance et effectuer la **tare**.
+2. Ajouter une masse précise de la **solution mère**.
+3. Ajouter progressivement le **solvant** jusqu’à atteindre la masse totale souhaitée.
+4. Homogénéiser soigneusement la solution obtenue.
+
+
+
+### Avantages
+
+- **Très bonne précision**, en particulier pour de faibles quantités
+- Limitation des erreurs liées à la lecture des volumes
+- Méthode adaptée aux **actifs coûteux**
+
+
+
+### Inconvénients
+
+- Nécessite une **balance fiable et étalonnée**
+- Conversion masse / volume parfois nécessaire
+- Méthode moins intuitive pour les opérateurs peu formés
+
+
+
+### Domaines d’utilisation
+
+- Préparations nécessitant une **forte précision**
+- Laboratoires disposant de balances performantes
+- Situations où la **perte de matière doit être minimisée**
+
+
+
+### Remarque professionnelle (BTS MECP)
+
+> En formulation cosmétique, la dilution par pesée est souvent privilégiée pour les actifs coûteux ou les faibles concentrations, car elle permet de limiter les pertes de matière et d’obtenir une meilleure reproductibilité.

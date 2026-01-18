@@ -38,64 +38,69 @@ Afin d’expliquer ces différences de perception, le laboratoire a réalisé de
 
 ---
 
-## Exercice 1 – Analyse de la situation professionnelle (4 points)
+## Exercice 1 – Analyse de la situation professionnelle (**3 points**)
 
-1\. Citer **deux éléments** de la situation qui justifient la réalisation de mesures physiques.
+1. Citer **deux éléments** de la situation qui justifient la réalisation de mesures physiques. (2 pts)
 
 <br>
 <br>
 
-2\. L’objectif principal de la mesure est de :
+2. L’objectif principal de la mesure est de : (1 pt)
 
 ☐ obtenir une valeur sans interprétation  
 ☐ vérifier un calcul  
-☐ expliquer une différence de texture perçue
+☐ expliquer une différence de texture perçue  
 
 Justifier brièvement.
 
 <br>
 <br>
 <br>
-<br>
 
 ---
 
-## Exercice 2 – Sens physique de la masse volumique (4 points)
+## Exercice 2 – Sens physique de la masse volumique (**3 points**)
 
-1\. Deux produits peuvent-ils avoir :
+1. Deux produits peuvent-ils avoir : (1 pt)
 
 ☐ le même volume et la même masse  
-☐ le même volume mais des masses différentes
+☐ le même volume mais des masses différentes  
 
-2\. Si deux produits ont des masses différentes pour un même volume, leur **masse volumique** est :
+
+
+2. Si deux produits ont des masses différentes pour un même volume, leur **masse volumique** est : (1 pt)
 
 ☐ identique  
-☐ différente
+☐ différente  
 
-3\. Compléter la phrase suivante :
+
+
+3. Compléter la phrase suivante : (1 pt)
 
 > La masse volumique est une grandeur physique qui relie la **..................** d’un produit à son **..................**.
 
 ---
 
-## Exercice 3 – Exploitation de résultats expérimentaux (6 points)
+## Exercice 3 – Exploitation de résultats expérimentaux (**5 points**)
 
 Les mesures réalisées donnent les résultats suivants :
 
 - Lotion A : **0,96 g·mL⁻¹**  
 - Lotion B : **1,04 g·mL⁻¹**
 
-1\. Quelle lotion contient, à volume égal, la **plus grande quantité de matière** ?
+1. Quelle lotion contient, à volume égal, la **plus grande masse de matière** ? (2 pts)
 
 <br>
 <br>
 
-2\. Associer chaque lotion à une **texture attendue**.
+2. Associer chaque lotion à une **texture attendue** (fluide / plus épaisse). (1 pt)
 
 <br>
 <br>
+<br>
 
-3\. Compléter le tableau suivant :
+
+3. Compléter le tableau suivant : (2 pts)
 
 | Lotion | Masse volumique (g·mL⁻¹) | Texture attendue | Sensation possible |
 |------|--------------------------|------------------|--------------------|
@@ -104,7 +109,7 @@ Les mesures réalisées donnent les résultats suivants :
 
 ---
 
-## Exercice 4 – Interprétation et argumentation (attendus BTS / E2) (6 points)
+## Exercice 4 – Interprétation et argumentation (attendus BTS / E2) (**5 points**)
 
 Quelle lotion sera la plus susceptible d’être perçue comme **légère** par le consommateur ?
 
@@ -117,31 +122,39 @@ Rédigez une réponse argumentée (4 à 6 lignes).
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ---
 
-## Exercice 5 – Posture BTS / E2 (4 points)
+## Exercice 5 – Posture BTS / E2 (**4 points**)
 
 Un étudiant répond :
 
 > *« La masse volumique de la lotion est de 1,04 g·mL⁻¹. »*
 
-1\. Cette réponse est-elle suffisante pour un niveau BTS ?
+1. Cette réponse est-elle suffisante pour un niveau BTS ? (1 pt)
 
 ☐ Oui  ☐ Non
 
-2\. Citer **deux éléments manquants** dans cette réponse.
+
+
+2. Citer **deux éléments manquants** dans cette réponse. (1 pt)
 
 <br>
 <br>
+<br>
+<br>
 
-3\. Proposer une réponse complète, adaptée à l’épreuve **E2**, en respectant les étapes suivantes :
+3. Proposer une réponse complète, adaptée à l’épreuve **E2**, en respectant les étapes suivantes : (2 pts)
 
 - identifier la grandeur mesurée,
-- interpréter la valeur obtenue,
+- interpréter la valeur obtenue **(comparaison / sens physique)**,
 - relier cette valeur à une propriété du produit cosmétique,
 - conclure dans un contexte professionnel.
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -152,8 +165,10 @@ Un étudiant répond :
 ## 🧮 Barème – logique E2 (information enseignant)
 
 - La **cohérence du raisonnement** est prioritaire sur la valeur numérique.
-- Une interprétation scientifiquement cohérente est valorisée, même en cas d’imprécision.
+- Une interprétation scientifiquement cohérente est valorisée, même si le vocabulaire est perfectible.
 - Une réponse limitée à une valeur sans interprétation est considérée comme **incomplète**.
+
+**Total : /20**
 
 ---
 

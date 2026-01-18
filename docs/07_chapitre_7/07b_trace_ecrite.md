@@ -36,7 +36,7 @@ Deux produits cosmétiques peuvent avoir :
 - le **même volume**,  
 - mais des **masses différentes**.
 
-👉 Ils ne possèdent donc pas la même **masse volumique**, ce qui peut expliquer des différences de **texture**, de **comportement** ou de **sensation à l’application**.
+👉 Ils ne possèdent donc pas la même **masse volumique**, ce qui peut contribuer à expliquer des différences de **comportement** et de **sensation à l’application**.
 
 ---
 
@@ -51,6 +51,35 @@ Elle permet de **caractériser un produit cosmétique** et de **comparer plusieu
 
 ---
 
+### 🔁 Pont important : “masse” ≠ “quantité de matière”
+
+En physique-chimie, deux grandeurs différentes existent :
+
+- **Masse** : notée **m**, unité **g** ou **kg**
+- **Quantité de matière** : notée **n**, unité **mol**
+
+📌 **Attention** : dans ce chapitre (masse volumique), on travaille sur la **masse**.
+
+👉 La **masse volumique** est :
+\[
+\rho = \frac{m}{V}
+\]
+Elle indique **la masse contenue dans un volume donné**.
+
+✅ Plus tard, en chimie, on utilisera souvent la **quantité de matière par volume** :
+- **concentration molaire** : \[
+C = \frac{n}{V}
+\]
+
+🔗 Les deux notions sont liées par la masse molaire \(M\) :
+\[
+m = n \times M
+\]
+
+➡️ Donc : selon ce qu’on veut mesurer/interpréter, on utilise **m** ou **n**, mais on ne mélange pas.
+
+---
+
 ### 🔹 Densité
 
 La **densité** permet de comparer la masse volumique d’un produit à celle de l’**eau**, prise comme référence.
@@ -61,18 +90,19 @@ La **densité** permet de comparer la masse volumique d’un produit à celle de
 
 ## 4️⃣ Lien entre masse volumique et texture cosmétique
 
-En cosmétique, la masse volumique influence notamment :
+En cosmétique, la masse volumique peut être un **indice** parmi d’autres pour discuter :
 
 - la **texture** du produit,
 - la **sensation à l’application**,
 - la perception de **légèreté** ou de **richesse** par le consommateur.
 
-### 🔹 Tendance générale observée
+### 🔹 Tendance générale (à interpréter dans le contexte)
 
-- masse volumique **plus faible** → produit plus **fluide**, sensation de **légèreté**  
-- masse volumique **plus élevée** → produit plus **dense**, sensation plus **riche**
+- masse volumique **plus faible** → produit souvent perçu comme plus **léger** (contexte dépendant)  
+- masse volumique **plus élevée** → produit parfois perçu comme plus **dense / riche** (contexte dépendant)
 
-👉 Une valeur de masse volumique **ne s’interprète jamais seule** : elle doit être **mise en relation avec les propriétés du produit**, son usage et l’objectif de formulation.
+⚠️ **Important** : la perception dépend aussi d’autres paramètres (ex. structure de l’émulsion, viscosité, formulation).  
+👉 Une valeur de masse volumique **ne s’interprète jamais seule** : elle doit être **mise en relation avec le contexte du produit** et l’objectif de formulation.
 
 ---
 
@@ -109,20 +139,19 @@ Il est nécessaire de relier :
 
 - La masse volumique relie **masse** et **volume**
 - Deux produits de même volume peuvent avoir des masses différentes
-- La masse volumique influence la **texture** et la **perception sensorielle**
-- Une valeur fournie doit toujours être **interprétée**
+- Une valeur fournie doit toujours être **interprétée** (contexte + comparaison)
 - L’**argumentation scientifique** est centrale en BTS MECP et à l’épreuve **E2**
 
 ---
 
 ## 🔧 Outil méthodologique associé
 
-Pour choisir une méthode de dilution adaptée et argumenter ce choix dans une situation professionnelle, se référer à :
+Pour t’aider à **lire une valeur**, **la comparer** et **rédiger une interprétation** (attendu E2) :
 
-➡️ [**Fiche méthode 04 – Interpréter une mesure physique**]((../../Methodologie/04_fiche_methode/))
+➡️ [**Fiche méthode 06 – Interpréter une mesure physique**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/06_fiche_methode/)
 
 ---
 
 ## 🔗 Transition vers la suite
 
-Ce raisonnement sera réutilisé pour exploiter d’autres **résultats expérimentaux** (pH, conductivité, stabilité, efficacité) et **analyser leur cohérence**, exactement comme dans l’épreuve  **E2 – Expertise scientifique et technologique**.
+Ce raisonnement sera réutilisé pour exploiter d’autres **résultats expérimentaux** (pH, conductivité, stabilité, efficacité) et **analyser leur cohérence**, exactement comme dans l’épreuve **E2 – Expertise scientifique et technologique**.

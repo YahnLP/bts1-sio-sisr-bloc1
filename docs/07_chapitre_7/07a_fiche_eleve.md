@@ -7,7 +7,7 @@ title: 07 📝 Fiche élève
 
 **Masse volumique – Densité – Interprétation d’une mesure physique**
 
-> En BTS MECP, une mesure n’est jamais une réponse en soi : elle doit être **interprétée**, **mise en lien avec les propriétés du produit** et **justifiée dans un contexte professionnel**, comme à l’épreuve  **E2 – Expertise scientifique et technologique**.
+> En BTS MECP, une mesure n’est jamais une réponse en soi : elle doit être **interprétée**, **mise en lien avec les propriétés du produit** et **justifiée dans un contexte professionnel**, comme à l’épreuve **E2 – Expertise scientifique et technologique**.
 
 ---
 
@@ -60,7 +60,7 @@ Le responsable du laboratoire vous demande d’**expliquer cette différence à 
 
 2\. Ces différences sont-elles uniquement liées à la composition chimique du produit ?
 
-☐ oui  ☐ non  
+☐ oui  ☐ non
 
 Justifiez brièvement votre réponse.
 
@@ -82,18 +82,26 @@ On compare des volumes identiques de différents liquides.
 
 ![Comparaison de volumes identiques](image3.png){ width=50%; : .center }
 
-*Comparaison de volumes identiques.*
+👉 **Même volume ne veut pas dire même masse.**
+
+Exemple :
+- 10 mL d’un produit A peuvent avoir une masse de **9,6 g**
+- 10 mL d’un produit B peuvent avoir une masse de **10,4 g**
+
+➡️ Le produit B a une **masse volumique plus élevée** : il contient **plus de masse pour le même volume**.
+
+
 
 Complétez :
 
 - Deux produits peuvent avoir :
 
 ☐ le même volume et la même masse  
-☐ le même volume mais des masses différentes  
+☐ le même volume mais des masses différentes
 
 - Si deux produits ont des masses différentes pour un même volume, leur **masse volumique** est :
 
-☐ identique  ☐ différente  
+☐ identique  ☐ différente
 
 Complétez la phrase suivante :
 
@@ -118,12 +126,16 @@ Les mesures de masse volumique ont donné les résultats suivants :
 1\. Classez les lotions de la **plus faible** à la **plus élevée** masse volumique.
 
 <br>
+<br><br>
 <br>
 
-2\. Quelle lotion contient, à volume égal, la **plus grande quantité de matière** ?
+2\. À volume égal, quelle lotion contient la **plus grande masse** de produit ?
 
 <br>
+<br><br>
 <br>
+
+
 
 ---
 
@@ -145,14 +157,13 @@ Quelle lotion sera la plus susceptible d’être perçue comme **légère** par 
 
 Rédigez une réponse argumentée (4 à 5 lignes), en reliant explicitement :
 
-- la **valeur mesurée**,  
-
-- la **masse volumique**,  
-
+- la **valeur mesurée**,
+- la **masse volumique**,
 - la **sensation perçue par le consommateur**.
 
 <br>
 <br>
+<br><br>
 <br>
 <br>
 <br>
@@ -164,7 +175,7 @@ Rédigez une réponse argumentée (4 à 5 lignes), en reliant explicitement :
 
 Complétez les phrases suivantes en lien avec la situation étudiée :
 
-- **Masse volumique** :  
+- **Masse volumique (sens)** :  
 <br>
 <br>
 
@@ -175,6 +186,14 @@ Complétez les phrases suivantes en lien avec la situation étudiée :
 - **Lien entre masse volumique et texture d’un produit cosmétique** :  
 <br>
 <br>
+
+---
+
+## 🔗 Pointeur méthode (E2)
+
+🔗 [*Voir : Fiche méthode 04 – Choisir et justifier une dilution (E2).*]((https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/04_fiche_methode/))
+
+*(Même logique attendue : données → interprétation → justification.)*
 
 ---
 

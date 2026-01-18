@@ -78,8 +78,10 @@ Justifiez brièvement votre réponse.
 
 ## 🔍 Travail 2 – Hypothèses sur ce qui se passe lors d’une dilution
 
+> Ici, on vous demande un **raisonnement** : pas de formule, pas de “récitation”.
+> Vous devez expliquer **avec vos mots**.
 
-1\. Hypothèse sur la masse de soluté
+1\. Hypothèse sur la masse de soluté (actif)
 
 Lorsqu’on prépare une solution plus diluée à partir d’une solution plus concentrée, pensez-vous que la **masse d’actif introduite dans la nouvelle solution** :
 
@@ -94,7 +96,7 @@ Justifiez votre choix **sans formule**, avec vos mots.
 <br><br>
 
 
-2\. Hypothèse sur le volume de solution
+2\. Hypothèse sur le volume total de solution
 
 Selon vous, pour obtenir une solution **moins concentrée**, le volume de solution finale doit :
 
@@ -139,7 +141,7 @@ Pour chaque méthode, indiquez :
 
 - le **matériel nécessaire**,
 - le **nombre d’étapes**,
-- les **sources possibles d’erreur ou de perte de matière**.
+- les **sources possibles d’erreur** ou de **perte de matière**.
 
 <br>  
 <br>   
@@ -172,8 +174,7 @@ Complétez le tableau suivant :
 Quelle méthode de dilution recommanderiez-vous dans ce contexte professionnel ?
 
 Rédigez une **réponse argumentée (4 à 6 lignes)**.  
-*Aide : commencez par*  
-**« La méthode la plus adaptée est… car… »*
+*Aide : commencez par* **« La méthode la plus adaptée est… car… »*
 
    
 <br>  
@@ -217,6 +218,12 @@ Complétez les définitions suivantes :
 <br>
 <br>  
 
+
+---
+
+## 🔧 Outil méthodologique associé (à utiliser pendant / après la séance)
+
+➡️ [**Fiche méthode 04 – Choisir et justifier une dilution (E2)**](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/04_fiche_methode/)
 
 ---
 
@@ -276,11 +283,6 @@ Cette méthode repose sur la **mesure de volumes** à l’aide de verrerie gradu
 
 
 
-### Domaines d’utilisation
-
-- Dilutions courantes
-- Solutions peu concentrées
-- Situations où la précision extrême n’est pas critique
 
 
 
@@ -340,17 +342,13 @@ Cette méthode permet de **limiter les volumes très faibles à prélever** et d
 
 
 
-### Domaines d’utilisation
 
-- Préparations à **très faible concentration**
-- Situations nécessitant une **bonne précision**
-- Laboratoires disposant de verrerie adaptée
 
 
 
 ### Remarque professionnelle (BTS MECP)
 
-> En formulation cosmétique, la dilution à partir d’une solution mère intermédiaire est souvent privilégiée lorsque la concentration finale est très faible, car elle permet de sécuriser la précision tout en restant compatible avec les contraintes du laboratoire.
+> Cette méthode est souvent privilégiée lorsque la concentration finale est très faible, car elle permet de sécuriser la précision tout en restant compatible avec les contraintes du laboratoire.
 
 ---
 
@@ -393,19 +391,12 @@ Cette méthode repose sur la **précision de la mesure de masse**, généralemen
 ### Inconvénients
 
 - Nécessite une **balance fiable et étalonnée**
-- Conversion masse / volume parfois nécessaire
 - Méthode moins intuitive pour les opérateurs peu formés
 
 
-
-### Domaines d’utilisation
-
-- Préparations nécessitant une **forte précision**
-- Laboratoires disposant de balances performantes
-- Situations où la **perte de matière doit être minimisée**
 
 
 
 ### Remarque professionnelle (BTS MECP)
 
-> En formulation cosmétique, la dilution par pesée est souvent privilégiée pour les actifs coûteux ou les faibles concentrations, car elle permet de limiter les pertes de matière et d’obtenir une meilleure reproductibilité.
+> Cette méthode est souvent privilégiée pour les actifs coûteux ou les faibles concentrations, car elle permet de limiter les pertes de matière et d’obtenir une meilleure reproductibilité.

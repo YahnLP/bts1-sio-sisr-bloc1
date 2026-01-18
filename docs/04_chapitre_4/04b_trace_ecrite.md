@@ -13,9 +13,12 @@ title: 04 📖 Trace écrite
 
 En formulation cosmétique, il est parfois nécessaire d’obtenir une **solution moins concentrée** à partir d’une solution plus concentrée, **sans changer la nature de l’actif utilisé**.
 
-Les activités réalisées ont montré que cette opération ne consiste pas à retirer de l’actif, mais à **agir sur la solution elle-même**.
-
 👉 Cette opération s’appelle une **dilution**.
+
+Exemples (laboratoire / contrôle qualité) :
+- préparer une solution d’actif à une concentration compatible avec un essai,
+- adapter une concentration pour un contrôle (pH, conductivité, absorbance…),
+- respecter un cahier des charges (sécurité, efficacité, tolérance).
 
 ---
 
@@ -32,11 +35,11 @@ Cette opération permet d’obtenir une solution moins concentrée tout en conse
 ### 🔹 Idée essentielle
 
 Lors d’une dilution :
+- la **masse de soluté prélevée** (l’actif) est **conservée**,
+- le **volume total** de la solution **augmente**,
+- donc la **concentration diminue**.
 
-- la **masse de soluté est conservée**,
-- le **volume de la solution augmente**.
-
-👉 La dilution ne modifie ni la nature de l’actif, ni la quantité d’actif introduite.
+👉 La dilution ne change ni la **nature** du soluté, ni la **masse de soluté prélevée** : elle change la **concentration**.
 
 ---
 
@@ -44,13 +47,12 @@ Lors d’une dilution :
 
 Les raisonnements et comparaisons réalisés montrent que :
 
-- aucune création d’actif n’a lieu lors d’une dilution,
-- aucune destruction d’actif n’a lieu,
+- il n’y a **ni création** ni **destruction** d’actif lors d’une dilution,
 - seule la **quantité de solvant ajouté** varie.
 
-👉 On dit que la **masse de soluté est conservée** entre la solution initiale et la solution diluée.
+👉 On dit que la **masse de soluté est conservée** entre la solution mère prélevée et la solution diluée obtenue.
 
-Ce principe est fondamental en **formulation cosmétique** et en **contrôle qualité**.
+📌 Ce principe est fondamental en **formulation cosmétique** et en **contrôle qualité**.
 
 ---
 
@@ -62,7 +64,7 @@ En laboratoire, plusieurs **méthodes de dilution** peuvent être envisagées, p
 - **Dilution à partir d’une solution mère intermédiaire**
 - **Dilution par pesée**
 
-👉 Les travaux menés montrent qu’il n’existe **pas une méthode unique** valable dans toutes les situations.
+👉 Il n’existe **pas une méthode unique** valable dans toutes les situations.
 
 ---
 
@@ -72,15 +74,15 @@ Le choix d’une méthode de dilution dépend du **contexte professionnel**.
 
 ### 🔹 Critères de choix
 
-Une méthode de dilution est choisie en fonction :
+Une méthode est choisie en fonction :
 
 - de la **précision attendue**,
-- du **coût de l’actif cosmétique**,
-- du **nombre d’étapes expérimentales**,
-- des **risques d’erreur ou de perte de matière**,
+- du **coût / rareté** de l’actif cosmétique,
+- du **nombre d’étapes** (risque d’erreur, temps),
+- des **risques de perte de matière**,
 - du **matériel disponible** au laboratoire.
 
-👉 Une méthode est dite **adaptée** lorsqu’elle permet d’obtenir la concentration souhaitée tout en garantissant la **qualité**, la **sécurité** et la **reproductibilité** du produit.
+👉 Une méthode est **adaptée** si elle permet d’obtenir la concentration souhaitée en garantissant **qualité**, **sécurité** et **reproductibilité**.
 
 ---
 

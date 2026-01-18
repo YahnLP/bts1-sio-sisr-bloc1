@@ -16,13 +16,13 @@ title: 04 🖊️ Évaluation formative
 
 Un laboratoire cosmétique doit préparer une **lotion aqueuse** contenant un actif hydrosoluble à **faible concentration**.
 
-L’actif utilisé est **coûteux** et le laboratoire dispose d’une **verrerie limitée**.
+L’actif utilisé est **coûteux** et le laboratoire dispose d’une **verrerie limitée**. Le laboratoire dispose d’une balance de précision étalonnée, mais de peu de verrerie jaugée.
 
 Avant de lancer la fabrication, le responsable demande de **choisir la méthode de dilution la plus adaptée** au contexte.
 
 ---
 
-## Exercice 1 – Analyse de la situation professionnelle (4 points)
+## Exercice 1 – Analyse de la situation professionnelle (3 points)
 
 1\. Citer **deux contraintes** présentes dans la situation décrite.
 
@@ -39,7 +39,7 @@ Justifier brièvement.
 
 ---
 
-## Exercice 2 – Compréhension du principe de la dilution (4 points)
+## Exercice 2 – Compréhension du principe de la dilution (3 points)
 
 À l’issue du travail réalisé en séance, répondre aux questions suivantes.
 
@@ -60,7 +60,7 @@ Justifier brièvement.
 
 ---
 
-## Exercice 3 – Comparaison de méthodes de dilution (6 points)
+## Exercice 3 – Comparaison de méthodes de dilution (5 points)
 
 Trois méthodes sont envisageables :
 
@@ -86,11 +86,13 @@ Rédigez une **réponse argumentée (4 à 6 lignes)**.
 *Aide : commencez par*  
 **« La méthode la plus adaptée est… car… »*
 
-<br><br><br>
+Dans votre justification, citez au moins 2 critères parmi : précision, pertes de matière, coût de l’actif, faible concentration, matériel disponible, temps/risque d’erreurs.
+
+<br><br><br><br><br>
 
 ---
 
-## Exercice 5 – Posture BTS / E2 (4 points)
+## Exercice 5 – Posture BTS / E2 (3 points)
 
 Un étudiant répond :
 

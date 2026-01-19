@@ -82,5 +82,5 @@ même si le résultat final est partiellement incorrect.
 
 ➡️ [Télécharger la fiche 5 *Lire une représentation microscopique dans un dossier scientifique* (PDF)](05_fiche_methode.pdf)
 
-➡️ [Télécharger la fiche 6 *Interpréter une mesure physique en E2* (PDF)](04_fiche_methode.pdf)
+➡️ [Télécharger la fiche 6 *Interpréter une mesure physique en E2* (PDF)](06_fiche_methode.pdf)
 

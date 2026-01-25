@@ -142,6 +142,15 @@ Quand un dossier scientifique mentionne la composition d’un produit cosmétiqu
 
 ---
 
+## 🔧 Outil méthodologique associé
+
+Pour lire et interpréter correctement une représentation microscopique dans un contexte cosmétique, se référer à :
+
+➡️ Voir : [*Fiche méthode 05 – Lire une représentation microscopique dans un dossier scientifique*](https://bts-mecp-physique-chimie-688080.forge.apps.education.fr/Methodologie/05_fiche_methode/)
+
+
+---
+
 ## 🔗 Pour la suite…
 
 Cette séance prépare directement :
@@ -149,3 +158,5 @@ Cette séance prépare directement :
 - la **stabilité chimique** et les **représentations de Lewis**,
 - la compréhension des **interactions**,
 - l’analyse complète de **dossiers scientifiques E2** (justifications microscopiques).
+
+

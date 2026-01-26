@@ -3,12 +3,22 @@ author: ELP
 title: 04 🖊️ Évaluation formative
 ---
 
-# 04 – Dilution en formulation cosmétique : 🖊️ Évaluation formative  
-**Choix et justification d’une méthode de dilution**
+# 04 – Dilution en formulation cosmétique 🧴🧪  
+**Mobiliser – Analyser/Interpréter – Argumenter – Communiquer (logique E2)**
 
-⏱️ Durée : 30 minutes  
-🎯 Objectif : vérifier la capacité à **analyser une situation professionnelle**, **raisonner sur la dilution**, **choisir une méthode** et **justifier ce choix**  
-📌 Évaluation formative – Attendus BTS MECP / E2
+⏱️ Durée : 25–30 minutes  
+🎯 Objectif : vérifier la capacité à **analyser une situation professionnelle**, **mobiliser le principe de dilution**, **comparer plusieurs méthodes**, puis **argumenter une recommandation** claire et justifiée.
+
+📌 Évaluation formative – barème indicatif /20
+
+---
+
+## 🔎 Compétences évaluées (E2)
+
+- **Mobiliser des connaissances scientifiques et technologiques** (dilution, conservation du soluté, lien concentration/volume)  
+- **Analyser et interpréter** un contexte professionnel (contraintes, matériel, risques d’erreurs)  
+- **Argumenter** un choix technique et formuler une **recommandation**  
+- **Communiquer clairement** (réponse structurée, vocabulaire précis, conclusion explicite)
 
 ---
 
@@ -16,297 +26,144 @@ title: 04 🖊️ Évaluation formative
 
 Un laboratoire cosmétique doit préparer une **lotion aqueuse** contenant un actif hydrosoluble à **faible concentration**.
 
-L’actif utilisé est **coûteux** et le laboratoire dispose d’une **verrerie limitée**. Le laboratoire dispose d’une balance de précision étalonnée, mais de peu de verrerie jaugée.
+L’actif est **coûteux**. Le laboratoire dispose d’une **balance de précision étalonnée**, mais de **peu de verrerie jaugée**.
 
 Avant de lancer la fabrication, le responsable demande de **choisir la méthode de dilution la plus adaptée** au contexte.
 
 ---
 
-## Exercice 1 – Analyse de la situation professionnelle (3 points)
+## 📄 Document 1 – Rappel : principe de dilution 
 
-1\. Citer **deux contraintes** présentes dans la situation décrite.
+Lors d’une dilution :
+- la **masse de soluté** (actif) est **conservée** ;
+- le **volume** de solution **augmente** ;
+- la **concentration** diminue.
 
-<br><br><br>
+📌 **Ligne repère (à connaître)**  
+> **Diluer = ajouter du solvant** : on “étale” la même quantité de soluté dans un volume plus grand.
 
-2\. Cette situation nécessite principalement :  
-   ☐ un calcul automatique  
-   ☐ une observation simple  
-   ☐ un **choix raisonné de méthode**  
 
-Justifier brièvement.
 
-<br><br><br>
+#### Relation de dilution (même grandeur de concentration avant/après)
+
+Si on travaille avec la **même grandeur de concentration** (par exemple une concentration massique en g·L⁻¹, ou une concentration molaire en mol·L⁻¹), alors :
+
+\[
+C_1 \times V_1 = C_2 \times V_2
+\]
+
+où :
+- \(C_1\) = concentration de la **solution mère** (avant dilution)  
+- \(V_1\) = volume de solution mère **prélevé**  
+- \(C_2\) = concentration de la **solution fille** (après dilution)  
+- \(V_2\) = volume final de solution fille
+
+📌 **Attention aux unités**  
+- si \(C\) est en **g·L⁻¹**, alors \(V\) doit être en **L**  
+- conversion utile : \(100\ \text{mL} = 0{,}100\ \text{L}\)
+
+
+
+
 
 ---
 
-## Exercice 2 – Compréhension du principe de la dilution (3 points)
+## 📄 Document 2 – Méthodes possibles (résumé)
 
-À l’issue du travail réalisé en séance, répondre aux questions suivantes.
+Trois méthodes sont envisageables :
+
+- **Méthode A : dilution directe volumique** (prélever un petit volume de solution mère puis compléter)
+- **Méthode B : dilution via une solution intermédiaire** (dilution en 2 étapes pour éviter les très petits volumes)
+- **Méthode C : dilution par pesée** (mesurer des masses à la balance puis compléter)
+
+👉 Les descriptions détaillées des méthodes (A/B/C) étudiées en séance servent de support à votre analyse.
+
+---
+
+## Exercice 1 – Analyse de la situation professionnelle (4 points)
+
+
+
+1\. Repérer les contraintes
+Dans la situation, relève **2 éléments qui compliquent le travail** ou qui imposent des précautions.
+*(Exemples de contraintes : actif coûteux, faible concentration, peu de verrerie jaugée, etc.)*
+
+<br><br><br><br>
+
+2\. Dire ce qu’on attend vraiment
+Ici, on ne cherche pas seulement à “faire un calcul”.
+On attend surtout que tu **choisisses la meilleure méthode de dilution** (A, B ou C) **en fonction du contexte**.
+
+➡️ Coche la bonne réponse :
+☐ un calcul automatique
+☐ une observation simple
+☐ un **choix raisonné de méthode**
+
+Puis écris **1 phrase** pour expliquer ton choix. *(ex : « car le matériel est limité » / « car l’actif est coûteux et il faut limiter les pertes »…)*
+
+<br><br><br><br>
+
+
+
+
+---
+
+## Exercice 2 – Mobiliser le principe de dilution (4 points)
 
 1\. Lors d’une dilution, la **masse de soluté** est :  
    ☐ conservée  ☐ modifiée  
 
-
 2\. Lors d’une dilution, le **volume de solution** :  
    ☐ augmente  ☐ diminue  
 
-
-
-3\. Compléter la phrase suivante :
+3\. Compléter la phrase suivante : 
 
 > Une dilution permet de diminuer la **………………………………** d’une solution en augmentant son **………………………………**, sans modifier la masse de soluté.
 
-📌 *On attend ici une réponse issue du **raisonnement construit en séance**, et non une restitution par cœur.*
-
 ---
 
-## Exercice 3 – Comparaison de méthodes de dilution (5 points)
+## Exercice 3 – quelques calculs (4 points)
 
-Trois méthodes sont envisageables :
+On souhaite préparer **100 mL** d’une solution finale à partir d’une solution mère **10 fois plus concentrée**.
 
-- **Méthode A** : dilution directe volumique  
-- **Méthode B** : dilution à partir d’une solution mère intermédiaire  
-- **Méthode C** : dilution par pesée  
-
-1\. Associer chaque méthode à **un avantage principal**.
-
-<br><br>
-
-2\. Associer chaque méthode à **une limite possible**.
-
-<br><br>
-
----
-
-## Exercice 4 – Choix et justification (attendus BTS / E2) (6 points)
-
-Quelle méthode de dilution recommanderiez-vous dans ce contexte professionnel ?
-
-Rédigez une **réponse argumentée (4 à 6 lignes)**.  
-*Aide : commencez par*  
-**« La méthode la plus adaptée est… car… »*
-
-Dans votre justification, citez au moins 2 critères parmi : précision, pertes de matière, coût de l’actif, faible concentration, matériel disponible, temps/risque d’erreurs.
-
-<br><br><br><br><br>
-
----
-
-## Exercice 5 – Posture BTS / E2 (3 points)
-
-Un étudiant répond :
-
-> *« Il faut faire une dilution par pesée. »*
-
-1\. Cette réponse est-elle suffisante pour un niveau BTS ?  
-   ☐ Oui  ☐ Non  
-
-
-
-2\. Citer **deux éléments manquants** dans cette réponse.
-
+1\. Déterminer le **facteur de dilution** \(F\).   
+<br><br><br>
+2\. En déduire le **volume de solution mère** à prélever \(V_1\).
+<br><br><br> 
+3\. Calculer le **volume de solvant** à ajouter. 
 <br><br><br>
 
-3\. Proposer une réponse correcte et complète.
-
-<br><br>
+📌 Objectif : vérifier que vous savez relier **dilution → volumes**.
 
 ---
 
-## Auto-évaluation
+## Exercice 4 – Comparaison des méthodes A / B / C (4 points)
 
-Cochez ce qui vous semble juste :
+Pour chaque méthode, donner :
+- **un avantage principal**
+- **une limite possible**
+
+<br><br><br><br><br><br>
+
+---
+
+## Exercice 5 – Choix et justification (attendus BTS / E2) (4 points)
+
+Quelle méthode recommanderiez-vous dans ce contexte professionnel ?
+
+Rédigez une **réponse argumentée (5 à 7 lignes)**, structurée ainsi :
+- **Méthode recommandée : …**
+- **Car … (au moins 3 arguments)** : précision, pertes, coût de l’actif, faible concentration, matériel disponible, temps/risque d’erreurs, traçabilité…
+- **Conclusion claire** : “Je recommande …”
+
+<br><br><br><br><br><br><br><br>
+
+---
+
+### ✅ Auto-évaluation 
 
 ☐ Je sais analyser une situation professionnelle  
 ☐ Je comprends le principe d’une dilution  
+☐ Je sais relier dilution et volumes (micro-calcul)  
 ☐ Je sais comparer plusieurs méthodes  
-☐ Je sais justifier un choix technique  
-☐ J’ai encore des difficultés à argumenter par écrit
-
----
-
-📌 *Les documents présentant les différentes méthodes de dilution servent de support pour analyser, comparer et justifier un choix professionnel.*
-
----
-
-> Les documents suivants présentent différentes méthodes de dilution utilisées en laboratoire.
-> Ils servent de support pour analyser, comparer et justifier un choix.
-
-
-## 🔹 Méthode A – Dilution directe volumique
-
-### Principe
-
-La dilution directe volumique consiste à prélever **directement un volume précis** de la solution concentrée (solution mère) puis à **compléter avec le solvant** jusqu’au volume final souhaité.
-
-Cette méthode repose sur la **mesure de volumes** à l’aide de verrerie graduée.
-
-
-
-### Matériel utilisé
-
-- Pipette graduée ou pipette jaugée  
-- Fiole jaugée (volume final)  
-- Bécher  
-- Solvant (eau distillée ou phase aqueuse adaptée)
-
-
-
-### Protocole simplifié
-
-1. Prélever un **volume précis** de la solution mère à l’aide d’une pipette.
-2. Introduire ce volume dans une fiole jaugée.
-3. Compléter avec le solvant jusqu’au **trait de jauge**.
-4. Boucher la fiole et homogénéiser par retournements.
-
-
-
-### Avantages
-
-- Méthode **simple et rapide**
-- Peu d’étapes expérimentales
-- Facile à mettre en œuvre en laboratoire
-
-
-
-### Inconvénients
-
-- Précision **dépend fortement de la verrerie utilisée**
-- Risque d’erreur si les volumes prélevés sont **très faibles**
-- Peu adaptée si l’actif est **coûteux** (pertes possibles lors du prélèvement)
-
-
-
-### Domaines d’utilisation
-
-- Dilutions courantes
-- Solutions peu concentrées
-- Situations où la précision extrême n’est pas critique
-
-
-
-### Remarque professionnelle (BTS MECP)
-
-> En formulation cosmétique, la dilution directe volumique peut être limitée lorsque l’on travaille avec des actifs coûteux ou à très faible concentration, car la précision volumique peut devenir insuffisante.
-
----
-
-## 🔹 Méthode B – Dilution à partir d’une solution mère intermédiaire
-
-### Principe
-
-La dilution à partir d’une **solution mère intermédiaire** consiste à réaliser la dilution **en deux étapes successives** :
-
-1. préparation d’une **solution intermédiaire**, moins concentrée que la solution mère initiale ;
-2. dilution de cette solution intermédiaire jusqu’à la concentration finale souhaitée.
-
-Cette méthode permet de **limiter les volumes très faibles à prélever** et d’améliorer la **précision globale** de la dilution.
-
-
-
-### Matériel utilisé
-
-- Pipette graduée ou pipette jaugée  
-- Fiole jaugée (solution intermédiaire)  
-- Fiole jaugée (solution finale)  
-- Bécher  
-- Solvant (eau distillée ou phase aqueuse adaptée)
-
-
-
-### Protocole simplifié
-
-1. Prélever un volume de la **solution mère initiale**.
-2. Introduire ce volume dans une fiole jaugée et compléter avec le solvant pour obtenir la **solution mère intermédiaire**.
-3. Prélever un volume précis de cette solution intermédiaire.
-4. Introduire ce volume dans une seconde fiole jaugée.
-5. Compléter avec le solvant jusqu’au volume final.
-6. Homogénéiser la solution obtenue.
-
-
-
-### Avantages
-
-- **Meilleure précision** lorsque les volumes à prélever sont très faibles
-- Réduction du risque d’erreur volumique
-- Méthode adaptée aux **faibles concentrations finales**
-
-
-
-### Inconvénients
-
-- Méthode **plus longue** (deux étapes)
-- Manipulations supplémentaires
-- Risque d’erreur si l’homogénéisation intermédiaire est insuffisante
-
-
-
-### Domaines d’utilisation
-
-- Préparations à **très faible concentration**
-- Situations nécessitant une **bonne précision**
-- Laboratoires disposant de verrerie adaptée
-
-
-
-### Remarque professionnelle (BTS MECP)
-
-> En formulation cosmétique, la dilution à partir d’une solution mère intermédiaire est souvent privilégiée lorsque la concentration finale est très faible, car elle permet de sécuriser la précision tout en restant compatible avec les contraintes du laboratoire.
-
----
-
-## 🔹 Méthode C – Dilution par pesée
-
-### Principe
-
-La dilution par pesée consiste à réaliser la dilution en mesurant les **masses** des constituants (solution mère et solvant) à l’aide d’une **balance**, plutôt que les volumes.
-
-Cette méthode repose sur la **précision de la mesure de masse**, généralement plus fiable que la mesure de volume, notamment pour les faibles quantités.
-
-
-
-### Matériel utilisé
-
-- Balance de précision  
-- Bécher ou flacon de préparation  
-- Spatule ou pipette Pasteur  
-- Solvant (eau distillée ou phase aqueuse adaptée)
-
-
-
-### Protocole simplifié
-
-1. Placer un bécher propre sur la balance et effectuer la **tare**.
-2. Ajouter une masse précise de la **solution mère**.
-3. Ajouter progressivement le **solvant** jusqu’à atteindre la masse totale souhaitée.
-4. Homogénéiser soigneusement la solution obtenue.
-
-
-
-### Avantages
-
-- **Très bonne précision**, en particulier pour de faibles quantités
-- Limitation des erreurs liées à la lecture des volumes
-- Méthode adaptée aux **actifs coûteux**
-
-
-
-### Inconvénients
-
-- Nécessite une **balance fiable et étalonnée**
-- Conversion masse / volume parfois nécessaire
-- Méthode moins intuitive pour les opérateurs peu formés
-
-
-
-### Domaines d’utilisation
-
-- Préparations nécessitant une **forte précision**
-- Laboratoires disposant de balances performantes
-- Situations où la **perte de matière doit être minimisée**
-
-
-
-### Remarque professionnelle (BTS MECP)
-
-> En formulation cosmétique, la dilution par pesée est souvent privilégiée pour les actifs coûteux ou les faibles concentrations, car elle permet de limiter les pertes de matière et d’obtenir une meilleure reproductibilité.
+☐ Je sais argumenter une recommandation claire

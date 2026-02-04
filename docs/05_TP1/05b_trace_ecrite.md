@@ -245,7 +245,8 @@ Un compte-rendu de TP doit contenir :
 | **S07** | Masse volumique (autre mesure de laboratoire) |
 | **S09** | pH (autre paramètre de contrôle qualité) |
 | **S10 (TP2)** | pH-métrie (même rigueur de manipulation) |
-| **S23** | Spectrophotométrie (gamme étalon + loi de Beer-Lambert) |
+| **S23 (TP4)** | CMC par conductimétrie (préparation de gamme de concentrations) |
+| **S25** | Absorbance et Beer-Lambert (exploitation de gamme étalon sur documents) |
 
 ---
 

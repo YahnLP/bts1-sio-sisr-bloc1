@@ -376,8 +376,8 @@ Rédigez un **bilan de TP** en 6-8 lignes qui présente :
 Dans les **séances suivantes**, vous découvrirez :
 - **S07** : La masse volumique (autre propriété mesurable)
 - **S09** : Le pH (contrôle de l'acidité)
-- **S23** : La spectrophotométrie (mesure précise des concentrations par absorbance)
-
+- **S23 (TP4)** : CMC par conductimétrie (gamme de concentrations de tensioactif)
+- **S25** : Absorbance et Beer-Lambert (exploitation de spectres et gammes étalon sur documents)
 ---
 
 ## 🔧 Outils méthodologiques associés

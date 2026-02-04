@@ -3,14 +3,11 @@ author: ELP
 title: 08 🖋️ Évaluation formative
 ---
 
-# S08 – Évaluation formative : Cohérence des résultats
+# S08 –  Cohérence des résultats 🖋️
 
-**Durée estimée : 20 minutes**
+## Évaluation formative 
 
-> Cette évaluation vous permet de vérifier vos acquis avant de passer à la séance suivante.
-> Elle n'est pas notée mais vous prépare à l'épreuve E2.
-
----
+--- 
 
 ## Exercice 1 – Vérification par les unités (4 points)
 
@@ -127,65 +124,7 @@ Le laboratoire analyse un lot de sérum anti-âge. Voici les résultats de conce
 
 ---
 
-## ✅ Auto-correction
 
-### Exercice 1
-
-| Calcul | Correct ? | Explication |
-|--------|:---------:|-------------|
-| 1 | ☑ Oui | ρ = m/V → g/mL ✓ |
-| 2 | ☒ Non | m = ρ × V (pas ρ/V) |
-| 3 | ☑ Oui | Cm = m/V → g/L ✓ |
-| 4 | ☒ Non | F = Ci/Cf ou Vf/Vi (pas Cf/Ci) |
-
-### Exercice 2
-
-| Mesure | Cohérent ? | Correction |
-|--------|:----------:|------------|
-| pH 6,2 | ☑ Oui | Valeur normale |
-| Densité 89 | ☒ Non | Probablement **0,89** |
-| Concentration 20 g/L | ☑ Oui | Valeur réaliste |
-| Volume 0,025 L | ☑ Oui | = 25 mL, valeur normale |
-
-### Exercice 3
-
-- 3.1 : x̄ = (0,985 + 0,990 + 0,987 + 1,250 + 0,988) / 5 = **1,040**
-- 3.2 : Non (1,040 > 1,00)
-- 3.3 :  
-  $d_{min} = 0,985$  
-  $d_{max} = 1,250$  
-  $E = 1,250 - 0,985 = **0,265**$
-
-- 3.4 : ☒ Non (0,265 > 0,010 → série non répétable)
-
-- 3.5 : valeur aberrante = **1,250** (isolée, très éloignée du groupe ~0,99)
-
-- 3.6 :  
-  $\bar{d}_{corrigée} = (0,985 + 0,990 + 0,987 + 0,988) / 4$  
-  Somme = 0,985 + 0,990 = 1,975  
-  1,975 + 0,987 = 2,962  
-  2,962 + 0,988 = **3,950**  
-  $\bar{d}_{corrigée} = 3,950 / 4 = **0,9875** \approx 0,988$  
-  Décision attendue : **☑ Refaire la mesure aberrante** (bonne pratique CQ)  
-  (Le lot est *a priori* conforme si la mesure refaite confirme ~0,99.)
-
-### Exercice 4
-
-- 4.1 : 
-
-  - Technicien A : (4,8 + 5,1 + 4,9) / 3 = **4,93 g/L**
-  - Technicien B : (5,0 + 8,2 + 4,7) / 3 = **5,97 g/L**
-
-- 4.2 (Technicien B) :  
-
-  $x_{min} = 4,7$ ; $x_{max} = 8,2$ ; $E = 8,2 - 4,7 = **3,5 g/L**$
-
-- 4.3 : Technicien B a une valeur aberrante : **8,2 g/L**
-
-- 4.4 : Exemple de recommandation :
-> *Le technicien B a obtenu une valeur de 8,2 g/L, nettement supérieure aux autres mesures (~5 g/L). Cette valeur aberrante est probablement due à une erreur de dilution ou de lecture. Je recommande de l'écarter et de refaire cette mesure. Sans cette valeur, la moyenne du technicien B serait de 4,85 g/L, conforme au cahier des charges. Le lot peut être validé sous réserve de confirmation de cette mesure.*
-
----
 
 ## 📊 Mon score
 

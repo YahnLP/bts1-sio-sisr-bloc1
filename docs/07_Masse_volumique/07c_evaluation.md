@@ -3,9 +3,12 @@ author: ELP
 title: 07 🖋️ Évaluation formative
 ---
 
-# S07 – Évaluation formative : Masse volumique et densité
+# S07 – Masse volumique et densité 🖋️
 
-**Durée estimée : 20 minutes**
+## Évaluation formative
+
+⏱️ **Durée** : 25 à 30 minutes  
+📌 **Objectif** :
 
 > Cette évaluation vous permet de vérifier vos acquis avant de passer à la séance suivante.
 > Elle n'est pas notée mais vous prépare à l'épreuve E2.
@@ -150,46 +153,7 @@ En **4-5 lignes**, rédigez une réponse argumentée qui :
 
 ---
 
-## ✅ Auto-correction
 
-### Exercice 1
-
-| Question | Réponse |
-|----------|---------|
-| 1.1a | masse ; volume |
-| 1.1b | l'eau |
-| 1.1c | flotte |
-| 1.1d | sans unité |
-| 1.2a | ρ = m / V |
-| 1.2b | d = ρ / ρ_eau |
-| 1.2c | m = ρ × V |
-| 1.2d | V = m / ρ |
-
-### Exercice 2
-
-- 2.1 : m = 22,8 g ; V = 25,0 mL
-- 2.2 : ρ = 22,8 / 25,0 = **0,912 g·mL⁻¹**
-- 2.3 : d = 0,912 / 1,00 = **0,912**
-- 2.4 : Oui, cette huile flotte car d = 0,912 < 1
-
-### Exercice 3
-
-- Lot A : d = 49,2 / 50,0 = **0,984** → **Conforme** (dans [0,96 ; 1,00])
-- Lot B : d = 47,5 / 50,0 = **0,950** → **Non conforme** (< 0,96)
-- Lot C : d = 48,8 / 50,0 = **0,976** → **Conforme** (dans [0,96 ; 1,00])
-
-Hypothèse pour lot B : incorporation d'air excessive, utilisation d'une huile trop légère, ou erreur de formulation.
-
-### Exercice 4
-
-- 4.1 : m = ρ × V = 1,26 × 200 = **252 g**
-- 4.2 : V = m / ρ = 75 / 0,91 = **82,4 mL** ≈ 82 mL
-
-### Exercice 5 – Exemple de réponse
-
-> *La densité mesurée (0,82) est nettement inférieure à l'intervalle de conformité [0,88 ; 0,92] défini par le cahier des charges. Cet écart significatif peut s'expliquer par une incorporation d'air excessive lors du mélange ou par l'utilisation d'une huile plus légère que celle prévue dans la formule (par exemple, huile minérale au lieu d'huile végétale). Je recommande de bloquer le lot et d'effectuer une investigation approfondie : vérification des matières premières utilisées et audit du process de fabrication.*
-
----
 
 ## 📊 Mon score
 

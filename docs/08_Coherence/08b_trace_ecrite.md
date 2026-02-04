@@ -5,20 +5,10 @@ title: 08 📖 Trace écrite
 
 # S08 – Cohérence des résultats
 
-## Cours de physique-chimie – BTS MECP 1ʳᵉ année
 
 ---
 
-## 🎯 Compétences visées (E2)
 
-| Compétence | Application dans cette séance |
-|------------|-------------------------------|
-| **Analyser** | Critiquer un jeu de résultats |
-| **Interpréter** | Donner du sens à une série de mesures |
-| **Argumenter** | Justifier une décision (valider/rejeter) |
-| **Communiquer** | Rédiger une recommandation professionnelle |
-
----
 
 ## 1️⃣ Vérification par les unités
 

@@ -416,6 +416,7 @@ Avant de rendre votre travail, vérifiez :
 ## 🔗 Pour la suite de la progression
 
 Dans la **séance suivante (S05 – TP1)**, vous mettrez en pratique :
+
 - La **dissolution** (préparer une solution mère)
 - La **dilution** (préparer des solutions filles)
 - L'**échelle de teinte** (exploiter visuellement les concentrations)

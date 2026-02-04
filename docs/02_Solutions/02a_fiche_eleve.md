@@ -23,6 +23,21 @@ title: 02 📝 Fiche élève
 
 ---
 
+## 🧴 Pourquoi c'est important pour votre métier ?
+
+En institut ou en laboratoire cosmétique, vous serez amené(e) à :
+
+- **Comprendre pourquoi un actif précipite** et rend le produit invendable
+- **Choisir le bon solvant** pour dissoudre un actif (eau, huile, alcool ?)
+- **Expliquer à un client** pourquoi certains produits ont deux phases
+- **Garantir la stabilité** d'une formulation dans le temps
+
+> 💡 *Savez-vous pourquoi on ne peut pas mélanger de l'huile essentielle directement dans une lotion aqueuse ? Cette séance vous permettra de comprendre les règles de solubilité et de miscibilité !*
+
+👉 **Cette séance vous permettra** de comprendre comment un actif se dissout (ou pas !) dans une formulation cosmétique.
+
+---
+
 ## 🧴 Situation professionnelle
 
 Vous travaillez dans un **laboratoire de formulation cosmétique**.
@@ -357,6 +372,24 @@ Rédigez un **court paragraphe** expliquant comment garantir qu'un actif sera bi
 
 ---
 
+## 🏆 Mes réussites aujourd'hui
+
+Avant de passer à l'auto-évaluation, prenez un moment pour reconnaître vos progrès !
+
+**Cochez ce que vous avez réussi à faire :**
+
+| Réussite | ✓ |
+|----------|---|
+| J'ai compris la différence entre solvant et soluté | ☐ |
+| J'ai su identifier le solvant dans une formulation (= majoritaire) | ☐ |
+| J'ai compris que dissolution ≠ fusion | ☐ |
+| J'ai retenu les 3 facteurs qui influencent la solubilité | ☐ |
+| J'ai su distinguer miscibilité et solubilité | ☐ |
+
+💡 **Chaque case cochée est une victoire !** Ces notions sont fondamentales pour comprendre pourquoi certains produits sont stables et d'autres non.
+
+---
+
 ## ✅ Auto-évaluation
 
 Avant de rendre votre travail, vérifiez :
@@ -375,6 +408,7 @@ Avant de rendre votre travail, vérifiez :
 ## 🔗 Pour la suite de la progression
 
 Dans la **séance suivante (S03)**, nous apprendrons à **quantifier** les solutions :
+
 - Qu'est-ce qu'une **concentration** ?
 - Comment calculer la **concentration massique** ?
 - Comment interpréter une concentration dans un contexte professionnel ?
@@ -386,3 +420,18 @@ Dans la **séance suivante (S03)**, nous apprendrons à **quantifier** les solut
 ➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie**](../Methodologie/01_fiche_methode/)
 
 ➡️ [**Fiche méthode 02 – Calculer et interpréter une concentration**](../Methodologie/02_fiche_methode/)
+
+---
+
+## 📺 Pour réviser en vidéo
+
+🎬 **[Dissolution du sel – CEA](https://www.youtube.com/watch?v=xdedxfhcpWo)** – 2 min
+*Animation montrant ce qui se passe au niveau moléculaire lors d'une dissolution.*
+
+🎬 **[Solubilité et miscibilité – Unisciel](https://www.youtube.com/watch?v=2BHlq_bWF8Q)** – 5 min
+*Explication claire de ces deux notions avec des exemples concrets.*
+
+🎬 **[Pourquoi l'huile et l'eau ne se mélangent pas ?](https://www.youtube.com/watch?v=PVL24HAesnc)** – 3 min
+*Comprendre la non-miscibilité au niveau moléculaire.*
+
+💡 **Conseil** : Si vous confondez encore "dissolution" et "fusion", regardez la première vidéo !

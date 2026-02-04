@@ -23,6 +23,21 @@ title: 01 📝 Fiche élève
 
 ---
 
+## 🧴 Pourquoi c'est important pour votre métier ?
+
+En institut ou en laboratoire cosmétique, vous serez amené(e) à :
+
+- **Conseiller un client** sur le choix d'un produit adapté à sa peau
+- **Analyser une formulation** avant de l'utiliser ou de la modifier
+- **Comprendre pourquoi** certains produits doivent être agités avant usage (biphasés)
+- **Lire une étiquette INCI** pour identifier les ingrédients clés
+
+> 💡 *Vous êtes-vous déjà demandé pourquoi un démaquillant biphasé a deux couches, alors qu'une eau micellaire est parfaitement limpide ? Cette séance vous donnera la réponse scientifique !*
+
+👉 **Cette séance vous permettra** de poser un diagnostic scientifique sur n'importe quel produit cosmétique, comme le ferait un technicien de laboratoire.
+
+---
+
 ## 🧴 Situation professionnelle
 
 Vous travaillez dans un **laboratoire de contrôle qualité cosmétique**.
@@ -259,6 +274,24 @@ Rédigez un **court paragraphe** expliquant comment analyser scientifiquement un
 
 ---
 
+## 🏆 Mes réussites aujourd'hui
+
+Avant de passer à l'auto-évaluation, prenez un moment pour reconnaître vos progrès !
+
+**Cochez ce que vous avez réussi à faire :**
+
+| Réussite | ✓ |
+|----------|---|
+| J'ai compris la différence entre corps pur et mélange | ☐ |
+| J'ai su identifier si un produit est homogène ou hétérogène | ☐ |
+| J'ai réussi à lire une liste INCI et identifier des catégories | ☐ |
+| J'ai rédigé au moins une justification avec "car" ou "en effet" | ☐ |
+| J'ai utilisé les mots "phase", "constituants", "homogène" correctement | ☐ |
+
+💡 **Chaque case cochée est une victoire !** Même 3/5, c'est un excellent début. Ces compétences seront réutilisées toute l'année.
+
+---
+
 ## ✅ Auto-évaluation
 
 
@@ -277,6 +310,7 @@ Rédigez un **court paragraphe** expliquant comment analyser scientifiquement un
 ## 🔗 Pour la suite de la progression
 
 Dans la prochaine séance, nous approfondirons la notion de **solution** :
+
 - Qu'est-ce qu'un **solvant** ? Un **soluté** ?
 - Qu'est-ce que la **dissolution** ? La **miscibilité** ?
 - Comment garantir la **stabilité** d'une solution cosmétique ?
@@ -286,3 +320,15 @@ Dans la prochaine séance, nous approfondirons la notion de **solution** :
 ## 🔧 Outil méthodologique associé
 
 ➡️ [**Fiche méthode 01 – Justifier une réponse en physique-chimie (E2)**](https://bts-mecp-physique-chimie.forge.apps.education.fr/Methodologie/01_fiche_methode/)
+
+---
+
+## 📺 Pour réviser en vidéo
+
+🎬 **[C'est pas sorcier – Les cosmétiques](https://www.youtube.com/watch?v=K2Z2IvpTxZE)** – 26 min (regarder les 10 premières minutes)
+*Découvrez les bases de la formulation cosmétique et la composition des produits.*
+
+🎬 **[Lumni – Mélanges et corps purs](https://www.lumni.fr/video/melanges-et-corps-purs)** – 3 min
+*Révision rapide des notions de corps pur, mélange homogène et hétérogène.*
+
+💡 **Conseil** : Regardez ces vidéos si vous avez besoin de revoir les notions à votre rythme, ou si vous étiez absent(e) en cours.

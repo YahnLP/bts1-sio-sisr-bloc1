@@ -172,6 +172,7 @@ Identifiez et notez les données utiles :
 #### U – Unités
 
 Vérifiez que vos unités sont correctes :
+
 - Masse en **grammes** (g) : ☐ OK
 - Volume en **litres** (L) : ☐ OK
 
@@ -210,6 +211,7 @@ Complétez la phrase d'interprétation :
 2\. La concentration du lot (_______ g/L soit _______ %) est-elle dans cet intervalle ?
 
 ☐ Oui, le lot est **conforme**
+
 ☐ Non, le lot est **non conforme**
 
 3\. **Rédigez une conclusion professionnelle** (2-3 lignes) :
@@ -350,6 +352,7 @@ $$n = \frac{m}{M} = \frac{.........}{.........} = ......... \text{ mol}$$
 Rédigez un **court paragraphe** expliquant comment vérifier qu'un produit cosmétique respecte le cahier des charges en termes de concentration.
 
 **Votre synthèse doit contenir :**
+
 - La définition de la concentration massique
 - La méthode de calcul
 - L'importance de l'interprétation du résultat

@@ -72,4 +72,4 @@ Ce premier TP de l'année met en pratique les notions de **dissolution** (S02), 
 
 ⬅️ Séance précédente : [S04 – Dilution](../04_Dilution/)
 
-➡️ Séance suivante : [S06 – E2 guidé n°1](../06_E2_guide1/)
+➡️ Séance suivante : [S06 – E2 guidé n°1](../06_Evaluation1/)

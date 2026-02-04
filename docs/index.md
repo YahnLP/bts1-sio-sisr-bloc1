@@ -160,6 +160,8 @@ En cas de problème d'accès ou de lien cassé, merci de le signaler en classe.
 
 *Formation professionnalisante orientée expertise scientifique et réussite à l'épreuve E2*
 
+<br>
+
 **✍️ Elisabeth Le Prettre**
 
 </div>

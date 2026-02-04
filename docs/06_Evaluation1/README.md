@@ -32,7 +32,8 @@ Cette première évaluation porte sur les **bases expérimentales** acquises lor
 
 ### 📋 Pour préparer l'évaluation
 
-➡️ [**Checklist E2 – Évaluation n°1**](06b_checklist_E2.pdf)
+
+➡️ [Télécharger la fiche **Checklist E2 – Évaluation n°1** (PDF)](06b_checklist_E2.pdf)
 
 > 🎯 **À utiliser :**
 > - Pour réviser (vérifier qu'on maîtrise chaque point)

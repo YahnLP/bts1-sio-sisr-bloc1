@@ -1,7 +1,7 @@
 arrange:
     - index.md
-    - Progression
-    - videos_recommandees
+    - 00_Progression
+    - 000_videos_recommandees
     - 01_Diagnostic_produit
     - 02_Solutions
     - 03_Concentration

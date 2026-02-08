@@ -92,8 +92,8 @@ $$\boxed{Z = \text{nombre de protons} = \text{nombre d'électrons (atome neutre)
 │                                                             │
 │   📌 À RETENIR :                                           │
 │                                                             │
-│   Z = nombre de protons = nombre d'électrons               │
-│   (pour un atome neutre)                                   │
+│   Z = nombre de protons = nombre d'électrons                │
+│   (pour un atome neutre)                                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -179,8 +179,8 @@ Les atomes cherchent à atteindre la **configuration électronique stable** des 
 │                                                             │
 │   📌 ASTUCE MNÉMOTECHNIQUE :                               │
 │                                                             │
-│   • CaTion contient un "T" comme le signe "+"              │
-│   • ANion commence par "AN" comme "ANégatif"               │
+│   • CaTion contient un "T" comme le signe "+"               │
+│   • ANion commence par "AN" comme "ANégatif"                │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -288,8 +288,8 @@ La **conductivité** d'une solution dépend de la présence d'**ions mobiles** :
 │                                                             │
 │   📌 LIEN MICRO ↔ MACRO :                                  │
 │                                                             │
-│   • pH bas = beaucoup d'ions H₃O⁺                          │
-│   • Conductivité élevée = beaucoup d'ions en solution      │
+│   • pH bas = beaucoup d'ions H₃O⁺                           │
+│   • Conductivité élevée = beaucoup d'ions en solution       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```

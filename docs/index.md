@@ -1,4 +1,4 @@
-# 🧪 Physique-Chimie appliquées – BTS MECP
+# 🧪 Physique-Chimie appliquée – BTS MECP
 
 **Lycée Jean Cassaigne – Mont-de-Marsan**
 
@@ -10,7 +10,7 @@ Bienvenue sur l'espace de ressources en **physique-chimie appliquée** du BTS M�
 
 ---
 
-## 🎯 Pourquoi la physique-chimie en BTS MECP ?
+### 🎯 Pourquoi la physique-chimie en BTS MECP ?
 
 La physique-chimie n'est pas qu'une matière scolaire : c'est un **outil professionnel** indispensable pour :
 
@@ -26,9 +26,9 @@ La physique-chimie n'est pas qu'une matière scolaire : c'est un **outil profess
 
 ---
 
-## 📚 Organisation du site
+### 📚 Organisation du site
 
-### 📘 Séances de cours
+#### 📘 Séances de cours
 
 29 séances progressives, de la découverte des mélanges jusqu'à la préparation complète de l'épreuve E2.
 
@@ -42,7 +42,7 @@ Chaque séance comprend :
 
 ---
 
-### 🔬 Travaux pratiques
+#### 🔬 Travaux pratiques
 
 4 TP sur l'année pour développer vos compétences expérimentales :
 
@@ -57,24 +57,16 @@ Chaque séance comprend :
 
 ---
 
-### 🧠 Méthodologie E2
+#### 🧠 Méthodologie E2
 
-6 fiches méthode pour structurer vos réponses et maximiser vos points :
+Plusieurs fiches méthode pour structurer vos réponses et maximiser vos points.
 
-| Fiche | Compétence |
-|-------|------------|
-| 01 | Justifier une réponse scientifique |
-| 02 | Calculer et interpréter une concentration |
-| 03 | Exploiter un TP à l'écrit |
-| 04 | Choisir et justifier une dilution |
-| 05 | Lire une représentation microscopique |
-| 06 | Interpréter une mesure physique |
 
 ➡️ [Accéder à la méthodologie](./Methodologie/)
 
 ---
 
-### 📺 Vidéos de révision
+#### 📺 Vidéos de révision
 
 Une sélection de vidéos courtes (2-6 min) pour réviser chaque notion à votre rythme.
 
@@ -82,7 +74,7 @@ Une sélection de vidéos courtes (2-6 min) pour réviser chaque notion à votre
 
 ---
 
-### 📅 Progression annuelle
+#### 📅 Progression annuelle
 
 La progression complète avec les compétences E2 travaillées à chaque séance.
 
@@ -90,9 +82,9 @@ La progression complète avec les compétences E2 travaillées à chaque séance
 
 ---
 
-## 🧭 Comment utiliser ce site ?
+### 🧭 Comment utiliser ce site ?
 
-### En classe
+#### En classe
 
 ```
 1. Ouvrir la fiche élève de la séance du jour
@@ -101,7 +93,7 @@ La progression complète avec les compétences E2 travaillées à chaque séance
 4. Faire l'évaluation formative
 ```
 
-### À la maison
+#### À la maison
 
 ```
 1. Relire la trace écrite
@@ -110,7 +102,7 @@ La progression complète avec les compétences E2 travaillées à chaque séance
 4. Préparer les questions pour le cours suivant
 ```
 
-### En cas d'absence
+#### En cas d'absence
 
 ```
 1. Consulter la fiche élève + trace écrite
@@ -121,7 +113,7 @@ La progression complète avec les compétences E2 travaillées à chaque séance
 
 ---
 
-## 🏆 Les clés de la réussite
+### 🏆 Les clés de la réussite
 
 | Habitude | Pourquoi c'est important |
 |----------|--------------------------|
@@ -132,16 +124,7 @@ La progression complète avec les compétences E2 travaillées à chaque séance
 
 > 📌 **Message clé** : En E2, la méthode compte autant que le résultat. Une erreur de calcul avec une bonne démarche rapporte plus de points qu'un résultat juste sans explication.
 
----
 
-## 📂 Accès rapide
-
-| Ressource | Lien |
-|-----------|------|
-| 🚀 **Commencer** | [Séance 01 – Diagnostic d'un produit cosmétique](./01_Diagnostic_produit/) |
-| 📅 **Progression** | [Voir toutes les séances](./00_Progression/progression.md) |
-| 🧠 **Méthodologie** | [Fiches méthode E2](./Methodologie/) |
-| 📺 **Vidéos** | [Réviser en vidéo](./000_videos_recommandees/videos_recommandees.md) |
 
 ---
 

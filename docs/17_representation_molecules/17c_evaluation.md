@@ -1,6 +1,6 @@
 ---
 author: ELP
-title: "17 🖋️ Évaluation formative"
+title: 17 🖋️ Évaluation formative
 ---
 
 # S17 – Représentations des molécules organiques 🖋️

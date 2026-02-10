@@ -34,132 +34,111 @@ Construire progressivement les **compétences attendues à l'épreuve E2** *(3 h
 
 ## 🔵 Étape 1 — Bases expérimentales et interprétation (S01 → S10)
 
-> **Finalité E2 :** installer les outils de base *(solutions, concentrations, pH)*, apprendre à exploiter des résultats et conclure sur une **décision qualité**.
-
-| Séance | Situation professionnelle (fil rouge) | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------------------|--------------------|:------:|------------------|
-| S01 | Diagnostic d'un produit cosmétique (lecture dossier) | Corps pur / mélanges ; phases ; lecture INCI | 🧱 | Identifier infos utiles, structurer une analyse |
-| S02 | Formuler une solution cosmétique stable | Dissolution, solubilité, miscibilité ; solution, solvant, soluté | 🧱 | Mobiliser notions pour interpréter une composition |
-| S03 | Dosage "sens" d'un actif : pertinence d'une concentration | Concentration massique (Cm), quantité de matière (n), masse molaire (M) | 🧱 | Interpréter un calcul (pas seulement calculer) |
-| S04 | Dilution en formulation : méthode et justification | Dilution, facteur de dilution, conservation de la masse de soluté | 🧱 | Argumenter un choix de méthode |
-| S05 | **TP1** : Dissolution / dilution / échelle de teinte | S02–S04 + observation couleur | 🧪 | Exploiter résultats et conclure (CQ) |
-| S06 | **Évaluation 1** | S01–S05 | ✅ | Vérifier mobilisation + communication |
-| S07 | Texture / perception : relier une mesure à une propriété | Masse volumique (ρ), densité (d) | 🧱 | Argumenter lien mesure ↔ qualité |
-| S08 | Cohérence de résultats : valider/écarter une donnée | Unités, ordres de grandeur, comparaison de séries | 🧱 | Critiquer un jeu de résultats (posture E2) |
-| S09 | pH d'un produit : tolérance, efficacité, conservation | pH, [H₃O⁺], [HO⁻], échelle pH, pH cutané | 🧱 | Interpréter une mesure dans un cahier des charges |
-| S10 | **Évaluation type E2** (guidée) | Transversal S01–S09 | ✅ | Dossier → analyse → synthèse (format entraînement) |
+| Séance | Situation professionnelle (fil rouge)                     | Notions mobilisées                                                      | Statut | **Coordination cosmétologie**                                                                                                | Justification E2                                   |
+| -----: | --------------------------------------------------------- | ----------------------------------------------------------------------- | :----: | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+|    S01 | Diagnostic d'un produit cosmétique (lecture dossier)      | Corps pur / mélanges ; phases ; lecture INCI                            |   🧱   | **COSMÉTO S01–S04** (définitions + étiquetage + composition)                                                                 | Identifier infos utiles, structurer une analyse    |
+|    S02 | Formuler une solution cosmétique stable                   | Dissolution, solubilité, miscibilité ; solution, solvant, soluté        |   🧱   | **COSMÉTO S04**, **S14** (composition + formes galéniques “solution”) ; utile en amont de **S16–S17** (écriture/formulation) | Mobiliser notions pour interpréter une composition |
+|    S03 | Dosage "sens" d'un actif : pertinence d'une concentration | Concentration massique (Cm), quantité de matière (n), masse molaire (M) |   🧱   | **COSMÉTO S04** (actifs) ; prépare l’argumentaire “dose efficace / revendication” pour **COSMÉTO S24**                       | Interpréter un calcul (pas seulement calculer)     |
+|    S04 | Dilution en formulation : méthode et justification        | Dilution, facteur de dilution, conservation de la masse de soluté       |   🧱   | **COSMÉTO S17** (TP formulation gel douche : ajustements) ; soutien “contrôles & CQ” **COSMÉTO S18**                         | Argumenter un choix de méthode                     |
+|    S05 | **TP1** : Dissolution / dilution / échelle de teinte      | S02–S04 + observation couleur                                           |   🧪   | **COSMÉTO S17–S18** (contrôles / mesures) ; utile si tu introduis un contrôle “colorimétrie simple” en qualité               | Exploiter résultats et conclure (CQ)               |
+|    S06 | **Évaluation 1**                                          | S01–S05                                                                 |    ✅   | Aligne la posture “exploiter un mini-dossier” en amont de **COSMÉTO S07** (Éval 1 type E2)                                   | Vérifier mobilisation + communication              |
+|    S07 | Texture / perception : relier une mesure à une propriété  | Masse volumique (ρ), densité (d)                                        |   🧱   | **COSMÉTO S26** (sensorialité : relier perception ↔ propriété produit) ; peut enrichir **COSMÉTO S18** (CQ : mesures)        | Argumenter lien mesure ↔ qualité                   |
+|    S08 | Cohérence de résultats : valider/écarter une donnée       | Unités, ordres de grandeur, comparaison de séries                       |   🧱   | Renforce la posture critique avant **COSMÉTO S15** et **S22** (évaluations dossier) + **COSMÉTO S25** (analyse de résultats) | Critiquer un jeu de résultats (posture E2)         |
+|    S09 | pH d'un produit : tolérance, efficacité, conservation     | pH, [H₃O⁺], [HO⁻], échelle pH, pH cutané                                |   🧱   | **COSMÉTO S12–S13** (TP savon & exploitation pH), **COSMÉTO S17** (ajustement pH gel douche)                                 | Interpréter une mesure dans un cahier des charges  |
+|    S10 | **Évaluation type E2** (guidée)                           | Transversal S01–S09                                                     |    ✅   | Calage “format dossier” en cohérence avec **COSMÉTO S07** et **COSMÉTO S15**                                                 | Dossier → analyse → synthèse (format entraînement) |
 
 ---
 
 ## 🟠 Étape 2 — Structuration du raisonnement microscopique (S11 → S13)
 
-> **Finalité E2 :** justifier des propriétés macroscopiques *(solubilité, compatibilité, stabilité, pénétration cutanée)* par des éléments microscopiques **lisibles dans un dossier**.
-
-| Séance | Situation professionnelle (fil rouge) | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------------------|--------------------|:------:|------------------|
-| S11 | Comprendre "ce qu'on mesure" en CQ | Atome (noyau, e⁻ valence) ; tableau périodique ; ions (cations/anions) ; charges usuelles ; électroneutralité ; composés ioniques | 🧱 | Mobiliser un modèle simple pour interpréter |
-| S12 | Stabilité chimique : lecture de Lewis | Gaz nobles ; Lewis (lecture) ; doublets liants/non liants ; lacune / e⁻ célibataire (radical) ; liaisons fragiles O–O / S–S ; ROS | 🧱 | Conclure stabilité/risque à partir d'une représentation |
-| S13 | Interactions et pénétration cutanée | Polarité (liaison, molécule) ; liaisons H ; interactions de Van der Waals ; lien structure ↔ solubilité ; hydrophile/lipophile | 🧱 | Expliquer solubilité/compatibilité/pénétration |
+| Séance | Situation professionnelle (fil rouge) | Notions mobilisées                                                        | Statut | **Coordination cosmétologie**                                                                                                                       | Justification E2                                        |
+| -----: | ------------------------------------- | ------------------------------------------------------------------------- | :----: | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+|    S11 | Comprendre "ce qu'on mesure" en CQ    | Atome ; tableau périodique ; ions ; électroneutralité ; composés ioniques |   🧱   | Sert de base “lecture matière” pour **COSMÉTO S18** (CQ : conductimétrie, pH, etc.) et prépare **COSMÉTO S09** (tensioactifs en solution)           | Mobiliser un modèle simple pour interpréter             |
+|    S12 | Stabilité chimique : lecture de Lewis | Gaz nobles ; Lewis ; lacune / e⁻ célibataire ; liaisons fragiles ; ROS    |   🧱   | Renforce “stabilité / sécurité” pour **COSMÉTO S05** (sécurité & responsabilités) et **COSMÉTO S19** (stabilité + conditionnement)                  | Conclure stabilité/risque à partir d'une représentation |
+|    S13 | Interactions et pénétration cutanée   | Polarité ; liaisons H ; VdW ; structure ↔ solubilité ; hydro/lipo         |   🧱   | Lien direct avec **COSMÉTO S23** (pénétration cutanée) + soutien argumentaire pour **COSMÉTO S12** (exploitation TP savon : structure ↔ propriétés) | Expliquer solubilité/compatibilité/pénétration          |
 
 ---
 
 ## 🟡 Étape 3 — Acido-basicité et titrage (S14 → S15)
 
-> **Finalité E2 :** maîtriser les outils acido-basiques pour **interpréter un dosage**, **justifier un pH cible**, et **argumenter un choix de formulation** (peeling, shampooing, crème...).
-
-| Séance | Situation professionnelle (fil rouge) | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------------------|--------------------|:------:|------------------|
-| S14 | Peeling AHA : comprendre l'action du pH et contrôler la concentration | Couple acide-base ; acide/base selon Brønsted ; réaction acide-base ; Ka, pKa, espèces amphotères,  diagramme de prédominance ; titrage acido-basique (principe) ; équivalence ; relation à l'équivalence ; **solutions tampons** (composition, rôle, choix) | 🧱 | Interpréter l'efficacité d'un actif acide selon le pH ; exploiter un titrage pour une décision qualité |
-| S15 | **TP2** : Titrage pH-métrique d'un acide cosmétique | Mise en œuvre du titrage ; courbe pH = f(V) ; détermination du point d'équivalence ; calcul et conclusion CQ | 🧪 | Réaliser, exploiter, conclure (posture E2) |
-
+| Séance | Situation professionnelle (fil rouge)                                 | Notions mobilisées                                                           | Statut | **Coordination cosmétologie**                                                                                                        | Justification E2                                                             |
+| -----: | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- | :----: | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+|    S14 | Peeling AHA : comprendre l'action du pH et contrôler la concentration | Couples acide-base ; Ka/pKa ; prédominance ; titrage ; équivalence ; tampons |   🧱   | Consolide les choix “pH / tolérance / efficacité” pour **COSMÉTO S23** (actifs) et soutient **COSMÉTO S18** (contrôles qualité : pH) | Interpréter l'efficacité d'un actif acide selon le pH ; exploiter un titrage |
+|    S15 | **TP2** : Titrage pH-métrique d'un acide cosmétique                   | Courbe pH=f(V) ; équivalence ; calcul ; conclusion CQ                        |   🧪   | Réinvestissement concret exploitable dans **COSMÉTO S18** (CQ) et dans les évaluations dossier **COSMÉTO S15 / S22 / S29**           | Réaliser, exploiter, conclure (posture E2)                                   |
 
 ---
 
 ## 🟢 Étape 4 — Consolider l'expertise (S16 → S26)
 
-> **Finalité E2 :** intégrer des notions "à forte valeur E2" *(chimie organique, variabilité, absorbance, ondes, thermique, électricité, transformations)* par le **sens professionnel**.
+### 🔥 Bloc A — Thermique / états / énergie
+
+| Séance | Situation professionnelle                     | Notions mobilisées                                                                   | Statut | **Coordination cosmétologie**                                                                                                                            | Justification E2                                                 |
+| -----: | --------------------------------------------- | ------------------------------------------------------------------------------------ | :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+|    S16 | Stockage, transport et procédé de fabrication | Diagramme d’état ; transferts thermiques ; pression ; variabilité (moyenne, σ, etc.) |   🧱   | Sert à argumenter “conditions de stockage / stabilité” pour **COSMÉTO S19** (stabilité & conditionnement) et “process qualité” pour **COSMÉTO S18** (CQ) | Lire un diagramme ; interpréter ; critiquer une série de mesures |
+
+### 🧬 Bloc B — Chimie organique
+
+| Séance | Situation professionnelle                               | Notions mobilisées                                            | Statut | **Coordination cosmétologie**                                                                                                            | Justification E2                                    |
+| -----: | ------------------------------------------------------- | ------------------------------------------------------------- | :----: | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+|    S17 | Lire une fiche technique : identifier une structure     | Représentations (brute, semi-développée, topologique)         |   🧱   | Soutien “lecture d’actifs/excipients” pour **COSMÉTO S04** (actifs) et **COSMÉTO S23** (pénétration : structure ↔ propriétés)            | Convertir ; identifier chaîne carbonée              |
+|    S18 | Deux actifs, même formule brute : lequel choisir ?      | Isomérie de constitution                                      |   🧱   | Aide à argumenter un choix d’actif dans les dossiers **COSMÉTO S15 / S22 / S29** (justification + comparaison)                           | Relier isomérie ↔ propriétés                        |
+|    S19 | INCI et groupes fonctionnels : des alcools aux peptides | Fonctions + liaisons H + lien cosmétique                      |   🧱   | Renforce **COSMÉTO S03** (INCI), **COSMÉTO S04** (familles d’ingrédients), et **COSMÉTO S23–S24** (structure ↔ efficacité / pénétration) | Reconnaître fonctions ; relier fonction ↔ propriété |
+|    S20 | **TP3** : exploitation – choix raisonné d'ingrédients   | Synthèse S12–S19 (Lewis, interactions, fonctions, solubilité) |   🧪   | Très directement exploitable pour **COSMÉTO S20** (justifier un choix galénique) et les évaluations **COSMÉTO S22 / S29**                | Exploiter docs, argumenter et décider               |
 
 ---
 
-### 🔥 Bloc A — Thermique / états / énergie *(procédé & sécurité)*
+### ⚡ Bloc C — Conductivité & CMC (TP mutualisé cosmétologie)
 
-| Séance | Situation professionnelle | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------|--------------------|:------:|--------------|
-| S16 | Stockage, transport et procédé de fabrication | Diagramme d'état (lecture et rôle de P), changements d'état ; transferts thermiques (conduction/convection/rayonnement) ; la pression; variabilité de mesure (moyenne, écart-type, histogramme, dispersion) | 🧱 | Lire un diagramme ; interpréter fusion/solidification ; critiquer la fiabilité d'une série de mesures |
+| Séance | Situation professionnelle                   | Notions mobilisées                                                         | Statut | **Coordination cosmétologie**                                                                                   | Justification E2                           |
+| -----: | ------------------------------------------- | -------------------------------------------------------------------------- | :----: | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+|    S21 | Interpréter une mesure de conductivité (CQ) | σ ; ions ; lien composition ↔ signal ; conductivité & stabilité d’émulsion |   🧱   | **COSMÉTO S08–S09** (CMC, micelles) + **COSMÉTO S18** (CQ) ; appui à **COSMÉTO S10** (analyse critique formule) | Comparer, interpréter, conclure conformité |
+|    S22 | **Évaluation type E2** (guidée)             | Transversal S01–S21 + données σ/CMC                                        |    ✅   | Se cale sur **COSMÉTO S22** (éval 3 “analyse experte”) : même posture “dossier → décision argumentée”           | Conclusion professionnelle argumentée      |
 
-### 🧬 Bloc B — Chimie organique *(lecture de formule et sens cosmétique)* 
-
-| Séance | Situation professionnelle | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------|--------------------|:------:|--------------|
-| S17 | Lire une fiche technique : identifier une structure | Représentations (brute, semi-développée, topologique) | 🧱 | Convertir d'une représentation à l'autre ; chaîne carbonée |
-| S18 | Deux actifs, même formule brute : lequel choisir ? | Isomérie de constitution (chaîne, position, fonction) | 🧱 | Identifier des isomères ; relier isomérie ↔ propriétés |
-| S19 | INCI et groupes fonctionnels : des alcools aux peptides | Fonctions oxygénées : alcool, phénol, éther-oxyde, aldéhyde, cétone, acide carboxylique, ester,  hémiacétal ; Fonctions azotées/soufrées : amine, ammonium quaternaire, amide (liaison peptidique), thiol, thioéther, peroxyde, phosphate ; liaisons H → stabilisation de structures ; lien cosmétique : peptides/ kératine / collagène| 🧱 | Reconnaître, nommer les groupes ; relier fonction ↔ propriété cosmétique |
-| S20 | **TP3** : TP exploitation – choix raisonné d'ingrédients | Synthèse S12–S19 : Lewis, interactions, fonctions, solubilité | 🧪 | Exploiter docs, argumenter et décider (E2-like) |
+> **TP mutualisé confirmé** : correspond à **COSMÉTO S09 (TP CMC)** dans ta progression cosméto.
 
 ---
 
+### 🎨 Bloc D — Ondes et spectroscopie
 
-### ⚡ Bloc C — Conductivité & CMC *(TP mutualisé cosmétologie)*
-
-| Séance | Situation professionnelle | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------|--------------------|:------:|------------------|
-| S21 | Interpréter une mesure de conductivité (CQ) | Conductivité (σ), ions en solution, lien composition ↔ signal ; application : conductivité et stabilité d’émulsion | 🧱 | Comparer des résultats, interpréter, conclure conformité / non-conformité |
-| S22 | **Évaluation type E2** (guidée) | Transversal S01–S21 + exploitation de données conductivité/CMC (TP mutualisé) | ✅ | Dossier → analyse → interprétation → **conclusion professionnelle argumentée** |
-
-> **TP4 mutualisé (COSMÉTOLOGIE, 3h)** : CMC d’un tensioactif par conductimétrie (σ=f(C), rupture de pente, micelles).  
-> **Validation PC** : réinvestissement en S21 (lecture/interprétation) et exploitation en S22 (au moins 1 item du dossier d’évaluation mobilise σ=f(C) et/ou la rupture de pente pour conclure).
+| Séance | Situation professionnelle                      | Notions mobilisées                                  | Statut | **Coordination cosmétologie**                                                                                                                                      | Justification E2                              |
+| -----: | ---------------------------------------------- | --------------------------------------------------- | :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+|    S23 | Appareils à ondes : ultrasons                  | Ondes : T,f,λ,c ; spectre acoustique                |   🧭   | Peut enrichir “culture appareils” pour **COSMÉTO S18** (contrôles / mesures) ; si tu as des soins institut, lien indirect avec **COSMÉTO S26** (sensoriel / usage) | Lire caractéristiques ; sécurité              |
+|    S24 | Lampe UV / UV-Visible : spectres et absorbance | UV/visible ; irradiance ; absorbance ; Beer-Lambert |   🧭   | Lien direct avec **COSMÉTO S25** (analyse résultats expérimentaux) et **COSMÉTO S24** (preuves d’efficacité/claim : documents instrumentaux)                       | Comparer aux références ; conclure conformité |
 
 ---
 
+### 🔌 Bloc E — Électricité + sécurité
 
-
-### 🎨 Bloc D — Ondes et spectroscopie *(UV/visible + acoustique)*
-
-> **Finalité E2 :** lire et exploiter des documents instrumentaux (spectres, courbes, valeurs de référence) pour **interpréter** une situation et **conclure** sur un choix d’appareil / un réglage / une conformité.
-
-
-| Séance | Situation professionnelle                       | Notions mobilisées                                                                                              | Statut | Justification E2                                                                        |
-| -----: | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | :----: | ----------------------------------------------------------------------------------- |
-|    S23 | Appareils à ondes : ultrasons (institut / labo) | Ondes : T, f, λ, c ; spectre acoustique                                                                         |   🧭   | λ = c/f ; audible / infrasons / ultrasons ; lecture caractéristiques ; sécurité |
-|    S24 | Lampe UV / UV-Visible : spectres et absorbance  | Ondes EM : UV-A/B/C, visible, IR ; irradiance ; absorbance/transmittance ; Beer-Lambert ; synthèse add./soustr. |   🧭   | Lecture spectre ; comparaison aux références ; A=f(C) ; conclure conformité         |
-
+| Séance | Situation professionnelle        | Notions mobilisées                              | Statut | **Coordination cosmétologie**                                                                                                                       | Justification E2                             |
+| -----: | -------------------------------- | ----------------------------------------------- | :----: | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+|    S25 | Choisir et sécuriser un appareil | U, I, P, E ; sécurité ; danger/risque ; déchets |   🧱   | Soutien “sécurité / responsabilité / conformité” pour **COSMÉTO S05** (sécurité), et “culture labo/institut” utile en dossier **COSMÉTO S22 / S29** | Choix matériel raisonné ; éco-responsabilité |
 
 ---
 
-### 🔌 Bloc E — Électricité + sécurité + éco-responsabilité *(appareils)*
+### 🧪 Bloc F — Transformations chimiques & catalyse
 
-| Séance | Situation professionnelle | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------|--------------------|:------:|--------------|
-| S25 | Choisir et sécuriser un appareil (institut/labo) | Tension (U), intensité (I), puissance (P = UI), énergie (E = Pt) ; sécurité électrique/thermique/optique/acoustique ; danger vs risque ; gestion déchets/péremption | 🧱 | Calcul P et E ; choix matériel raisonné ; éco-responsabilité |
-
----
-
-### 🧪 Bloc F — Transformations chimiques & catalyse *(stabilité produit)*
-
-| Séance | Situation professionnelle | Notions mobilisées | Statut | Justification E2 |
-|------:|----------------------------|--------------------|:------:|--------------|
-| S26 | Stabilité/dégradation : expliquer et recommander | Équation chimique ; facteurs de dégradation (T, pH, lumière, O₂) ; catalyse enzymatique ; antioxydants | 🧱 | Modéliser une transformation ; proposer actions correctives |
+| Séance | Situation professionnelle                        | Notions mobilisées                            | Statut | **Coordination cosmétologie**                                                                                                      | Justification E2                         |
+| -----: | ------------------------------------------------ | --------------------------------------------- | :----: | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+|    S26 | Stabilité/dégradation : expliquer et recommander | Équation ; facteurs ; catalyse ; antioxydants |   🧱   | Lien direct avec **COSMÉTO S19** (stabilité & conditionnement) + renforce la logique “risques / conservation” dans **COSMÉTO S05** | Modéliser ; proposer actions correctives |
 
 ---
+
 ## 🟣 Étape 5 — Préparation E2 : entraînement → évaluation complète (S27 → S28)
 
-> **Finalité E2 :** s'entraîner sur un sujet complet puis réaliser une **évaluation E2 complète**.
-
-| Séance | Format | Notions mobilisées | Statut | Justification E2 |
-|------:|--------|--------------------|:------:|------------------|
-| S27 | Entraînement E2 guidé (sujet complet) | Mobilisation transversale | 🧭 | Dossier → analyse → interprétation → argumentation (avec guidage) |
-| S28 | **Évaluation E2 complète** (type examen) | Mobilisation transversale | ✅ | Analyse + interprétation + argumentation + synthèse professionnelle |
+| Séance | Format                                   | Notions mobilisées        | Statut | **Coordination cosmétologie**                                                                             | Justification E2                                    |
+| -----: | ---------------------------------------- | ------------------------- | :----: | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+|    S27 | Entraînement E2 guidé (sujet complet)    | Mobilisation transversale |   🧭   | À aligner avec **COSMÉTO S29** (sujet blanc E2) : mêmes attendus, correction croisée possible             | Dossier → analyse → interprétation → argumentation  |
+|    S28 | **Évaluation E2 complète** (type examen) | Mobilisation transversale |    ✅   | Se cale sur **COSMÉTO S29** (conditions examen) ou en doublet avec **COSMÉTO S29** si tu veux deux sujets | Analyse + interprétation + argumentation + synthèse |
 
 ---
 
 ## 🛠️ Séances tampon (S29 → S30)
 
-> **Flexibilité calendrier :** ces séances absorbent les jours fériés et permettent une remédiation ciblée selon les besoins identifiés.
+| Séance | Format                          | Contenu possible                                                 | Statut | **Coordination cosmétologie**                                                                 |
+| -----: | ------------------------------- | ---------------------------------------------------------------- | :----: | --------------------------------------------------------------------------------------------- |
+|    S29 | Remédiation / Approfondissement | Points faibles identifiés ; approfondissement tampons/diagrammes |   🛠️  | Après **COSMÉTO S29** et/ou **COSMÉTO S30** : remédiation ciblée selon erreurs de sujet blanc |
+|    S30 | Remédiation / Révisions         | Révisions ciblées ; questions type E2 ; méthodologie             |   🛠️  | Avant/Après **COSMÉTO S30** (retour méthodo) : consolider “méthode + notions”                 |
 
-| Séance | Format | Contenu possible | Statut |
-|------:|--------|------------------|:------:|
-| S29 | Remédiation / Approfondissement | Points faibles identifiés  ; ou approfondissement tampons/diagrammes de prédominance si besoin | 🛠️ |
-| S30 | Remédiation / Révisions | Révisions ciblées ; questions type E2 ; méthodologie rédactionnelle | 🛠️ |
 
 ---
 

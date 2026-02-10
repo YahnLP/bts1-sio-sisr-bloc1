@@ -1,6 +1,6 @@
 ---
 author: ELP
-title: "11 📖 Trace écrite"
+title: 11 📖 Trace écrite
 ---
 
 # S11 – Comprendre "ce qu'on mesure" en contrôle qualité
@@ -16,15 +16,17 @@ title: "11 📖 Trace écrite"
 - **Molécule** : entité neutre formée d’atomes liés (ex : H₂O, CO₂, Cl₂)  
 - **Composé ionique** : association d’ions globalement neutre (ex : NaCl)
 
-<p align="center">
-  <img src=".\images\dichlore.png" alt="Dichlore Cl2" width="45%">
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/dichlore.png" alt="Dichlore Cl2" style="width:45%;">
   <br>
-  <img src=".\images\co2.png" alt="CO2" width="45%"><br>
+  <img src="/11_atomes_ions/images/co2.png" alt="CO2" style="width:45%;">
+  <br>
   <em>Cl<sub>2</sub> et CO<sub>2</sub> : molécules</em>
 </p>
 
-<p align="center">
-  <img src=".\images\nacl.png" alt="NaCl" width="28%"><br>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/nacl.png" alt="NaCl" style="width:28%;">
+  <br>
   <em>NaCl : composé ionique (association d’ions)</em>
 </p>
 
@@ -42,8 +44,9 @@ L'**atome** est le constituant élémentaire de la matière. Il est constitué d
 | **Neutron** | n | Nulle (0) | ≈ 1 u | Noyau |
 | **Électron** | e⁻ | Négative (−) | ≈ 0 | Autour du noyau |
 
-<p align="center">
-  <img src=".\images\carbon-atom-structure.png" alt="Carbone" width="75%"><br>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/carbon-atom-structure.png" alt="Carbone" style="width:75%;">
+  <br>
   <em>Structure de l'atome de carbone</em>
 </p>
 
@@ -98,8 +101,8 @@ $$\boxed{Z = \text{nombre de protons} = \text{nombre d'électrons (atome neutre)
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<p align="center">
-  <img src=".\images\tableau_periodique.png" alt="Tableau périodique" width="95%"><br>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/tableau_periodique.png" alt="Tableau périodique" style="width:95%;">
 </p>
 
 - **Z = nombre de protons**  

@@ -14,8 +14,8 @@ title: "11 🖋️ Évaluation formative"
 
 ---
 
-<p align="center">
-  <img src=".\images\tableau_periodique.png" alt="Tableau périodique" width="95%"><br>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/tableau_periodique.png" alt="Tableau périodique" style="width:95%;">
 </p>
 
 ## Exercice 1 – Connaissances (4 points)

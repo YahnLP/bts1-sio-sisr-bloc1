@@ -1,6 +1,6 @@
 ---
 author: ELP
-title: "11 📝 Fiche élève"
+title: 11 📝 Fiche élève
 ---
 
 # S11 – Comprendre "ce qu'on mesure" en contrôle qualité 📝
@@ -56,19 +56,18 @@ Pour lui répondre, vous devez comprendre ce que sont les **ions** et d'où ils 
 
 ### Document 0 – Exemples d’espèces chimiques (repères visuels)
 
-<p align="center">
-  <img src=".\images\dichlore.png" alt="Dichlore Cl2" width="55%"><br>
-  <em>Dichlore Cl<sub>2</sub> : exemple de molécule</em>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/dichlore.png" alt="Dichlore Cl2" style="width:45%;">
+  <br>
+  <img src="/11_atomes_ions/images/co2.png" alt="CO2" style="width:45%;">
+  <br>
+  <em>Cl<sub>2</sub> et CO<sub>2</sub> : molécules</em>
 </p>
 
-<p align="center">
-  <img src=".\images\co2.png" alt="CO2" width="55%"><br>
-  <em>Dioxyde de carbone CO<sub>2</sub> : exemple de molécule</em>
-</p>
-
-<p align="center">
-  <img src=".\images\nacl.png" alt="NaCl" width="35%"><br>
-  <em>NaCl : exemple de composé ionique (association d’ions)</em>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/nacl.png" alt="NaCl" style="width:28%;">
+  <br>
+  <em>NaCl : composé ionique (association d’ions)</em>
 </p>
 
 ---
@@ -83,8 +82,9 @@ L'**atome** est le constituant élémentaire de la matière. Il est composé de 
 | **Neutron** | n | Nulle (0) | Noyau |
 | **Électron** | e⁻ | Négative (−) | Autour du noyau |
 
-<p align="center">
-  <img src=".\images\carbon-atom-structure.png" alt="Carbone" width="75%"><br>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/carbon-atom-structure.png" alt="Carbone" style="width:75%;">
+  <br>
   <em>Structure de l'atome de carbone</em>
 </p>
 
@@ -123,9 +123,8 @@ Dans le tableau périodique, Z est indiqué pour chaque élément :
 | Chlore | Cl | 17 | 17 | 17 |
 
 
-<p align="center">
-  <img src=".\images\tableau_periodique.png" alt="Tableau périodique" width="95%"><br>
-  <em>Tableau périodique : Z (numéro atomique) + colonne (électrons de valence)</em>
+<p style="text-align:center;">
+  <img src="/11_atomes_ions/images/tableau_periodique.png" alt="Tableau périodique" style="width:95%;">
 </p>
 
 ---

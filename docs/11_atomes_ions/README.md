@@ -5,7 +5,7 @@ title: 11 – Objectifs et ressources
 
 # 11 – Objectifs et ressources
 
-Cette séance introduit la **structure de l'atome** et les **ions**, éléments fondamentaux pour comprendre ce que mesurent réellement les appareils de contrôle qualité (pH-mètre, conductimètre). Les élèves découvrent le lien entre l'échelle microscopique et les mesures macroscopiques.
+Cette séance introduit la **structure de l'atome** et les **ions**, éléments fondamentaux pour comprendre ce que mesurent réellement les appareils de contrôle qualité (pH-mètre, conductimètre). 
 
 ---
 

@@ -152,12 +152,12 @@ $$n = \frac{m}{M} \qquad \text{et} \qquad m = n \times M$$
 ┌─────────────────────────────────────────────────────────────┐
 │                    MÉTHODE D.U.C.I.                         │
 │                                                             │
-│   D - Données        → Identifier m, V, soluté, solution   │
-│   U - Unités         → Convertir en g et L                 │
-│   C - Calcul         → Formule + valeurs + résultat        │
-│   I - Interprétation → Donner du SENS au résultat          │
+│   D - Données        → Identifier m, V, soluté, solution    │
+│   U - Unités         → Convertir en g et L                  │
+│   C - Calcul         → Formule + valeurs + résultat         │
+│   I - Interprétation → Donner du SENS au résultat           │
 │                                                             │
-│   👉 Sans interprétation = réponse INCOMPLÈTE              │
+│   👉 Sans interprétation = réponse INCOMPLÈTE               │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -321,13 +321,13 @@ Pour chaque calcul de concentration, vérifie :
 │                                                             │
 │   📌 LA MÉTHODE D.U.C.I.                                    │
 │                                                             │
-│   D - Données        → Qu'est-ce que j'ai ?                │
-│   U - Unités         → Tout en g et L !                    │
-│   C - Calcul         → Formule → Valeurs → Résultat       │
-│   I - Interprétation → Qu'est-ce que ça signifie ?        │
+│   D - Données        → Qu'est-ce que j'ai ?                 │
+│   U - Unités         → Tout en g et L !                     │
+│   C - Calcul         → Formule → Valeurs → Résultat         │
+│   I - Interprétation → Qu'est-ce que ça signifie ?          │
 │                                                             │
-│   👉 Un calcul sans interprétation = réponse incomplète    │
-│   👉 La méthode compte autant que le résultat              │
+│   👉 Un calcul sans interprétation = réponse incomplète     │
+│   👉 La méthode compte autant que le résultat               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -339,7 +339,7 @@ Pour chaque calcul de concentration, vérifie :
 - [S03 – Concentration d'un actif](../03_Concentration/)
 - [S04 – Dilution en formulation](../04_Dilution/)
 - [S05 (TP1) – Dissolution, dilution, échelle de teinte](../05_TP1/)
-- [S23 – Absorbance et Beer-Lambert](../23_Absorbance/)
+- [S24 – Absorbance et Beer-Lambert](../24_absorbance/)
 - Et dans tous les exercices impliquant des calculs de concentration !
 
 ---

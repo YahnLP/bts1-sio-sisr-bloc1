@@ -89,10 +89,10 @@ Pour exploiter un TP à l'écrit, suivez toujours ces **4 étapes** :
 ┌─────────────────────────────────────────────────────────────┐
 │                    MÉTHODE O.R.I.C.                         │
 │                                                             │
-│   O - Objectif       → Pourquoi a-t-on fait ce TP ?        │
-│   R - Résultats      → Qu'a-t-on observé/mesuré/calculé ?  │
-│   I - Interprétation → Que signifient ces résultats ?      │
-│   C - Conclusion     → Quelle décision prendre ?           │
+│   O - Objectif       → Pourquoi a-t-on fait ce TP ?         │
+│   R - Résultats      → Qu'a-t-on observé/mesuré/calculé ?   │
+│   I - Interprétation → Que signifient ces résultats ?       │
+│   C - Conclusion     → Quelle décision prendre ?            │
 │                                                             │
 │   👉 Sans conclusion = réponse INCOMPLÈTE                  │
 └─────────────────────────────────────────────────────────────┘
@@ -254,13 +254,13 @@ Le produit est [conforme / non conforme] au cahier des charges.
 │                                                             │
 │   📌 LA MÉTHODE O.R.I.C.                                    │
 │                                                             │
-│   O - Objectif       → Rappeler le but du TP               │
-│   R - Résultats      → Présenter les valeurs obtenues      │
-│   I - Interprétation → Expliquer ce que ça signifie        │
-│   C - Conclusion     → Répondre à l'objectif               │
+│   O - Objectif       → Rappeler le but du TP                │
+│   R - Résultats      → Présenter les valeurs obtenues       │
+│   I - Interprétation → Expliquer ce que ça signifie         │
+│   C - Conclusion     → Répondre à l'objectif                │
 │                                                             │
-│   👉 Un TP sans exploitation écrite = travail incomplet    │
-│   👉 En E2, on évalue une EXPERTISE, pas une manipulation  │
+│   👉 Un TP sans exploitation écrite = travail incomplet     │
+│   👉 En E2, on évalue une EXPERTISE, pas une manipulation   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -270,8 +270,8 @@ Le produit est [conforme / non conforme] au cahier des charges.
 ## 🔗 Cette fiche est utilisée dans les séances suivantes
 
 - [S05 (TP1) – Dissolution, dilution, échelle de teinte](../05_TP1/)
-- [S10 (TP2) – pH-métrie](../10_TP2/)
-- [S21 (TP3) – Dossier moléculaire](../21_TP3/)
-- [S23 (TP4) – CMC par conductimétrie](../23_TP4/)
-- [S25 – Absorbance, spectres UV, Beer-Lambert](../25_Spectres/) (exploitation documentaire)
+- [S10 (TP2) – pH-métrie](../15_TP2/)
+- [S21 (TP3) – Dossier moléculaire](../20_TP3_lewis/)
+- TP4 – CMC par conductimétrie
+- [S24 – Absorbance, spectres UV, Beer-Lambert](../25_absorbance/) (exploitation documentaire)
 - Et dans toutes les exploitations de résultats expérimentaux à l'E2 !

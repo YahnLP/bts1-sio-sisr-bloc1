@@ -13,7 +13,7 @@ Cette troisième évaluation est la première **épreuve transversale type E2** 
 | S01 | Corps pur, mélanges, lecture INCI |
 | S02 | Solutions, dissolution, solubilité, miscibilité |
 | S03 | Concentration massique (Cm = m/V) |
-| S04 | Dilution (Ci × Vi = Cf × Vf) |
+| S04 | Dilution (Cm × Vm = Cf × Vf) |
 | S05 | Exploitation de TP (échelle de teinte) |
 | S06 | Évaluation n°1 (révision) |
 | S07 | Masse volumique et densité |

@@ -124,10 +124,10 @@ Si les deux calculs de F donnent le même résultat → calcul correct ✓
 ┌─────────────────────────────────────────────────────────────┐
 │                    MÉTHODE P.C.V.P.                         │
 │                                                             │
-│   P - Paramètres  → Identifier Cm, Cf, Vf, Vm = ?          │
-│   C - Calcul      → Vm = (Cf × Vf) / Cm + vérifier par F   │
-│   V - Verrerie    → Choisir pipette adaptée + justifier    │
-│   P - Protocole   → Rédiger les étapes + conclure          │
+│   P - Paramètres  → Identifier Cm, Cf, Vf, Vm = ?           │
+│   C - Calcul      → Vm = (Cf × Vf) / Cm + vérifier par F    │
+│   V - Verrerie    → Choisir pipette adaptée + justifier     │
+│   P - Protocole   → Rédiger les étapes + conclure           │
 │                                                             │
 │   👉 Sans justification de la verrerie = points perdus !   │
 └─────────────────────────────────────────────────────────────┘
@@ -354,14 +354,14 @@ Pour chaque exercice de dilution, vérifie :
 │                                                             │
 │   📌 LA MÉTHODE P.C.V.P.                                    │
 │                                                             │
-│   P - Paramètres  → Cm, Cf, Vf, Vm = ?                     │
-│   C - Calcul      → Vm = (Cf × Vf) / Cm + vérifier par F   │
-│   V - Verrerie    → Pipette jaugée adaptée + justification │
-│   P - Protocole   → 6 étapes + conclusion                  │
+│   P - Paramètres  → Cm, Cf, Vf, Vm = ?                      │
+│   C - Calcul      → Vm = (Cf × Vf) / Cm + vérifier par F    │
+│   V - Verrerie    → Pipette jaugée adaptée + justification  │
+│   P - Protocole   → 6 étapes + conclusion                   │
 │                                                             │
-│   👉 Une dilution = une DÉCISION TECHNIQUE                 │
-│   👉 Toujours JUSTIFIER le choix de verrerie               │
-│   👉 Toujours VÉRIFIER par le facteur de dilution          │
+│   👉 Une dilution = une DÉCISION TECHNIQUE                  │
+│   👉 Toujours JUSTIFIER le choix de verrerie                │
+│   👉 Toujours VÉRIFIER par le facteur de dilution           │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -372,6 +372,6 @@ Pour chaque exercice de dilution, vérifie :
 
 - [S04 – Dilution en formulation](../04_Dilution/)
 - [S05 (TP1) – Dissolution, dilution, échelle de teinte](../05_TP1/)
-- [S23 (TP4) – CMC par conductimétrie](../23_TP4/) (préparation des solutions de tensioactif)
-- [S25 – Absorbance et spectres](../25_Spectres/) (exploitation de gamme étalon sur documents)
+- TP4 – CMC par conductimétrie (préparation des solutions de tensioactif)
+- [S25 – Absorbance et spectres](../24_absorbance/) (exploitation de gamme étalon sur documents)
 - Et dans tous les exercices de préparation de solutions à l'E2 !

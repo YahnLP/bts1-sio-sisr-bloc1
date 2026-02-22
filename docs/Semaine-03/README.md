@@ -22,11 +22,3 @@
 ### 🔧 Fiche méthode associée
 
 
-
----
-
-## 🔗 Navigation
-
-⬅️ Séance précédente : 
-
-➡️ Séance suivante : 

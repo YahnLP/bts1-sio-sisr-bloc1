@@ -1,1 +1,7 @@
-arrange:
+nav:
+  - Accueil: index.md
+  - phase-1-poste-patrimoine
+  - phase-2-support-services
+  - phase-3-maintenir-evoluer
+  - phase-4-projet-epreuve
+  - ressources

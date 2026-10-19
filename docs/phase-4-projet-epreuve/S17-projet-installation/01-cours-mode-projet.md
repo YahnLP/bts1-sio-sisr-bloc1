@@ -65,17 +65,23 @@ Dans une équipe de trois, on attribue des **rôles** qui **tournent** d'un jalo
 
 Un **jalon** est un point de contrôle : « à la fin de la première heure, GLPI et OCS sont installés ». Le jalon rend l'avancement **vérifiable** et permet de réagir tôt.
 
-```mermaid
-gantt
-    dateFormat HH:mm
-    axisFormat %H:%M
-    section Équipe
-    Installer GLPI            :t1, 00:30, 45m
-    Installer OCS             :t2, 00:30, 45m
-    Synchroniser              :t3, after t1 t2, 30m
-    Créer le catalogue        :t4, after t3, 45m
-    Point d'étape (jalon)     :milestone, after t4, 0m
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 745 270" style="max-width:745px" role="img" aria-label="Diagramme de Gantt" xmlns="http://www.w3.org/2000/svg">
+<line class="seq-life" x1="185" y1="34" x2="185" y2="258"/><text x="185" y="24" text-anchor="middle" class="gt-axis">00:30</text>
+<line class="seq-life" x1="320" y1="34" x2="320" y2="258"/><text x="320" y="24" text-anchor="middle" class="gt-axis">01:00</text>
+<line class="seq-life" x1="455" y1="34" x2="455" y2="258"/><text x="455" y="24" text-anchor="middle" class="gt-axis">01:30</text>
+<line class="seq-life" x1="590" y1="34" x2="590" y2="258"/><text x="590" y="24" text-anchor="middle" class="gt-axis">02:00</text>
+<line class="seq-life" x1="725" y1="34" x2="725" y2="258"/><text x="725" y="24" text-anchor="middle" class="gt-axis">02:30</text>
+<text x="173.4" y="72" text-anchor="end">Installer GLPI</text>
+<rect class="gt-bar" x="185" y="54" width="202" height="28" rx="6"/><text x="287" y="73" text-anchor="middle" class="gt-dur">45 min</text>
+<text x="173.4" y="112" text-anchor="end">Installer OCS</text>
+<rect class="gt-bar" x="185" y="94" width="202" height="28" rx="6"/><text x="287" y="113" text-anchor="middle" class="gt-dur">45 min</text>
+<text x="173.4" y="152" text-anchor="end">Synchroniser</text>
+<rect class="gt-bar" x="388" y="134" width="135" height="28" rx="6"/><text x="455" y="153" text-anchor="middle" class="gt-dur">30 min</text>
+<text x="173.4" y="192" text-anchor="end">Créer le catalogue</text>
+<rect class="gt-bar" x="523" y="174" width="202" height="28" rx="6"/><text x="624" y="193" text-anchor="middle" class="gt-dur">45 min</text>
+<text x="173.4" y="232" text-anchor="end">Point d'étape (jalon)</text>
+<polygon class="gt-ms" points="725,214 739,228 725,242 711,228"/>
+</svg></figure>
 
 ## 5. Suivre, rendre compte, tirer le bilan
 

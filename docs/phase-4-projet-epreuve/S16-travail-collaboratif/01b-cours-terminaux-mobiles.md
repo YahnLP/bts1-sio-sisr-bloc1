@@ -39,13 +39,42 @@ Un téléphone ou une tablette professionnelle **contient** la messagerie, les c
 
 Une solution de **MDM** (*mobile device management*) permet de **gérer des appareils à distance** depuis une console.
 
-```mermaid
-flowchart LR
-    C["Console d'administration"] -- "politiques, applications" --> T1["Téléphone 1"]
-    C --> T2["Tablette 2"]
-    T1 -- "état, conformité" --> C
-    T2 --> C
-```
+<figure class="graphe diagramme">
+<svg viewBox="0.00 0.00 587.60 173.60" style="max-width:784px" role="img" aria-label="Schéma" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" transform="scale(1 1) rotate(0) translate(10.8 162.8)">
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M213,-80C213,-80 12,-80 12,-80 6,-80 0,-74 0,-68 0,-68 0,-55 0,-55 0,-49 6,-43 12,-43 12,-43 213,-43 213,-43 219,-43 225,-49 225,-55 225,-55 225,-68 225,-68 225,-74 219,-80 213,-80"/>
+<text text-anchor="start" x="19" y="-58" font-family="Helvetica,sans-Serif" font-size="15.00">Console d&#39;administration</text>
+</g>
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M554,-152C554,-152 449,-152 449,-152 443,-152 437,-146 437,-140 437,-140 437,-127 437,-127 437,-121 443,-115 449,-115 449,-115 554,-115 554,-115 560,-115 566,-121 566,-127 566,-127 566,-140 566,-140 566,-146 560,-152 554,-152"/>
+<text text-anchor="start" x="456" y="-130" font-family="Helvetica,sans-Serif" font-size="15.00">Téléphone 1</text>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="1.8" d="M149.08,-80.1C176.85,-93.64 216.82,-111.03 254,-119.5 311.44,-132.59 378.26,-135.66 427.82,-135.7"/>
+<polygon fill="black" stroke="black" stroke-width="1.8" points="427.88,-138.85 436.87,-135.67 427.86,-132.55 427.88,-138.85"/>
+<text text-anchor="start" x="254" y="-138.1" font-family="Helvetica,sans-Serif" font-size="13.00">politiques, applications</text>
+</g>
+<g class="node n&#45;rect">
+<path fill="none" stroke="black" stroke-width="1.8" d="M546,-37C546,-37 457,-37 457,-37 451,-37 445,-31 445,-25 445,-25 445,-12 445,-12 445,-6 451,0 457,0 457,0 546,0 546,0 552,0 558,-6 558,-12 558,-12 558,-25 558,-25 558,-31 552,-37 546,-37"/>
+<text text-anchor="start" x="464" y="-15" font-family="Helvetica,sans-Serif" font-size="15.00">Tablette 2</text>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="1.8" d="M176.97,-43C248.29,-30.38 363.46,-17.54 435.42,-14.17"/>
+<polygon fill="black" stroke="black" stroke-width="1.8" points="435.99,-17.3 444.85,-13.78 435.72,-11.01 435.99,-17.3"/>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="1.8" d="M454.5,-114.93C439.83,-109.6 423.41,-104.23 408,-100.5 351.72,-86.9 288.18,-77.72 234.55,-71.71"/>
+<polygon fill="black" stroke="black" stroke-width="1.8" points="234.64,-68.55 225.35,-70.7 233.95,-74.82 234.64,-68.55"/>
+<text text-anchor="start" x="276.5" y="-104.1" font-family="Helvetica,sans-Serif" font-size="13.00">état, conformité</text>
+</g>
+<g class="edge">
+<path fill="none" stroke="black" stroke-width="1.8" d="M444.86,-35.59C390.17,-45.73 304.9,-56.24 234.56,-62.07"/>
+<polygon fill="black" stroke="black" stroke-width="1.8" points="233.89,-58.97 225.18,-62.83 234.4,-65.25 233.89,-58.97"/>
+</g>
+</g>
+</svg>
+</figure>
 
 | Fonction | Ce que cela permet |
 |---|---|

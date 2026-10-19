@@ -1,6 +1,6 @@
 # Bloc 1 · Support – BTS SIO 1re année
 
-Cours, TP et aide-mémoire du **bloc 1 (support et mise à disposition de services informatiques)** du BTS SIO option SISR, 1re année : **19 séances de 4 h** pour 19 semaines d'alternance réparties sur l'année. Auteur : Yahn LE PRETTRE - Formateur – licence CC BY-NC-SA 4.0.
+Cours, TP et aide-mémoire du **bloc 1 (support et mise à disposition de services informatiques)** du BTS SIO option SISR, 1re année : **19 séances de 4 h** pour 19 semaines d'alternance réparties sur l'année. Auteur : Yahn LE PRETTRE - Formateur – licence CC BY-NC-SA 4.0. Utilisation dans une formation payante ou financée (CFA, OPCO) : accord préalable de l'auteur, voir `docs/ressources/licences.md`.
 
 **Site (GitHub Pages) :** <https://yahnlp.github.io/bts1-sio-sisr-bloc1/>
 

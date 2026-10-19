@@ -31,7 +31,7 @@
 | [TP – Sauvegarder, versionner et restaurer une configuration](02-tp.md) | TP |
 | [Aide-mémoire – Configurations et sauvegarde](03-aide-memoire.md) | Aide-mémoire |
 | [Annexe – Modèle de journal des modifications](annexe-changelog.md) | Annexe |
-| [Annexe – Script de sauvegarde automatique (exemple Bash)](annexe-script-sauvegarde.md) | Annexe |
+| [Annexe – Scripts de sauvegarde automatique (Bash)](annexe-script-sauvegarde.md) | Annexe |
 
 ## Déroulé conseillé (4 h)
 

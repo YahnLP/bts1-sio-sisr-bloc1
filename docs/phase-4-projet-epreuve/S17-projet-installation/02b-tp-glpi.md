@@ -71,12 +71,20 @@ sudo nano /etc/apache2/sites-available/glpi.conf
         Options FollowSymLinks
         AllowOverride All
         Require all granted
+        RewriteEngine On
+        RewriteCond %{HTTP:Authorization} ^(.+)$
+        RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteRule ^(.*)$ index.php [QSA,L]
     </Directory>
 
     ErrorLog ${APACHE_LOG_DIR}/glpi_error.log
     CustomLog ${APACHE_LOG_DIR}/glpi_access.log combined
 </VirtualHost>
 ```
+
+> [!NOTE]
+> Avec GLPI 10, le dossier `public` ne contient pas de fichier `.htaccess` : les lignes `RewriteRule` ci-dessus sont **indispensables**. Sans elles, toutes les pages répondent « 404 Not Found ».
 
 **Activer :**
 

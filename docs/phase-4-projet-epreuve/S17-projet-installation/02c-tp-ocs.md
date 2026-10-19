@@ -10,7 +10,7 @@ Installer OCS Inventory Server, déployer l'agent sur un client, synchroniser av
 
 ```bash
 # Installer les dépendances
-sudo apt install make gcc perl libxml-simple-perl libcompress-zlib-perl libdbi-perl libdbd-mysql-perl libnet-ip-perl libsoap-lite-perl libapache-dbi-perl libapache2-mod-perl2 libio-compress-perl -y
+sudo apt install make gcc perl libxml-simple-perl libcompress-zlib-perl libdbi-perl libdbd-mysql-perl libnet-ip-perl libsoap-lite-perl libapache-dbi-perl libapache2-mod-perl2 libio-compress-perl libarchive-zip-perl libswitch-perl -y
 
 # Télécharger OCS
 cd /tmp
@@ -32,13 +32,15 @@ Apache group [www-data] → Entrée
 
 Do you wish to setup Communication server on this computer [y/n] → y
 Do you wish to setup Administration server on this computer [y/n] → y
+Do you wish to setup Rest API server on this computer [y/n] → n   (inutile ici ; avec y, il manque des modules Perl)
 
 MySQL root password → MySQL2024!
 ```
 
-**Relancer Apache :**
+**Activer la configuration du serveur de communication, puis relancer Apache :**
 
 ```bash
+sudo a2enconf z-ocsinventory-server
 sudo systemctl restart apache2
 ```
 

@@ -12,5 +12,5 @@ Convention de nommage : `Sxx-corrige.md` (exemple : `S06-corrige.md`).
 |---|---|---|
 | 1 | S01 à S05 | **disponibles** |
 | 2 | S06 à S10 | **disponibles** |
-| 3 | S11 à S15 | à venir |
+| 3 | S11 à S15 | **disponibles** |
 | 4 | S16 à S19 | à venir |

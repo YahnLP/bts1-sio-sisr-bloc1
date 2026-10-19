@@ -38,7 +38,7 @@ EOF
 
 echo "=== [5/6] Téléchargement et décompression de GLPI ==="
 cd /var/www/html
-GLPI_VERSION="10.0.15"
+GLPI_VERSION="10.0.12"
 wget -q "https://github.com/glpi-project/glpi/releases/download/${GLPI_VERSION}/glpi-${GLPI_VERSION}.tgz"
 tar -xzf "glpi-${GLPI_VERSION}.tgz"
 rm "glpi-${GLPI_VERSION}.tgz"

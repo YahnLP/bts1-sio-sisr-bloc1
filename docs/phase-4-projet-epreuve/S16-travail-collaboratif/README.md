@@ -30,6 +30,7 @@
 | [Cours – Les terminaux mobiles en entreprise](01b-cours-terminaux-mobiles.md) | Cours (suite) |
 | [TP – Installer DokuWiki et structurer un wiki d'équipe](02-tp.md) | TP |
 | [TP – Découvrir Git](02b-tp-git.md) | TP (suite) |
+| [TP – Gérer des terminaux mobiles](02c-tp-terminaux-mobiles.md) | TP (suite, sans installation, 45 min) |
 | [Aide-mémoire – Collaboration, Git et mobiles](03-aide-memoire.md) | Aide-mémoire |
 | [Annexe – Aide-mémoire Git](annexe-aide-memoire-git.md) | Annexe |
 | [Annexe – Modèle de structure d'un wiki informatique](annexe-structure-wiki.md) | Annexe |
@@ -57,6 +58,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
 - **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
-- La partie « terminaux mobiles » est ajoutée par la refonte (annexe II.E : terminal mobile) : cours sans TP technique, à compléter par une démonstration si un outil est disponible.
+- La partie « terminaux mobiles » est ajoutée par la refonte (annexe II.E : terminal mobile) : le TP associé (`02c`) ne demande aucune installation ; il peut se faire en travail personnel si le temps manque, et se compléter par une démonstration si une console de gestion de flotte est disponible.
 
 </details>

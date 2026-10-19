@@ -1,6 +1,6 @@
 # Corrigé – S16 : Travail collaboratif (wiki, Git, terminaux mobiles)
 
-*Réservé à l'enseignant. **Testé** : la partie Git. **Non testé** : l'installation de DokuWiki (le site de téléchargement n'est pas joignable depuis l'environnement de rédaction) ; seule la logique de la configuration Apache est relue. La partie « terminaux mobiles » est un cours sans TP.*
+*Réservé à l'enseignant. **Testé** : la partie Git. **Non testé** : l'installation de DokuWiki (le site de téléchargement n'est pas joignable depuis l'environnement de rédaction) ; seule la logique de la configuration Apache est relue. Le TP « terminaux mobiles » (`02c`) ne demande aucune installation.*
 
 ## TP 1 – DokuWiki
 
@@ -56,7 +56,30 @@ Question de contrôle du cours (perte d'un téléphone personnel recevant la mes
 2. L'entreprise peut **verrouiller** ou **effacer la partie professionnelle** si l'appareil est géré, **réinitialiser** les mots de passe et **révoquer les sessions**.
 3. En BYOD, l'entreprise **ne peut pas** effacer les données personnelles sans cadre écrit.
 
-Aucune manipulation n'est demandée. Si une console de gestion de flotte est disponible, une démonstration d'inscription d'un appareil et d'application d'une politique complète utilement la séance.
+Voir le corrigé du TP `02c` ci-dessous. Si une console de gestion de flotte est disponible, une démonstration d'inscription d'un appareil et d'application d'une politique complète utilement la séance.
+
+## TP – Terminaux mobiles (`02c`)
+
+*Non testé en séance : TP sans installation, corrigé de la partie 1 vérifié par relecture du tableau.*
+
+**Partie 1.**
+
+| ID | Règles non respectées | Conforme ? |
+|---|---|---|
+| M01 | aucune | oui |
+| M02 | R3 (Android 11 < 13) | non |
+| M03 | aucune | oui |
+| M04 | R1 (pas de code) | non |
+| M05 | R3 (iOS 16 < 17) | non |
+| M06 | R2 (non chiffré) et R4 (application hors magasin) | non |
+
+2 appareils conformes sur 6 ; les 3 BYOD (M04, M05, M06) ont tous au moins un écart. Actions : M02 et M05 mettre à jour (ou remplacer si le modèle n'est plus pris en charge) ; M04 activer le code ; M06 activer le chiffrement et désinstaller l'application hors magasin. En BYOD, l'entreprise **exige** ces règles comme **condition d'accès** à la messagerie professionnelle, mais **ne peut pas** imposer de changements sur la partie personnelle ni lire les données personnelles : l'utilisateur est **invité** à se mettre en conformité et l'accès peut être suspendu à défaut.
+
+**Partie 2.** Réponses personnelles : vérifier que la fiche indique le menu utilisé et ne contient aucune donnée personnelle.
+
+**Partie 3.** Ticket : titre « Perte d'un téléphone personnel avec messagerie professionnelle », urgence **haute**, catégorie sécurité/mobile ; chronologie : (1) utilisatrice prévient le support ; (2) support ouvre le ticket prioritaire ; (3) réinitialisation du mot de passe de la messagerie et révocation des sessions ; (4) verrouillage ou effacement de la partie professionnelle si l'appareil est géré ; (5) utilisatrice tente de localiser et de verrouiller son appareil, puis déclare la perte à son opérateur ; (6) évaluation de la fuite de données. Le responsable de la protection des données est alerté si des **données personnelles** (clients, salariés) étaient accessibles sur l'appareil.
+
+**Partie 4.** Exemples de règles : code obligatoire ; mises à jour installées ; applications du magasin officiel seulement ; déclaration immédiate de toute perte ; l'entreprise peut effacer **uniquement** la partie professionnelle et ne consulte pas les données personnelles.
 
 ## Pièges fréquents
 

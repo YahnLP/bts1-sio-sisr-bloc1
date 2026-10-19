@@ -16,7 +16,7 @@
 - **OCS, console web** : dans mon test, `/ocsreports/` renvoyait un **403 vide** après installation. Je n'en ai pas trouvé la cause (la version 2.12.1 émet aussi des avertissements de fonctions dépréciées avec PHP 8.3). À **essayer avant la séance** sur la machine de TP ; ne pas considérer l'étape comme validée.
 - **XML::Entities** : un avertissement du serveur de communication signale ce module absent (paquet non disponible sur Ubuntu 24.04). Sans effet constaté sur le démarrage d'Apache.
 - **Plugin OCS pour GLPI** : l'étape de synchronisation dépend d'un plugin à télécharger sur le site des plugins ; sa compatibilité avec la version de GLPI est à **vérifier avant la séance**.
-- **Version de GLPI** : le TP fixe 10.0.12 ; le script de l'annexe de S06 utilise 10.0.15. Harmoniser si possible.
+- **Version de GLPI** : harmonisée sur 10.0.12 (version testée) dans le TP de S17, le TP de S18 et l'annexe de S06.
 - **Mots de passe** (`MySQL2024!`, `GlpiPass2024!`, `AdminGlpi2024!`, `AdminOCS2024!`) : identifiants de laboratoire. Les comptes par défaut `glpi/glpi` et `admin/admin` doivent être **changés dès la première connexion** (le TP le demande).
 
 ## Constats à valider pendant le projet (GLPI testé)

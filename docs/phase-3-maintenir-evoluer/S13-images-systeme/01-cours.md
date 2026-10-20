@@ -234,15 +234,15 @@ apt-get clean
       • Déploiement automatique avec fichier de réponses (unattend.xml)
 
    Avantages :
-   ✅ Déploiement sans intervention (zero-touch)
-   ✅ Injection automatique de pilotes selon modèle matériel
-   ✅ Intégration domaine automatique
-   ✅ Post-configuration via scripts PowerShell
+   OK : Déploiement sans intervention (zero-touch)
+   OK : Injection automatique de pilotes selon modèle matériel
+   OK : Intégration domaine automatique
+   OK : Post-configuration via scripts PowerShell
 
    Inconvénients :
-   ❌ Infrastructure complexe (AD + DHCP + WDS)
-   ❌ Windows uniquement
-   ❌ Courbe d'apprentissage élevée
+   KO : Infrastructure complexe (AD + DHCP + WDS)
+   KO : Windows uniquement
+   KO : Courbe d'apprentissage élevée
 ```
 
 ## 4. Workflow de Déploiement avec Clonezilla
@@ -320,7 +320,7 @@ Clonezilla s'utilise via une interface texte en mode menu, mais voici les choix 
    → restoredisk (restaurer le disque entier)
    → Sélectionner l'image : Win11-Office-2024-11-20
    → Disque cible : sda (disque à écraser)
-   → ⚠️ ATTENTION : toutes les données du disque cible seront perdues
+   → ATTENTION : toutes les données du disque cible seront perdues
    → Confirmer et lancer
 ```
 

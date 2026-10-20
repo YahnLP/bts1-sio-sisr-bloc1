@@ -49,7 +49,7 @@ sudo systemctl restart apache2
 - Identifiant : `admin`
 - Mot de passe : `admin`
 
-**⚠ Changer le mot de passe :**
+****Attention :** Changer le mot de passe :**
 - Configuration → Users → admin → Password : `AdminOCS2024!`
 
 ## ÉTAPE 2 — Déployer Agent OCS sur Client Windows (10 min)

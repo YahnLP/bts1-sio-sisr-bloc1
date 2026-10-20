@@ -83,7 +83,7 @@ declare -A EQUIPEMENTS=(
 
 # Identifiants (À SÉCURISER — utiliser vault ou clé SSH)
 USERNAME="admin"
-PASSWORD="password"  # ⚠️ NE PAS stocker en clair en production
+PASSWORD="password"  # NE PAS stocker en clair en production
 
 # ─── Fonction de sauvegarde ───
 backup_device() {
@@ -115,9 +115,9 @@ EOF
     
     # Vérifier que le fichier a été créé
     if [ -f "$FILENAME" ]; then
-        echo "[$(date)] ✅ ${NAME} sauvegardé : ${FILENAME}" | tee -a "$LOG_FILE"
+        echo "[$(date)] [OK] ${NAME} sauvegardé : ${FILENAME}" | tee -a "$LOG_FILE"
     else
-        echo "[$(date)] ❌ Erreur sauvegarde ${NAME}" | tee -a "$LOG_FILE"
+        echo "[$(date)] [ERREUR] Erreur sauvegarde ${NAME}" | tee -a "$LOG_FILE"
     fi
 }
 

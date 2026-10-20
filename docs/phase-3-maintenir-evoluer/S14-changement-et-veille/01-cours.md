@@ -28,17 +28,17 @@ En ITIL 4, un **changement** est défini comme :
 ```
    EXEMPLES DE CHANGEMENTS
    ─────────────────────────────────────────────────────────────
-   ✅ Ajout d'un serveur
-   ✅ Mise à jour OS (Windows Server 2019 → 2022)
-   ✅ Modification firewall (nouvelle règle)
-   ✅ Ajout d'un VLAN
-   ✅ Migration application vers le cloud
+   OK : Ajout d'un serveur
+   OK : Mise à jour OS (Windows Server 2019 → 2022)
+   OK : Modification firewall (nouvelle règle)
+   OK : Ajout d'un VLAN
+   OK : Migration application vers le cloud
 
-   ❌ PAS DES CHANGEMENTS
+   KO : PAS DES CHANGEMENTS
    ─────────────────────────────────────────────────────────────
-   ❌ Réinitialisation mot de passe (demande standard)
-   ❌ Remplacement disque défaillant à l'identique (incident)
-   ❌ Redémarrage service bloqué (incident)
+   KO : Réinitialisation mot de passe (demande standard)
+   KO : Remplacement disque défaillant à l'identique (incident)
+   KO : Redémarrage service bloqué (incident)
 ```
 
 ### 1.2 Changement vs Incident vs Demande

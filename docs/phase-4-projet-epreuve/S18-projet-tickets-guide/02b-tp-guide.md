@@ -107,7 +107,7 @@ Mot de passe : Votre mot de passe Windows habituel
 
 [INSÉRER CAPTURE 1 : Page d'accueil GLPI]
 
-💡 Conseil : Ajoutez cette page à vos favoris pour y accéder
+Conseil : Ajoutez cette page à vos favoris pour y accéder
              rapidement.
 ```
 
@@ -167,7 +167,7 @@ Dans la barre d'adresse, tapez : http://glpi.local
 
 [CAPTURE 2 ANNOTÉE : Formulaire connexion avec encadrés rouges]
 
-⚠️ Attention : Respectez les majuscules et minuscules.
+**Attention :** Attention : Respectez les majuscules et minuscules.
 
 ─────────────────────────────────────────────────────────────
 ÉTAPE 4 : Cliquer sur "Connexion"

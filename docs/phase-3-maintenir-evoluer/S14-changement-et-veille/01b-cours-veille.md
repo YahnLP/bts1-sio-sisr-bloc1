@@ -76,21 +76,21 @@
 ### 2.3 Détecter les Sources Fiables
 
 ```
-   ✅ SOURCE FIABLE
+   OK : SOURCE FIABLE
    ──────────────────────────────────────────────────────────────
-   ✅ Auteur identifié
-   ✅ Sources citées
-   ✅ Date récente (< 1 an)
-   ✅ Pas de sensationnalisme
-   ✅ Cohérence technique
+   OK : Auteur identifié
+   OK : Sources citées
+   OK : Date récente (< 1 an)
+   OK : Pas de sensationnalisme
+   OK : Cohérence technique
 
-   ❌ SOURCE NON FIABLE
+   KO : SOURCE NON FIABLE
    ──────────────────────────────────────────────────────────────
-   ❌ Auteur anonyme
-   ❌ Clickbait ("Ce hack CHOQUANT...")
-   ❌ Aucune source
-   ❌ Date ancienne
-   ❌ Erreurs techniques
+   KO : Auteur anonyme
+   KO : Clickbait ("Ce hack CHOQUANT...")
+   KO : Aucune source
+   KO : Date ancienne
+   KO : Erreurs techniques
 ```
 
 ## 3. Outils de Veille
@@ -104,11 +104,11 @@
 ```
    AVANTAGES
    ──────────────────────────────────────────────────────────────
-   ✅ Gratuit
-   ✅ Centralise 100+ sources
-   ✅ Lecture rapide (5 min)
-   ✅ Sauvegarde articles
-   ✅ Catégorisation par thème
+   OK : Gratuit
+   OK : Centralise 100+ sources
+   OK : Lecture rapide (5 min)
+   OK : Sauvegarde articles
+   OK : Catégorisation par thème
 
    CONFIGURATION
    ──────────────────────────────────────────────────────────────

@@ -32,7 +32,7 @@
 ║                                                                      ║
 ║  3. RÉSULTATS DES TESTS DE RECETTE                                   ║
 ║  ─────────────────────────────────────────────────────────────────  ║
-║  N° │ Description du test        │ Résultat attendu │ Résultat │ ✅❌ ║
+║  N° │ Description du test        │ Résultat attendu │ Résultat │ OK : KO : ║
 ║  ────┼───────────────────────────┼──────────────────┼──────────┼──── ║
 ║   1  │                           │                  │          │     ║
 ║   2  │                           │                  │          │     ║

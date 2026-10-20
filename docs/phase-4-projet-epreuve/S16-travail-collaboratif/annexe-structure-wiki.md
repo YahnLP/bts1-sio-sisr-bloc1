@@ -8,10 +8,10 @@
 WIKI TECHNIQUE IT — STRUCTURE TYPE
 ═══════════════════════════════════════════════════════════════
 
-📁 Accueil
+Accueil
    └─ Page d'accueil avec navigation principale
 
-📁 Serveurs
+Serveurs
    ├─ Accueil (tableau récapitulatif des serveurs)
    ├─ Serveur Web
    ├─ Serveur Base de Données
@@ -19,14 +19,14 @@ WIKI TECHNIQUE IT — STRUCTURE TYPE
    ├─ Serveur Active Directory
    └─ Serveur DHCP/DNS
 
-📁 Réseau
+Réseau
    ├─ Architecture Réseau (schémas, plan d'adressage)
    ├─ Configuration Switches
    ├─ Configuration Firewall
    ├─ VLANs
    └─ Routage
 
-📁 Procédures
+Procédures
    ├─ Active Directory
    │  ├─ Création utilisateur
    │  ├─ Création groupe
@@ -39,16 +39,16 @@ WIKI TECHNIQUE IT — STRUCTURE TYPE
       ├─ Configuration VLAN Cisco
       └─ Configuration VPN
 
-📁 Incidents
+Incidents
    ├─ Base d'Incidents Connus (tableau)
    └─ Fiches incidents par catégorie
 
-📁 Inventaire
+Inventaire
    ├─ Serveurs (détails techniques)
    ├─ Équipements Réseau (switches, routeurs)
    └─ Postes Clients
 
-📁 Projets
+Projets
    ├─ Projet 1
    │  ├─ Architecture
    │  ├─ Planning
@@ -56,7 +56,7 @@ WIKI TECHNIQUE IT — STRUCTURE TYPE
    │  └─ Incidents et Résolutions
    └─ [Futurs projets]
 
-📁 Veille Technologique
+Veille Technologique
    ├─ Nouveautés 2024
    ├─ Articles Intéressants
    └─ Formations Recommandées

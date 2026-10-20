@@ -45,7 +45,7 @@
      commerciale nécessaire pour les logos d'entreprise
    • Slack : gratuit jusqu'à 10 000 messages, payant au-delà
 
-   ⚠️ Installer un logiciel "gratuit perso" sur un PC d'entreprise
+   Installer un logiciel "gratuit perso" sur un PC d'entreprise
       = violation de licence
 
    PIÈGE N°2 — "On a acheté X licences il y a 5 ans"
@@ -58,7 +58,7 @@
    • Licence temporaire (subscription) : payée chaque mois/an,
      arrêt du paiement = arrêt du logiciel
 
-   ⚠️ Ne pas renouveler une licence temporaire = utilisation illégale
+   Ne pas renouveler une licence temporaire = utilisation illégale
 
    PIÈGE N°3 — "On a désinstallé, donc on peut réutiliser la licence"
    ──────────────────────────────────────────────────────────────
@@ -71,7 +71,7 @@
    • Licence flottante (Concurrent) : pool de N licences utilisables
      par N utilisateurs simultanés maximum
 
-   ⚠️ Réattribuer une licence nominative sans en informer l'éditeur
+   Réattribuer une licence nominative sans en informer l'éditeur
       peut violer le contrat
 ```
 

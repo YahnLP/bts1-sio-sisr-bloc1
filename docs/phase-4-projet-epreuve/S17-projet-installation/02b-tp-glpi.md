@@ -135,7 +135,7 @@ sudo systemctl reload apache2
 - Identifiant : `glpi`
 - Mot de passe : `glpi`
 
-**⚠ Changer le mot de passe immédiatement :**
+****Attention :** Changer le mot de passe immédiatement :**
 - Administration → Utilisateurs → glpi → Mot de passe : `AdminGlpi2024!`
 
 ---

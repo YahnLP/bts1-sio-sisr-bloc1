@@ -68,10 +68,10 @@
 ```
 
 **Avantages :**
-- ✅ Inventaire automatique (pas de saisie manuelle)
-- ✅ Mise à jour en temps réel
-- ✅ Détection des changements matériels/logiciels
-- ✅ Conformité licences (détecter les logiciels non autorisés)
+- **Avantage :** Inventaire automatique (pas de saisie manuelle)
+- **Avantage :** Mise à jour en temps réel
+- **Avantage :** Détection des changements matériels/logiciels
+- **Avantage :** Conformité licences (détecter les logiciels non autorisés)
 
 ## 2. Le Catalogue de Services
 
@@ -158,16 +158,16 @@ Chaque service du catalogue doit avoir une **fiche descriptive** :
 ### 2.4 Avantages d'un Catalogue
 
 **Pour les utilisateurs :**
-- ✅ Savent quels services sont disponibles
-- ✅ Connaissent les délais de livraison
-- ✅ Savent comment demander un service
-- ✅ Autonomie (self-service)
+- **Avantage :** Savent quels services sont disponibles
+- **Avantage :** Connaissent les délais de livraison
+- **Avantage :** Savent comment demander un service
+- **Avantage :** Autonomie (self-service)
 
 **Pour la DSI :**
-- ✅ Standardisation des demandes
-- ✅ Priorisation facilitée (SLA définis)
-- ✅ Mesure de la qualité de service
-- ✅ Réduction des demandes hors périmètre
+- **Avantage :** Standardisation des demandes
+- **Avantage :** Priorisation facilitée (SLA définis)
+- **Avantage :** Mesure de la qualité de service
+- **Avantage :** Réduction des demandes hors périmètre
 
 ## 3. Le Cycle de Vie d'un Ticket
 

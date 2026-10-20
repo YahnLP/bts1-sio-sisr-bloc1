@@ -61,6 +61,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 - Les versions de GLPI changent vite : vérifier le script d'installation et l'interface avant la séance.
 - Le fichier de la matinée est généré par `tools/infralab/gen-course-files.ts`. Il contient sept tickets « Nouveau », et l'imprimante IMP-COMPTA est réellement éteinte (à rallumer dans la vue Infrastructure).
 - **Corrigé indicatif de la qualification** (matrice d'InfraLab, d'autres choix argumentés sont recevables) : imprimante de la comptabilité, Matériel / Imprimante, impact élevé, urgence élevée, P1, équipement IMP-COMPTA ; VPN d'Éric, impact moyen et urgence élevée, P2 ; session d'Alice (compte et accès / mot de passe), impact faible et urgence élevée (elle est bloquée), P3 ; imprimante de Chloé, Excel de Chloé, accès au dossier RH et nouveau poste : impact faible, urgence faible ou moyenne, P4. Ordre de traitement : P1, P2, P3, puis les P4.
+- Le TP 50 « Un incident de bout en bout » est une version auto-corrigée d'une partie de la matinée ; il est disponible dans InfraLab une fois fusionnée la PR YahnLP/InfraLab #1.
 - Le TP 42 « Une matinée au service desk » du catalogue (tickets qui arrivent au fil du temps) est un bon prolongement.
 
 </details>

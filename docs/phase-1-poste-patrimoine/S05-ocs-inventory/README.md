@@ -59,6 +59,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 - Prévoir un serveur OCS préinstallé et joignable depuis les postes de la salle. Si ce n'est pas possible, la partie 2 peut être menée sur l'outil d'inventaire de l'entreprise de chaque apprenti (voir la variante dans le TP).
 - **InfraLab** ne demande aucune installation. Le fichier de l'audit est généré par `tools/infralab/gen-course-files.ts` (voir ci-dessous) ; ses chiffres ci-dessous sont à vérifier si le fichier est régénéré avec une autre version du simulateur.
 - **Corrigé de l'audit :** 45 équipements dans le schéma, 43 fiches dans l'outil (absents : INTERNET et FW-SIEGE, sans adresse IP dans la plage scannée). 24 postes : 16 avec agent installé, dont 3 défaillants (PC-DIR-01 agent arrêté, PC-NORD-04 mauvaise adresse de serveur, PC-RH-02 agent obsolète), 8 sans agent (PC21, PC-DIR-02, PC24, PC27, PC-NORD-03, PC-NORD-06, PC-SUD-01, PC-SUD-04). Couverture : 13 sur 24, soit 54 %, avant correction ; 16 sur 24, soit 67 %, après. Office : 13 licences, 16 installations connues (écart de 3), 24 installations réelles (écart réel de 11). Logiciels interdits connus après correction : 4 TeamViewer et 4 VLC ; réels : 5 TeamViewer (dont PC-SUD-04, sans agent) et 4 VLC.
-- Les TP 8, 9 et 10 du catalogue servent de prolongement pour les plus rapides.
+- Les TP 49, 8, 9 et 10 du catalogue servent de prolongement pour les plus rapides. Le TP 49 est une version auto-corrigée de l'audit ; il est disponible dans InfraLab une fois fusionnée la PR YahnLP/InfraLab #1.
 
 </details>

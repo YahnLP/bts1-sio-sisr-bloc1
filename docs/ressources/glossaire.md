@@ -56,6 +56,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Conformité** |  |  | État où tous les logiciels installés sont couverts par des licences valides | S12 |
 | **Content Management System** | CMS |  | Logiciel de gestion de contenu web | S15 |
 | **Continuité de service** |  |  | Capacité à maintenir ou reprendre rapidement un service après incident | S07 |
+| **Contournement** |  | *workaround* | Solution temporaire qui rétablit le service sans supprimer la cause de l'incident | S04 |
 | **Contribution personnelle** |  |  | Ce que la personne a fait elle-même dans un travail d'équipe ; le jury l'évalue. | S10 |
 | **Critère d'acceptation** |  |  | Condition qui doit être remplie pour valider la mise en production | S07 |
 | **CVE** |  |  | Common Vulnerabilities and Exposures | S14 |
@@ -81,6 +82,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Épreuve d'administration des systèmes et des réseaux** | E6 |  | Épreuve pratique et orale de l'option SISR (bloc 2). | S01 |
 | **Épreuve de cybersécurité** | E7 |  | Épreuve écrite de 4 heures de l'option SISR (bloc 3). | S01 |
 | **Épreuve de support et mise à disposition de services** | E5 |  | Épreuve orale de 40 minutes qui évalue le bloc 1, à partir du dossier numérique. | S01 |
+| **Erreur connue** |  | *known error* | Problème dont la cause est identifiée et dont le contournement est documenté dans la base de connaissances | S04 |
 | **Escalade** |  |  | Transfert d'un ticket vers un niveau de support supérieur | S03 |
 | **Export logique** |  | *dump* | Fichier de requêtes SQL qui permet de reconstruire une base. | S15 |
 | **Fenêtre de maintenance** |  |  | Créneau prévu et communiqué pour les interventions planifiées | S07 |
@@ -146,11 +148,13 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Présence en ligne** |  |  | Ensemble des canaux numériques de visibilité d'une organisation | S15 |
 | **Preuve** |  | *evidence* | Pièce datée (capture, ticket, document, schéma, script) qui montre le travail réellement fait. | S10 |
 | **Priorité** |  |  | Combinaison de l'impact et de l'urgence d'un incident (P1 à P4) | S03 |
+| **Prise de contrôle à distance** |  | *remote control* | Intervention sur le poste d'un utilisateur depuis un autre poste, avec son accord, pour diagnostiquer ou dépanner | S04 |
 | **Privilège** |  | *privilege* | Droit donné à un utilisateur de la base (lire, écrire, créer…). | S15 |
 | **Problème** |  |  | Cause racine d'un ou plusieurs incidents | S03 |
 | **Procédure** |  |  | Document décrivant les étapes pour accomplir une tâche technique reproductible | S12 |
 | **Profil** |  |  | Rôle définissant les droits d'accès d'un utilisateur dans GLPI | S06 |
 | **Projet** |  | *project* | Travail unique, avec un objectif, des ressources limitées et un résultat attendu. | S17 |
+| **Protocole de bureau à distance** | RDP | *Remote Desktop Protocol* | Protocole de Microsoft qui ouvre une session distante sur un poste ou un serveur (port TCP 3389) | S04 |
 | **PV de mise en service** |  |  | Document formalisant la mise en production d'un service après validation des tests | S07 |
 | **Réalisation professionnelle** |  |  | Travail concret, daté et délimité, mené en formation ou en entreprise, qui laisse des preuves. | S10 |
 | **Really Simple Syndication** | RSS |  | Format de flux web | S14 |

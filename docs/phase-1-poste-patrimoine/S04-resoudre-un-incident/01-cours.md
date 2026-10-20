@@ -12,7 +12,9 @@
 - [ ] **Diagnostiquer** méthodiquement (de la couche physique vers l'application) ;
 - [ ] **Résoudre** trois incidents types : impression, droits d'accès, lenteur ;
 - [ ] **Rédiger** une fiche de base de connaissances exploitable par un collègue ;
-- [ ] **Utiliser** les commandes de diagnostic Windows courantes.
+- [ ] **Utiliser** les commandes de diagnostic Windows courantes ;
+- [ ] **Distinguer** un incident, un problème et une demande de service ;
+- [ ] **Mener** une prise de contrôle à distance dans un cadre autorisé.
 
 ---
 
@@ -302,12 +304,111 @@ Get-Service | Where-Object { $_.Status -eq "Stopped" -and $_.StartType -eq "Auto
 Get-CimInstance Win32_StartupCommand | Select-Object Name, Command, Location
 ```
 
+## 5. Incident, problème, demande : ne pas tout mélanger
+
+Trois mots reviennent sans cesse dans un centre de services. Ils désignent trois choses différentes, traitées différemment.
+
+| **Notion** | **Définition** | **Objectif** | **Exemple** |
+|---|---|---|---|
+| **Incident** | Interruption ou dégradation non prévue d'un service | Rétablir le service **vite** | L'imprimante de la comptabilité est hors ligne |
+| **Problème** | Cause, connue ou non, d'un ou de plusieurs incidents | Supprimer la cause pour que l'incident **ne revienne pas** | Le pilote d'impression est remplacé à chaque mise à jour automatique |
+| **Demande de service** | Demande courante, prévue au catalogue de services | La satisfaire dans le délai annoncé | Créer un compte pour un nouvel arrivant |
+
+### 5.1 Contournement et erreur connue
+
+- Un **contournement** (*workaround*) rétablit le service **sans supprimer la cause** : réinstaller le pilote, vider la file d'attente.
+- Une **erreur connue** est un problème dont la cause est identifiée et dont le contournement est documenté. Sa fiche va dans la base de connaissances : le technicien suivant n'a plus qu'à l'appliquer.
+
+### 5.2 Quand passer de l'incident au problème ?
+
+On ouvre un **problème** lorsque :
+
+- le même incident se **répète** (la checklist N1 fixe la limite à la 3e occurrence) ;
+- un incident touche **beaucoup d'utilisateurs** ou dure trop longtemps ;
+- la **cause reste inconnue** après le diagnostic.
+
+Le technicien N1 ne résout pas le problème : il **relie ses tickets** au problème et fournit ses observations. L'analyse de la cause revient en général au niveau 2 ou 3.
+
+> [!NOTE]
+> **Exemple chiffré.** En 4 semaines, 12 tickets « imprimante de la comptabilité hors ligne » sont ouverts. Chaque ticket coûte environ 25 minutes au support : 12 × 25 = 300 minutes, soit 5 heures, sans compter le temps perdu par les utilisateurs. Le service ouvre un problème. Après analyse, le pilote d'impression est remplacé par une version générique à chaque mise à jour automatique. La solution durable est de bloquer cette mise à jour : c'est un **changement** (voir S14).
+
+### 5.3 Chercher la cause : la méthode des « cinq pourquoi »
+
+On pose la question « pourquoi ? » jusqu'à une cause sur laquelle on peut agir.
+
+| **Pourquoi ?** | **Réponse** |
+|---|---|
+| Pourquoi l'imprimante est-elle hors ligne ? | Le pilote n'est plus reconnu |
+| Pourquoi n'est-il plus reconnu ? | Il a été remplacé par un pilote générique |
+| Pourquoi a-t-il été remplacé ? | Une mise à jour Windows l'a installé |
+| Pourquoi la mise à jour l'a-t-elle fait ? | Les pilotes ne sont pas exclus de la mise à jour automatique |
+| Pourquoi ne sont-ils pas exclus ? | Aucune règle n'a été définie dans la stratégie de groupe (S11 du bloc 2) |
+
+Le nombre de questions n'est pas fixé à cinq : on s'arrête quand la cause est actionnable.
+
+> [!NOTE]
+> Les outils de gestion de tickets comme GLPI (S06) proposent un objet « Problème » que l'on relie aux tickets concernés.
+
+## 6. Prendre le contrôle d'un poste à distance
+
+### 6.1 Pourquoi et quand
+
+La prise de contrôle à distance permet de **voir ce que voit l'utilisateur** et d'agir sur son poste sans se déplacer. Elle fait gagner du temps, mais elle suppose que le poste soit **allumé, démarré et joignable par le réseau**. Elle ne sert donc pas pour une panne réseau, une panne matérielle ou un poste qui ne démarre plus.
+
+### 6.2 Deux familles d'outils
+
+| **Famille** | **Principe** | **Exemples** | **Usage** |
+|---|---|---|---|
+| **Ouverture d'une session distante** | On se connecte au poste comme à un serveur, dans une session dédiée | Bureau à distance Windows (protocole RDP, port TCP 3389) | Administration de serveurs et de postes **sans utilisateur devant** |
+| **Partage de la session de l'utilisateur** | L'utilisateur et le technicien voient le même écran, souris et clavier sont partagés | Assistance rapide de Windows, VNC, outils tiers de télé-assistance | **Dépannage en direct** avec l'utilisateur |
+
+> [!NOTE]
+> Les outils tiers cités sont des **exemples**. Certains sont propriétaires (TeamViewer, AnyDesk), d'autres libres et auto-hébergeables (RustDesk, VNC). Le choix de l'outil de l'organisation est à **valider** avec elle ; la séance ne dépend d'aucun outil unique.
+
+**Bureau à distance Windows : ce qu'il faut savoir**
+
+- Le poste **cible** doit être en édition **Professionnel** ou **Entreprise** : l'édition Famille ne peut pas recevoir de connexion.
+- Sur un poste client, **une seule session interactive** est possible à la fois : se connecter verrouille la session de l'utilisateur local. C'est pourquoi RDP convient mal au dépannage en direct.
+- L'**authentification au niveau du réseau** (NLA) doit rester activée.
+- Le port 3389 ne doit **jamais** être exposé directement sur Internet : on passe par un VPN (voir S13 du bloc 3) ou une passerelle.
+
+### 6.3 Le cadre : consentement, traçabilité, confidentialité
+
+Prendre le contrôle d'un poste, c'est pouvoir lire des documents et des messages. Trois règles s'appliquent :
+
+1. **Accord de l'utilisateur** avant toute connexion, noté dans le ticket (qui, quand, par quel moyen). La charte informatique de l'organisation doit prévoir ces interventions.
+2. **Minimisation** : on n'ouvre que ce qui sert à résoudre l'incident, on ne consulte pas les documents personnels, on prévient avant d'afficher une fenêtre.
+3. **Traçabilité** : on note dans le ticket l'heure de début et de fin, les actions réalisées, et on ferme l'accès à la fin.
+
+Les données vues pendant une intervention peuvent être des **données à caractère personnel** : le technicien est tenu à la confidentialité (voir le RGPD en bloc 3 et en CEJM). Les règles exactes (durée de conservation des journaux, information des salariés) dépendent de la charte de l'organisation : **à valider** avec elle et avec son délégué à la protection des données.
+
+### 6.4 Le piège : le faux support
+
+Des escrocs appellent en se présentant comme le « support technique » et demandent d'installer un outil de prise en main pour « réparer » le poste. Deux règles :
+
+- **c'est l'utilisateur qui appelle le support**, pas l'inverse, sauf si un ticket est ouvert ;
+- le technicien **s'identifie** et l'utilisateur **vérifie** par le canal habituel avant de donner un code de connexion.
+
+### 6.5 Procédure type du technicien N1
+
+| **Étape** | **Action** |
+|---|---|
+| 1 | Vérifier que la prise de contrôle est utile (le poste est joignable) et ouvrir ou mettre à jour le ticket |
+| 2 | Demander l'accord de l'utilisateur et le noter |
+| 3 | Établir la connexion avec l'outil de l'organisation |
+| 4 | Annoncer ce que l'on fait, agir pas à pas, noter chaque action |
+| 5 | Faire **valider le résultat** par l'utilisateur |
+| 6 | Fermer la connexion, désactiver l'accès s'il n'est plus utile |
+| 7 | Clôturer le ticket : durée, actions, éventuelle fiche de base de connaissances |
+
 ## À retenir
 
 - On suit toujours la même **démarche** : qualifier, reproduire, isoler, tester une hypothèse à la fois, résoudre, documenter.
 - On **ouvre un ticket avant** de diagnostiquer et on y note chaque action.
 - Une solution qui marche est **documentée** (base de connaissances) pour la réutiliser.
 - Si le cas dépasse son niveau, on **escalade** avec les éléments déjà recueillis.
+- Un **incident** se traite vite (contournement) ; un **problème** se traite pour supprimer la cause. Les incidents qui se répètent sont reliés à un problème.
+- On ne prend le contrôle d'un poste qu'avec l'**accord de l'utilisateur**, en notant au ticket l'heure et les actions.
 
 ## Je vérifie mes acquis
 
@@ -318,5 +419,7 @@ Get-CimInstance Win32_StartupCommand | Select-Object Name, Command, Location
 - [ ] J'identifie un processus qui sature le CPU avec le Gestionnaire des tâches
 - [ ] Je remplis un ticket en temps réel pendant la résolution
 - [ ] Je rédige une fiche de base de connaissances exploitable par un collègue
+- [ ] Je distingue un incident, un problème et une demande de service
+- [ ] Je cite trois conditions avant de prendre le contrôle d'un poste à distance
 
 ---

@@ -27,4 +27,23 @@ Signalement → enregistrement → qualification → diagnostic → résolution 
 | Processus gourmands | `Get-Process | Sort-Object CPU -Descending | Select -First 10` |
 | Espace disque | `Get-Volume` |
 
+## Incident, problème, demande
+
+| Notion | En une phrase |
+|---|---|
+| Incident | Service interrompu ou dégradé : on **rétablit** vite (contournement) |
+| Problème | Cause de plusieurs incidents : on la **supprime** |
+| Demande de service | Demande courante du catalogue |
+
+Un incident qui se répète (3e fois) : on ouvre ou on relie un **problème**.
+
+## Prise de contrôle à distance
+
+1. **Accord** de l'utilisateur, noté au ticket.
+2. Connexion avec l'outil de l'organisation (RDP : port TCP 3389, jamais ouvert sur Internet).
+3. On agit pas à pas, on **note** les actions.
+4. L'utilisateur **valide**, on ferme la session et l'accès.
+
+Un appel non sollicité demandant d'installer un outil de prise en main : **refuser**.
+
 **Fiche de base de connaissances :** symptôme · cause · solution · vérification · auteur et date.

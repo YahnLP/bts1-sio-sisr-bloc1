@@ -27,6 +27,7 @@
 *[NVRAM]: Non-Volatile RAM : Mémoire qui conserve les données sans alimentation
 *[OOBE]: Out-Of-Box Experience : Assistant de première configuration Windows
 *[PXE]: Preboot eXecution Environment : Boot réseau sans disque local ni USB
+*[RDP]: Protocole de bureau à distance : Protocole de Microsoft qui ouvre une session distante sur un poste ou un serveur (port TCP 3389)
 *[RSS]: Really Simple Syndication : Format de flux web
 *[RPO]: Recovery Point Objective : Perte de données maximale acceptable
 *[RTO]: Recovery Time Objective : Délai maximum pour reprendre un service après incident

@@ -6,23 +6,38 @@
 
 ### 1.1 L'Obsolescence des Compétences IT
 
-```
-   CYCLE DE VIE D'UNE TECHNOLOGIE IT
-   ─────────────────────────────────────────────────────────────
-
-   Année 0   → Technologie émergente
-   Année 2   → Adoption croissante (vous l'apprenez)
-   Année 5   → Technologie mature (vous la maîtrisez)
-   Année 8   → Début du déclin
-   Année 12  → Legacy (maintenance uniquement)
-   Année 15+ → Obsolète
-
-   Exemple : Windows Server 2008
-   • 2008 : Lancement
-   • 2012 : Très répandu
-   • 2020 : Fin de support Microsoft
-   • 2024 : Obsolète — vulnérabilités non patchées
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 780 200" style="max-width:780px" role="img" aria-label="Cycle de vie d&#x27;une technologie informatique, de l&#x27;émergence à l&#x27;obsolescence" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="40" width="116" height="70" rx="8" class="dg-box"/>
+<text x="66.0" y="71.0" text-anchor="middle" class="dg-t">Année 0</text>
+<text x="66.0" y="89.0" text-anchor="middle" class="dg-s">Émergente</text>
+<line x1="124" y1="75" x2="127.0" y2="75.0" class="dg-line"/>
+<polygon points="136,75 127.0,70.0 127.0,80.0" class="dg-ah"/>
+<rect x="136" y="40" width="116" height="70" rx="8" class="dg-box"/>
+<text x="194.0" y="71.0" text-anchor="middle" class="dg-t">Année 2</text>
+<text x="194.0" y="89.0" text-anchor="middle" class="dg-s">Adoption croissante</text>
+<line x1="252" y1="75" x2="255.0" y2="75.0" class="dg-line"/>
+<polygon points="264,75 255.0,70.0 255.0,80.0" class="dg-ah"/>
+<rect x="264" y="40" width="116" height="70" rx="8" class="dg-ok"/>
+<text x="322.0" y="71.0" text-anchor="middle" class="dg-t">Année 5</text>
+<text x="322.0" y="89.0" text-anchor="middle" class="dg-s">Mature</text>
+<line x1="380" y1="75" x2="383.0" y2="75.0" class="dg-line"/>
+<polygon points="392,75 383.0,70.0 383.0,80.0" class="dg-ah"/>
+<rect x="392" y="40" width="116" height="70" rx="8" class="dg-warn"/>
+<text x="450.0" y="71.0" text-anchor="middle" class="dg-t">Année 8</text>
+<text x="450.0" y="89.0" text-anchor="middle" class="dg-s">Début du déclin</text>
+<line x1="508" y1="75" x2="511.0" y2="75.0" class="dg-line"/>
+<polygon points="520,75 511.0,70.0 511.0,80.0" class="dg-ah"/>
+<rect x="520" y="40" width="116" height="70" rx="8" class="dg-warn"/>
+<text x="578.0" y="71.0" text-anchor="middle" class="dg-t">Année 12</text>
+<text x="578.0" y="89.0" text-anchor="middle" class="dg-s">Legacy</text>
+<line x1="636" y1="75" x2="639.0" y2="75.0" class="dg-line"/>
+<polygon points="648,75 639.0,70.0 639.0,80.0" class="dg-ah"/>
+<rect x="648" y="40" width="116" height="70" rx="8" class="dg-bad"/>
+<text x="706.0" y="71.0" text-anchor="middle" class="dg-t">Année 15+</text>
+<text x="706.0" y="89.0" text-anchor="middle" class="dg-s">Obsolète</text>
+<text x="380" y="150" text-anchor="middle" class="dg-i">Exemple Windows Server 2008 : 2008 lancement, 2012 très répandu, 2020 fin de support, 2024 obsolète</text>
+</svg>
+</figure>
 
 **Le problème :** Si vous ne vous mettez pas à jour, vous devenez obsolète avec la technologie.
 

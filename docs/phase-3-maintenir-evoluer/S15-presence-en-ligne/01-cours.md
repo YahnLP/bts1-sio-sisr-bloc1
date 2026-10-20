@@ -213,49 +213,38 @@ Un **CMS** est un logiciel qui permet de créer, gérer et modifier le contenu d
 
 **LAMP** = **Linux, Apache, MySQL, PHP** — stack d'hébergement web open source la plus répandue.
 
-```
-   ARCHITECTURE LAMP
-   ──────────────────────────────────────────────────────────────
-
-   CLIENT (Navigateur)
-       │
-       │ HTTP Request (http://monsite.local)
-       ↓
-   ┌──────────────────────────────────────────────────────────┐
-   │  SERVEUR LINUX (Ubuntu Server 22.04)                     │
-   │                                                           │
-   │   ┌──────────────────────────────────────────────────┐   │
-   │   │  APACHE (Serveur Web)                           │   │
-   │   │  • Écoute port 80 (HTTP)                        │   │
-   │   │  • Reçoit requête HTTP                          │   │
-   │   │  • Identifie le VirtualHost                     │   │
-   │   │  • Lit le fichier (.html, .php...)              │   │
-   │   └────────────────┬─────────────────────────────┘   │
-   │                    │                                  │
-   │                    │ Si fichier .php                  │
-   │                    ↓                                  │
-   │   ┌──────────────────────────────────────────────────┐   │
-   │   │  PHP (Langage de programmation)                 │   │
-   │   │  • Interprète le code PHP                       │   │
-   │   │  • Exécute les instructions                     │   │
-   │   │  • Génère HTML dynamique                        │   │
-   │   └────────────────┬─────────────────────────────┘   │
-   │                    │                                  │
-   │                    │ Si requête SQL (données)         │
-   │                    ↓                                  │
-   │   ┌──────────────────────────────────────────────────┐   │
-   │   │  MySQL / MariaDB (Base de données)              │   │
-   │   │  • Stocke les données (articles, users...)      │   │
-   │   │  • Exécute requêtes SQL                         │   │
-   │   │  • Renvoie résultats à PHP                      │   │
-   │   └──────────────────────────────────────────────────┘   │
-   │                                                           │
-   └──────────────────────────────────────────────────────────┘
-       │
-       │ HTTP Response (HTML généré)
-       ↓
-   CLIENT (Affichage)
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 560 480" style="max-width:560px" role="img" aria-label="Architecture LAMP : du navigateur à la base de données" xmlns="http://www.w3.org/2000/svg">
+<rect x="130" y="6" width="300" height="40" rx="8" class="dg-dark"/>
+<text x="280.0" y="22.0" text-anchor="middle" class="dg-w">Client (navigateur)</text>
+<text x="280.0" y="40.0" text-anchor="middle" class="dg-s">http://monsite.local</text>
+<line x1="280" y1="46" x2="280.0" y2="67.0" class="dg-line"/>
+<polygon points="280,76 285.0,67.0 275.0,67.0" class="dg-ah"/>
+<text x="296" y="66" text-anchor="start" class="dg-s">HTTP Request</text>
+<rect x="20" y="76" width="520" height="320" rx="12" class="dg-soft"/>
+<text x="280" y="96" text-anchor="middle" class="dg-t">Serveur Linux (Ubuntu Server 22.04)</text>
+<rect x="60" y="108" width="440" height="64" rx="8" class="dg-box"/>
+<text x="280.0" y="136.0" text-anchor="middle" class="dg-t">Apache (serveur web)</text>
+<text x="280.0" y="154.0" text-anchor="middle" class="dg-s">écoute le port 80, identifie le VirtualHost, lit le fichier</text>
+<line x1="280" y1="172" x2="280.0" y2="191.0" class="dg-line"/>
+<polygon points="280,200 285.0,191.0 275.0,191.0" class="dg-ah"/>
+<text x="296" y="192" text-anchor="start" class="dg-i">si fichier .php</text>
+<rect x="60" y="200" width="440" height="64" rx="8" class="dg-box"/>
+<text x="280.0" y="228.0" text-anchor="middle" class="dg-t">PHP</text>
+<text x="280.0" y="246.0" text-anchor="middle" class="dg-s">interprète le code et génère du HTML dynamique</text>
+<line x1="280" y1="264" x2="280.0" y2="283.0" class="dg-line"/>
+<polygon points="280,292 285.0,283.0 275.0,283.0" class="dg-ah"/>
+<text x="296" y="284" text-anchor="start" class="dg-i">si requête SQL</text>
+<rect x="60" y="292" width="440" height="64" rx="8" class="dg-ok"/>
+<text x="280.0" y="320.0" text-anchor="middle" class="dg-t">MySQL / MariaDB</text>
+<text x="280.0" y="338.0" text-anchor="middle" class="dg-s">stocke les données, exécute les requêtes SQL, renvoie les résultats à PHP</text>
+<line x1="280" y1="396" x2="280.0" y2="411.0" class="dg-line"/>
+<polygon points="280,420 285.0,411.0 275.0,411.0" class="dg-ah"/>
+<text x="296" y="414" text-anchor="start" class="dg-s">HTTP Response (HTML généré)</text>
+<rect x="130" y="420" width="300" height="40" rx="8" class="dg-dark"/>
+<text x="280.0" y="436.0" text-anchor="middle" class="dg-w">Client</text>
+<text x="280.0" y="454.0" text-anchor="middle" class="dg-s">affichage de la page</text>
+</svg>
+</figure>
 
 ### 3.2 Rôle de Chaque Composant
 

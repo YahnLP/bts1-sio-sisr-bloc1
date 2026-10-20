@@ -215,35 +215,39 @@ apt-get clean
 
 **WDS** (Windows Deployment Services) et **MDT** (Microsoft Deployment Toolkit) sont les outils Microsoft pour le déploiement automatisé de Windows en environnement d'entreprise.
 
-```
-   ARCHITECTURE WDS/MDT
-   ─────────────────────────────────────────────────────────────
+<figure class="graphe diagramme"><svg viewBox="0 0 760 250" style="max-width:760px" role="img" aria-label="Déploiement par le réseau : client PXE, serveur DHCP et serveur WDS" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="20" width="220" height="100" rx="8" class="dg-box"/>
+<text x="120.0" y="48.0" text-anchor="middle" class="dg-t">Client (poste à déployer)</text>
+<text x="120.0" y="66.0" text-anchor="middle" class="dg-s">boot réseau PXE</text>
+<text x="120.0" y="84.0" text-anchor="middle" class="dg-s">télécharge l&#x27;image</text>
+<text x="120.0" y="102.0" text-anchor="middle" class="dg-s">unattend.xml</text>
+<rect x="520" y="20" width="230" height="100" rx="8" class="dg-ok"/>
+<text x="635.0" y="57.0" text-anchor="middle" class="dg-t">Serveur DHCP</text>
+<text x="635.0" y="75.0" text-anchor="middle" class="dg-s">options 66 et 67</text>
+<text x="635.0" y="93.0" text-anchor="middle" class="dg-s">indique où trouver WDS</text>
+<rect x="250" y="150" width="260" height="90" rx="8" class="dg-dark"/>
+<text x="380.0" y="182.0" text-anchor="middle" class="dg-w">Serveur WDS (Windows Server)</text>
+<text x="380.0" y="200.0" text-anchor="middle" class="dg-s">images .wim, boot PXE</text>
+<text x="380.0" y="218.0" text-anchor="middle" class="dg-s">intégré à Active Directory</text>
+<line x1="230" y1="60" x2="511.0" y2="60.0" class="dg-line"/>
+<polygon points="520,60 511.0,55.0 511.0,65.0" class="dg-ah"/>
+<text x="375" y="50" text-anchor="middle" class="dg-s">1. demande d&#x27;adresse et options de boot</text>
+<line x1="520" y1="90" x2="239.0" y2="90.0" class="dg-dash"/>
+<polygon points="230,90 239.0,95.0 239.0,85.0" class="dg-ah"/>
+<text x="375" y="108" text-anchor="middle" class="dg-s">2. adresse + serveur WDS</text>
+<line x1="120" y1="120" x2="291.1" y2="148.5" class="dg-line"/>
+<polygon points="300,150 291.9,143.6 290.3,153.5" class="dg-ah"/>
+<text x="160" y="152" text-anchor="middle" class="dg-s">3. image</text>
+</svg>
+</figure>
 
-   ① SERVEUR WDS (rôle Windows Server)
-      • Héberge les images de déploiement (.wim)
-      • Boot PXE réseau (pas de clé USB nécessaire)
-      • Intégré Active Directory
+- **Serveur WDS** (rôle Windows Server) : héberge les images de déploiement (.wim), boot PXE sans clé USB, intégré à Active Directory.
+- **Serveur DHCP** : fournit les options 66 et 67 (boot PXE) et indique au client où trouver WDS.
+- **Client** : boot réseau PXE (option du BIOS), télécharge l'image, déploiement automatique avec fichier de réponses (unattend.xml).
 
-   ② SERVEUR DHCP
-      • Fournit les options DHCP 66 et 67 (boot PXE)
-      • Indique au client où trouver le serveur WDS
+**Avantages :** déploiement sans intervention (zero-touch), injection automatique des pilotes selon le modèle, intégration au domaine, post-configuration par scripts PowerShell.
 
-   ③ CLIENT (poste à déployer)
-      • Boot réseau PXE (option dans le BIOS)
-      • Télécharge l'image depuis le serveur WDS
-      • Déploiement automatique avec fichier de réponses (unattend.xml)
-
-   Avantages :
-   OK : Déploiement sans intervention (zero-touch)
-   OK : Injection automatique de pilotes selon modèle matériel
-   OK : Intégration domaine automatique
-   OK : Post-configuration via scripts PowerShell
-
-   Inconvénients :
-   KO : Infrastructure complexe (AD + DHCP + WDS)
-   KO : Windows uniquement
-   KO : Courbe d'apprentissage élevée
-```
+**Inconvénients :** infrastructure complexe (AD + DHCP + WDS), Windows uniquement, courbe d'apprentissage élevée.
 
 ## 4. Workflow de Déploiement avec Clonezilla
 

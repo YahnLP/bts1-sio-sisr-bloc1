@@ -155,16 +155,31 @@ GLPI peut exposer le catalogue de services directement sur le **portail utilisat
 
 Un service n'est pas éternel. ITIL définit son cycle de vie dans le catalogue :
 
-```
-   NOUVEAU SERVICE          SERVICE ACTIF           SERVICE RETIRÉ
-   ───────────────          ─────────────           ──────────────
-   Analyse du besoin   →    Disponible dans    →    Annonce de
-   Construction            le catalogue            fin de service
-   Tests                   SLA suivi               Migration
-   Communication           Améliorations           Retrait du
-   → Mise en service        selon retours           catalogue
-     (PV — S7)                                     Archivage
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 780 250" style="max-width:780px" role="img" aria-label="Cycle de vie d&#x27;un service du catalogue : nouveau, actif, retiré" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="10" width="230" height="230" rx="8" class="dg-box"/>
+<text x="125.0" y="85.0" text-anchor="middle" class="dg-t">Nouveau service</text>
+<text x="125.0" y="103.0" text-anchor="middle" class="dg-s">Analyse du besoin</text>
+<text x="125.0" y="121.0" text-anchor="middle" class="dg-s">Construction</text>
+<text x="125.0" y="139.0" text-anchor="middle" class="dg-s">Tests</text>
+<text x="125.0" y="157.0" text-anchor="middle" class="dg-s">Communication</text>
+<text x="125.0" y="175.0" text-anchor="middle" class="dg-s">Mise en service (PV, S7)</text>
+<line x1="240" y1="125" x2="261.0" y2="125.0" class="dg-line"/>
+<polygon points="270,125 261.0,120.0 261.0,130.0" class="dg-ah"/>
+<rect x="270" y="10" width="230" height="230" rx="8" class="dg-ok"/>
+<text x="385.0" y="103.0" text-anchor="middle" class="dg-t">Service actif</text>
+<text x="385.0" y="121.0" text-anchor="middle" class="dg-s">Disponible dans le catalogue</text>
+<text x="385.0" y="139.0" text-anchor="middle" class="dg-s">SLA suivi</text>
+<text x="385.0" y="157.0" text-anchor="middle" class="dg-s">Améliorations selon les retours</text>
+<line x1="500" y1="125" x2="521.0" y2="125.0" class="dg-line"/>
+<polygon points="530,125 521.0,120.0 521.0,130.0" class="dg-ah"/>
+<rect x="530" y="10" width="230" height="230" rx="8" class="dg-warn"/>
+<text x="645.0" y="94.0" text-anchor="middle" class="dg-t">Service retiré</text>
+<text x="645.0" y="112.0" text-anchor="middle" class="dg-s">Annonce de fin de service</text>
+<text x="645.0" y="130.0" text-anchor="middle" class="dg-s">Migration</text>
+<text x="645.0" y="148.0" text-anchor="middle" class="dg-s">Retrait du catalogue</text>
+<text x="645.0" y="166.0" text-anchor="middle" class="dg-s">Archivage</text>
+</svg>
+</figure>
 
 ---
 

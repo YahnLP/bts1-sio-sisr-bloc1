@@ -45,27 +45,31 @@
 
 **OCS Inventory** est un outil d'inventaire automatique qui remonte les informations vers GLPI.
 
-```
-   FONCTIONNEMENT OCS + GLPI
-   ─────────────────────────────────────────────────────────────
+<figure class="graphe diagramme"><svg viewBox="0 0 780 190" style="max-width:780px" role="img" aria-label="Remontée d&#x27;inventaire : agent OCS, serveur OCS, GLPI" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="40" width="200" height="100" rx="8" class="dg-box"/>
+<text x="110.0" y="77.0" text-anchor="middle" class="dg-t">Agent OCS</text>
+<text x="110.0" y="95.0" text-anchor="middle" class="dg-s">sur chaque poste</text>
+<text x="110.0" y="113.0" text-anchor="middle" class="dg-s">tâche planifiée</text>
+<rect x="290" y="40" width="200" height="100" rx="8" class="dg-ok"/>
+<text x="390.0" y="77.0" text-anchor="middle" class="dg-t">Serveur OCS Inventory</text>
+<text x="390.0" y="95.0" text-anchor="middle" class="dg-s">reçoit et stocke</text>
+<text x="390.0" y="113.0" text-anchor="middle" class="dg-s">met à disposition (API)</text>
+<rect x="570" y="40" width="200" height="100" rx="8" class="dg-dark"/>
+<text x="670.0" y="77.0" text-anchor="middle" class="dg-w">GLPI</text>
+<text x="670.0" y="95.0" text-anchor="middle" class="dg-s">plugin OCS : importe</text>
+<text x="670.0" y="113.0" text-anchor="middle" class="dg-s">affiche l&#x27;inventaire</text>
+<line x1="210" y1="90" x2="281.0" y2="90.0" class="dg-line"/>
+<polygon points="290,90 281.0,85.0 281.0,95.0" class="dg-ah"/>
+<text x="250" y="78" text-anchor="middle" class="dg-s">inventaire</text>
+<line x1="570" y1="90" x2="499.0" y2="90.0" class="dg-dash"/>
+<polygon points="490,90 499.0,95.0 499.0,85.0" class="dg-ah"/>
+<text x="530" y="78" text-anchor="middle" class="dg-s">import</text>
+</svg>
+</figure>
 
-   ① AGENT OCS (sur chaque poste client)
-      • S'exécute en tâche planifiée (ex : tous les jours à 9h)
-      • Scanne le matériel (CPU, RAM, disques, réseau)
-      • Scanne les logiciels installés
-      • Envoie les données au serveur OCS
-
-   ② SERVEUR OCS INVENTORY
-      • Reçoit les données des agents
-      • Stocke dans sa base de données
-      • Met à disposition via API
-
-   ③ GLPI
-      • Se connecte au serveur OCS via plugin
-      • Importe automatiquement les nouveaux ordinateurs
-      • Met à jour l'inventaire existant
-      • Affiche tout dans son interface
-```
+- **Agent OCS** (sur chaque poste) : tâche planifiée (ex. tous les jours à 9 h), scanne le matériel (CPU, RAM, disques, réseau) et les logiciels installés, envoie les données au serveur OCS.
+- **Serveur OCS Inventory** : reçoit les données des agents, les stocke dans sa base et les met à disposition par API.
+- **GLPI** : se connecte au serveur OCS par plugin, importe automatiquement les nouveaux ordinateurs, met à jour l'inventaire existant et affiche tout dans son interface.
 
 **Avantages :**
 - **Avantage :** Inventaire automatique (pas de saisie manuelle)
@@ -173,34 +177,45 @@ Chaque service du catalogue doit avoir une **fiche descriptive** :
 
 ### 3.1 Les États d'un Ticket
 
-```
-   CYCLE DE VIE D'UN TICKET DANS GLPI
-   ─────────────────────────────────────────────────────────────
+<figure class="graphe diagramme"><svg viewBox="0 0 780 230" style="max-width:780px" role="img" aria-label="Statuts d&#x27;un ticket GLPI : du nouveau ticket à la clôture" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="20" width="160" height="70" rx="8" class="dg-box"/>
+<text x="90.0" y="51.0" text-anchor="middle" class="dg-t">Nouveau</text>
+<text x="90.0" y="69.0" text-anchor="middle" class="dg-s">en attente d&#x27;affectation</text>
+<rect x="210" y="20" width="170" height="70" rx="8" class="dg-box"/>
+<text x="295.0" y="51.0" text-anchor="middle" class="dg-t">En cours (attribué)</text>
+<text x="295.0" y="69.0" text-anchor="middle" class="dg-s">un technicien travaille dessus</text>
+<rect x="420" y="20" width="160" height="70" rx="8" class="dg-ok"/>
+<text x="500.0" y="51.0" text-anchor="middle" class="dg-t">Résolu</text>
+<text x="500.0" y="69.0" text-anchor="middle" class="dg-s">en attente de validation</text>
+<rect x="620" y="20" width="150" height="70" rx="8" class="dg-dark"/>
+<text x="695.0" y="51.0" text-anchor="middle" class="dg-w">Clos</text>
+<text x="695.0" y="69.0" text-anchor="middle" class="dg-s">archivé</text>
+<line x1="170" y1="55" x2="201.0" y2="55.0" class="dg-line"/>
+<polygon points="210,55 201.0,50.0 201.0,60.0" class="dg-ah"/>
+<line x1="380" y1="55" x2="411.0" y2="55.0" class="dg-line"/>
+<polygon points="420,55 411.0,50.0 411.0,60.0" class="dg-ah"/>
+<line x1="580" y1="55" x2="611.0" y2="55.0" class="dg-line"/>
+<polygon points="620,55 611.0,50.0 611.0,60.0" class="dg-ah"/>
+<rect x="210" y="140" width="170" height="70" rx="8" class="dg-warn"/>
+<text x="295.0" y="162.0" text-anchor="middle" class="dg-t">En attente</text>
+<text x="295.0" y="180.0" text-anchor="middle" class="dg-s">info utilisateur, commande</text>
+<text x="295.0" y="198.0" text-anchor="middle" class="dg-s">chronomètre SLA en pause</text>
+<line x1="295" y1="90" x2="295.0" y2="131.0" class="dg-line"/>
+<polygon points="295,140 300.0,131.0 290.0,131.0" class="dg-ah"/>
+<rect x="10" y="140" width="160" height="70" rx="8" class="dg-bad"/>
+<text x="90.0" y="171.0" text-anchor="middle" class="dg-t">Annulé (optionnel)</text>
+<text x="90.0" y="189.0" text-anchor="middle" class="dg-s">retiré ou doublon</text>
+<line x1="90" y1="90" x2="90.0" y2="131.0" class="dg-line"/>
+<polygon points="90,140 95.0,131.0 85.0,131.0" class="dg-ah"/>
+</svg>
+</figure>
 
-   ① NOUVEAU
-      • Ticket vient d'être créé
-      • En attente d'affectation à un technicien
-
-   ② EN COURS (ATTRIBUÉ)
-      • Ticket affecté à un technicien
-      • Technicien travaille sur la résolution
-
-   ③ EN ATTENTE
-      • Ticket mis en pause (en attente info utilisateur, commande...)
-      • Timer SLA en pause
-
-   ④ RÉSOLU
-      • Technicien a trouvé et appliqué une solution
-      • En attente validation utilisateur
-
-   ⑤ CLOS
-      • Utilisateur confirme que le problème est résolu
-      • Ticket archivé
-
-   ⑥ ANNULÉ (optionnel)
-      • Demande retirée par l'utilisateur
-      • Ou doublon d'un autre ticket
-```
+- **Nouveau** : ticket créé, en attente d'affectation à un technicien.
+- **En cours (attribué)** : affecté à un technicien qui travaille sur la résolution.
+- **En attente** : ticket en pause (information utilisateur, commande...), chronomètre SLA en pause.
+- **Résolu** : solution trouvée et appliquée, en attente de validation par l'utilisateur.
+- **Clos** : l'utilisateur confirme, le ticket est archivé.
+- **Annulé** (optionnel) : demande retirée par l'utilisateur ou doublon.
 
 ### 3.2 Les Champs Essentiels d'un Ticket
 

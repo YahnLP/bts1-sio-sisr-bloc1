@@ -32,6 +32,7 @@
 | [TP – Gérer des tickets de bout en bout : InfraLab, puis GLPI](02-tp.md) | TP |
 | [Aide-mémoire – Gérer les tickets](03-aide-memoire.md) | Aide-mémoire |
 | [Fichier InfraLab : une matinée au service desk](../../ressources/infralab/s06-service-desk.infralab.json) | Fichier de départ du simulateur |
+| [TP InfraLab autocorrigé : un incident de bout en bout](../../ressources/infralab/tp-50-incident-bout-en-bout.infralab-tp.json) | Fichier de TP du simulateur (à ouvrir avec « Ouvrir ») |
 | [Annexe – Installer GLPI sur Debian ou Ubuntu](annexe-installation-glpi.md) | Annexe |
 | [Annexe – Fiche de navigation rapide dans GLPI](annexe-navigation-glpi.md) | Annexe |
 

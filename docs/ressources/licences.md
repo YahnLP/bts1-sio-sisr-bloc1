@@ -33,5 +33,6 @@ Ces licences sont données **à titre d'information** ; seuls les textes fournis
 | DokuWiki | GPL v2 | **à vérifier** |
 | Git | GPL v2 | **à vérifier** |
 | PHP | PHP License | **à vérifier** |
+| RustDesk | Logiciel libre (licence AGPL, d'après l'éditeur) | **à vérifier** : cité comme exemple, jamais imposé |
 
 Les marques citées (Microsoft, Oracle, Canonical, etc.) appartiennent à leurs propriétaires respectifs.

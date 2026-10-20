@@ -47,14 +47,35 @@ La grille de la fiche projet (100 points) est une **proposition à valider**. Re
 
 | Critère | Points | Ce qu'on regarde |
 |---|---|---|
-| GLPI + OCS | /20 | Fonctionnement vérifié (connexion, ​inventaire remonté) |
+| GLPI + OCS | /15 | Fonctionnement vérifié (connexion, ​inventaire remonté) |
 | Catalogue | /15 | Catégories structurées, fiches de service complètes |
-| Tickets | /25 | Trois tickets traités et documentés |
-| Wiki | /20 | Pages datées, signées, avec captures |
+| Tickets | /20 | Trois tickets traités et documentés |
+| Wiki | /15 | Pages datées, signées, avec captures |
 | Oral | /10 | Clarté, contribution personnelle |
+| Planification et suivi dans l'outil de projet | /5 | Projet et tâches saisis, avancement actualisé |
+| Plan et rapport de tests | /10 | Voir la section suivante |
 | Équipe | /10 | Rôles, ​planning, comptes rendus |
 
 Une **note individuelle** peut s'appuyer sur la fiche de contribution rédigée en S18, pas seulement sur le résultat collectif.
+
+## Planification et tests (ajout)
+
+**Planification dans l'outil de projet (/5).** Attendu : un projet créé, les quatre tâches T1 à T4 avec responsable, ​durée et état, un avancement mis à jour à chaque jalon. Pénaliser un planning saisi une seule fois et jamais actualisé.
+
+**Plan de tests.** Attendu : au moins six tests répartis sur les trois niveaux (fonctionnement, intégration, acceptation), avec un ​résultat attendu écrit **avant** l'exécution. Exemples de bons tests d'intégration : le poste de test apparaît dans GLPI après la synchronisation ; l'agent remonte un inventaire forcé. Exemples d'acceptation : un utilisateur ouvre un ticket depuis le catalogue ; il en suit le traitement.
+
+**Rapport de tests (/10 avec le plan).** Attendu : synthèse chiffrée, par ​exemple 6 tests exécutés dont 5 conformes, soit 5 / 6 = 83 % ; anomalies décrites avec cause, correction et test rejoué ; décision motivée (accepté, accepté avec réserves, refusé) ; signatures.
+
+**Barème indicatif du bloc tests.**
+
+| Élément | Points |
+|---|---|
+| Plan de tests complet, ​résultats attendus avant exécution | 4 |
+| Preuves datées pour chaque test | 2 |
+| Rapport : synthèse chiffrée et anomalies traitées | 3 |
+| Décision d'acceptation motivée | 1 |
+
+**Pièges fréquents :** écrire le résultat ​attendu après avoir vu le résultat obtenu ; ne tester que le fonctionnement et jamais l'acceptation ; rapport sans anomalie ni nouveau test alors qu'un test a échoué ; confondre taux de ​conformité et nombre de tests.
 
 ## Pièges fréquents
 

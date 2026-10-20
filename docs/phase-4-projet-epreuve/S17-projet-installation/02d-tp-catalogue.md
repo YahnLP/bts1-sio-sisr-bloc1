@@ -79,7 +79,9 @@ Remplis ce bilan **seul**, honnêtement : il sert à décider ce qu'il faut repr
 - [ ] Installer GLPI et OCS Inventory et les synchroniser ;
 - [ ] Déployer l'agent sur un poste ;
 - [ ] Créer le catalogue de services dans GLPI ;
-- [ ] Documenter dans le wiki au fur et à mesure.
+- [ ] Documenter dans le wiki au fur et à mesure ;
+- [ ] Suivre un projet dans un outil de gestion de projet ;
+- [ ] Rédiger un plan de tests et un rapport de tests (intégration, acceptation).
 
 **Ce que je dois reprendre :** ______________________
 

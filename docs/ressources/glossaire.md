@@ -17,6 +17,8 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **ANSSI** |  |  | Agence Nationale Sécurité SI (France) | S14 |
 | **Apache** |  |  | Serveur web open source | S15 |
 | **Apportez votre équipement personnel** | BYOD | *bring your own device* | Pratique où l'utilisateur emploie son propre appareil pour le travail. | S16 |
+| **Approche agile** |  | *agile* | Organisation de projet par petites livraisons successives, avec réajustement selon les retours de l'utilisateur | S17 |
+| **Approche prédictive** |  | *waterfall* | Organisation de projet où tout est planifié au départ et où les étapes s'enchaînent | S17 |
 | **Archivage** |  | *archiving* | Conservation d'une donnée à valeur légale ou probante, de façon intègre et à accès restreint | S09 |
 | **Audit trail** |  |  | Trace documentaire prouvant la légalité des licences (factures, contrats) | S12 |
 | **Backlog** |  |  | File d'attente des tickets ouverts non résolus | S03 |
@@ -117,6 +119,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Inventaire delta** |  |  | Envoi uniquement des modifications depuis le dernier inventaire (optimisation réseau) | S05 |
 | **IT Service Management** | ITSM |  | Ensemble des pratiques de gestion des services IT | S06 |
 | **Jalon** |  | *milestone* | Point de contrôle du planning, vérifiable. | S17 |
+| **Kanban** |  | *kanban* | Tableau en colonnes (à faire, en cours, fait) qui suit l'avancement des tâches | S17 |
 | **Key Performance Indicator** | KPI |  | Indicateur clé de performance | S03 |
 | **Langage de requêtes structuré** | SQL | *structured query language* | Langage utilisé pour interroger et modifier une base de données. | S15 |
 | **Let's Encrypt** |  |  | CA gratuite et automatisée (400M de sites) | S15 |
@@ -166,6 +169,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Projet** |  | *project* | Travail unique, avec un objectif, des ressources limitées et un résultat attendu. | S17 |
 | **Protocole de bureau à distance** | RDP | *Remote Desktop Protocol* | Protocole de Microsoft qui ouvre une session distante sur un poste ou un serveur (port TCP 3389) | S04 |
 | **PV de mise en service** |  |  | Document formalisant la mise en production d'un service après validation des tests | S07 |
+| **Rapport de tests** |  | *test report* | Document qui résume les tests exécutés, les anomalies et la décision d'acceptation | S17 |
 | **Réalisation professionnelle** |  |  | Travail concret, daté et délimité, mené en formation ou en entreprise, qui laisse des preuves. | S10 |
 | **Really Simple Syndication** | RSS |  | Format de flux web | S14 |
 | **Réconciliation** |  |  | Processus de rapprochement entre licences achetées et logiciels installés | S12 |
@@ -209,6 +213,8 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Tableau de synthèse** |  |  | Tableau qui récapitule toutes les réalisations du portfolio : intitulé, période, compétences, productions. | S10 |
 | **Taux de disponibilité** |  |  | Pourcentage calculé : temps de fonctionnement / temps total × 100 | S07 |
 | **Terminal mobile** |  | *mobile device* | Téléphone ou tablette utilisé pour le travail. | S16 |
+| **Test d'acceptation** |  | *acceptance test* | Test qui vérifie que le service répond au besoin et que le client l'accepte (recette) | S17 |
+| **Test d'intégration** |  | *integration test* | Test qui vérifie que plusieurs composants fonctionnent correctement ensemble | S17 |
 | **Thème** |  |  | Template définissant l'apparence d'un site WordPress | S15 |
 | **Throttling** |  |  | Réduction automatique des performances du CPU en cas de surchauffe | S04 |
 | **Ticket** |  |  | Demande de support ou signalement d'incident dans GLPI | S17 |

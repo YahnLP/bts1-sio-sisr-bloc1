@@ -20,7 +20,9 @@
 2. **Installer** GLPI et OCS Inventory et les **synchroniser** ;
 3. **Déployer** l'agent sur un poste ;
 4. **Créer** le catalogue de services dans GLPI ;
-5. **Documenter** dans le wiki au fur et à mesure.
+5. **Documenter** dans le wiki au fur et à mesure ;
+6. **Choisir** une approche prédictive ou agile et **suivre** le projet dans un outil de gestion de projet ;
+7. **Rédiger** un plan de tests et un rapport de tests (intégration, acceptation).
 
 ## Contenu de la séance
 
@@ -34,14 +36,15 @@
 | [TP – Créer le catalogue de services dans GLPI](02d-tp-catalogue.md) | TP |
 | [Aide-mémoire – Mode projet](03-aide-memoire.md) | Aide-mémoire |
 | [Annexe – Modèle de catalogue de services](annexe-modele-catalogue.md) | Annexe |
+| [Annexe – Modèle de plan et de rapport de tests](annexe-modele-tests.md) | Annexe |
 
 ## Déroulé conseillé (4 h)
 
 | Durée | Activité | Format |
 |---|---|---|
-| 0 h 00 – 0 h 30 | **Cours** : le mode projet (rôles, jalons, planning) et lancement | Équipe |
-| 0 h 30 – 3 h 30 | **TP** : installation, synchronisation, catalogue | Équipe de trois |
-| 3 h 30 – 4 h 00 | **Point d'étape** et bilan de compétences | Équipe, puis individuel |
+| 0 h 00 – 0 h 45 | **Cours** : le mode projet (rôles, jalons, planning), approches prédictive et agile, outil de projet, tests ; lancement | Équipe |
+| 0 h 45 – 3 h 35 | **TP** : planning dans l'outil (≈ 10 min), installation, synchronisation, catalogue, puis plan et rapport de tests (≈ 15 min) | Équipe de trois |
+| 3 h 35 – 4 h 00 | **Point d'étape** et bilan de compétences | Équipe, puis individuel |
 
 ## Retour en entreprise
 
@@ -57,6 +60,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
 - Séance de travail en équipe : prévoir un tableau de planning visible (papier ou outil libre).
+- **Ajout (savoirs du référentiel) :** approches prédictive et agile, outil de gestion de projet (fonctionnalités et paramétrage), tests d'intégration et d'acceptation avec rapport de test. Le temps ajouté est pris sur la durée du cours d'ouverture et sur le point d'étape : si l'installation prend du retard, finir le catalogue (T4) en début de S18. Le barème du projet a été rééquilibré (/100) : **à valider**. Les écrans du module « Projets » de GLPI dépendent de la version installée : **à vérifier**.
 - Le cours « mode projet » est ajouté par la refonte : la compétence B1.4 n'était pas travaillée explicitement.
 
 </details>

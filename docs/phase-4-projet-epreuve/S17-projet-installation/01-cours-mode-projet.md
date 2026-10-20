@@ -4,7 +4,7 @@
 
 > [!NOTE] Ce que tu dois savoir déjà
 > - **Prérequis :** wiki d'équipe et Git (S16), GLPI et OCS (S05, S06).
-> - **Expliqués dans ce cours :** projet, parties prenantes, rôles, livrable, jalon, planning, risque, compte rendu, bilan.
+> - **Expliqués dans ce cours :** projet, parties prenantes, rôles, livrable, jalon, planning, risque, compte rendu, bilan, approche prédictive et agile, outil de projet, tests d'intégration et d'acceptation.
 
 ## À la fin de ce cours, tu sauras
 
@@ -12,6 +12,9 @@
 - [ ] **découper** un projet en tâches avec des **livrables** et des **jalons** ;
 - [ ] **répartir** les rôles dans une équipe de trois ;
 - [ ] tenir un **planning** et un **compte rendu** de réunion ;
+- [ ] **choisir** entre une approche prédictive et une approche agile ;
+- [ ] **paramétrer** et **utiliser** un outil de gestion de projet ;
+- [ ] **rédiger** un plan de tests (intégration, acceptation) et un rapport de tests ;
 - [ ] **présenter ta contribution personnelle** dans un travail d'équipe.
 
 ---
@@ -100,7 +103,69 @@ Un **jalon** est un point de contrôle : « à la fin de la première heure, GLP
 
 </details>
 
-## 6. Montrer sa contribution personnelle
+## 6. Prédictif ou agile ?
+
+Deux grandes façons d'organiser un projet.
+
+| **Approche** | **Principe** | **Adaptée quand…** | **Limite** |
+|---|---|---|---|
+| **Prédictive** (séquentielle, « en cascade ») | On planifie **tout au départ** ; les étapes s'enchaînent : besoin, conception, réalisation, tests, livraison | Le besoin est connu et stable, la date et le livrable sont fixés | Un changement tardif coûte cher |
+| **Agile** | On livre **par petites parties** (itérations courtes, souvent de 1 à 4 semaines) et on **réajuste** selon les retours de l'utilisateur | Le besoin est flou ou évolue | Demande un utilisateur disponible et une équipe organisée |
+
+Deux méthodes agiles courantes :
+
+- **Kanban** : un tableau en colonnes (À faire, En cours, Fait) et une **limite de tâches en cours** pour éviter de tout commencer sans rien finir ;
+- **Scrum** : des itérations (les *sprints*), une liste priorisée des besoins (le *backlog*) et une revue en fin d'itération.
+
+**Et notre projet ?** Le besoin est connu, quatre séances sont fixées, la livraison est datée : l'approche est **prédictive** (tâches, jalons, planning). On y ajoute un **tableau Kanban** pour suivre l'avancement au quotidien : en pratique, beaucoup de projets **mélangent** les deux approches.
+
+## 7. Un outil de gestion de projet
+
+Un outil de projet remplace le tableau papier et garde la **trace** de l'avancement.
+
+| **Fonction** | **À quoi elle sert** |
+|---|---|
+| Projet et tâches | Découper, attribuer un responsable, estimer une durée |
+| État et avancement | Nouveau, en cours, terminé ; pourcentage réalisé |
+| Dépendances et jalons | Voir ce qui bloque quoi |
+| Diagramme de Gantt | Visualiser le planning |
+| Tableau Kanban | Suivre les tâches par colonnes |
+| Équipe et droits | Dire qui voit et modifie quoi |
+
+**Paramétrage de base :** définir les états possibles, les types de tâche, les membres de l'équipe et leurs droits. GLPI propose un module « Projets » avec tâches, Gantt et Kanban (dans le menu Outils ; les écrans varient **selon la version**, à vérifier sur ton installation). Des outils libres existent aussi (OpenProject, par exemple) ; le choix de l'outil de l'organisation est à valider avec elle.
+
+## 8. Tester avant de livrer : intégration et acceptation
+
+Un service qui s'installe sans erreur n'est pas encore un service **livrable**. On teste à trois niveaux :
+
+| **Test** | **Question** | **Exemple (projet SimIO)** |
+|---|---|---|
+| **Test de fonctionnement** | Le composant marche-t-il seul ? | La page de connexion de GLPI s'affiche |
+| **Test d'intégration** | Les composants marchent-ils **ensemble** ? | Le poste équipé de l'agent apparaît dans GLPI après synchronisation avec OCS |
+| **Test d'acceptation** (recette) | Le service répond-il au **besoin** ? Le client l'accepte-t-il ? | Un utilisateur ouvre un ticket depuis le catalogue et en suit le traitement |
+
+### 8.1 Le plan de tests
+
+On écrit les tests **avant** de les exécuter, avec le **résultat attendu** :
+
+| **N°** | **Objectif** | **Étapes** | **Résultat attendu** | **Résultat obtenu** | **Statut** | **Preuve** |
+|---|---|---|---|---|---|---|
+| 1 | Synchronisation OCS vers GLPI | Lancer la synchronisation, ouvrir la liste des ordinateurs | Le poste de test apparaît | | | Capture |
+| 2 | Création d'un ticket | Se connecter comme utilisateur, ouvrir un ticket de la catégorie « Messagerie » | Le ticket est enregistré avec la bonne catégorie | | | Capture |
+
+### 8.2 Le rapport de tests
+
+| **Rubrique** | **Contenu** |
+|---|---|
+| Synthèse | Nombre de tests, conformes, non conformes |
+| Anomalies | Description, cause, correction, nouveau test |
+| Décision | Service accepté, accepté avec réserves, refusé |
+| Signature | Équipe projet et client (l'enseignant) |
+
+> [!NOTE]
+> **Exemple chiffré.** Sur 8 tests exécutés, 7 sont conformes et 1 non conforme : le taux de conformité est 7 / 8 = 87,5 %. L'anomalie est corrigée puis le test est **rejoué** : le rapport garde la trace des deux passages.
+
+## 9. Montrer sa contribution personnelle
 
 À l'épreuve E5, le jury veut savoir **ce que tu as fait** dans l'équipe. Dès maintenant :
 
@@ -113,4 +178,7 @@ Un **jalon** est un point de contrôle : « à la fin de la première heure, GLP
 - Un projet est **unique**, borné, avec des **livrables** et des **jalons**.
 - Les **rôles** (pilote, référent technique, documentation) **tournent** : tout le monde manipule.
 - Un **planning** mis à jour et un **compte rendu** régulier permettent de **réagir tôt**.
+- Une approche **prédictive** planifie tout au départ ; une approche **agile** livre par itérations et réajuste. Beaucoup de projets mélangent les deux.
+- Un **outil de projet** garde la trace des tâches, des états et de l'avancement.
+- On teste à trois niveaux : fonctionnement, **intégration**, **acceptation** ; on écrit le **résultat attendu avant** d'exécuter, et on rédige un **rapport de tests**.
 - Pour l'épreuve : **ta contribution personnelle** doit être **visible** dans ton journal et dans tes preuves.

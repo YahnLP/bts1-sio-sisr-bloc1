@@ -2,40 +2,15 @@
 
 *BTS SIO SISR 1re année – Bloc 1 – S06*
 
-## ANNEXE B — FICHE DE NAVIGATION RAPIDE GLPI
+*Pour les débutants, à conserver.*
 
-*Pour les apprenants débutants — À conserver*
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              NAVIGATION RAPIDE GLPI                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  CRÉER UN TICKET                                            ║
-║  Assistance → + (bouton vert) → Créer un ticket             ║
-║                                                              ║
-║  VOIR MES TICKETS                                           ║
-║  Assistance → Tickets → (filtre : Technicien = moi)         ║
-║                                                              ║
-║  CHANGER LE STATUT D'UN TICKET                              ║
-║  Ouvrir le ticket → En-tête → Statut → Sélectionner         ║
-║                                                              ║
-║  AJOUTER UN SUIVI (commentaire)                             ║
-║  Ouvrir le ticket → Onglet "Suivi" → Ajouter un suivi       ║
-║  ☑ Privé = interne (non visible utilisateur)                 ║
-║  ☐ Privé = public (visible utilisateur)                      ║
-║                                                              ║
-║  RÉDIGER LA SOLUTION (passer en Résolu)                     ║
-║  Ouvrir le ticket → Onglet "Solution" → Saisir + Valider     ║
-║                                                              ║
-║  CLÔTURER UN TICKET                                         ║
-║  Ouvrir un ticket Résolu → Statut → Clôturé                  ║
-║                                                              ║
-║  LIER UN CI (équipement) À UN TICKET                        ║
-║  Ouvrir le ticket → Onglet "Eléments" → Ajouter             ║
-║                                                              ║
-║  VOIR LES STATISTIQUES                                      ║
-║  Assistance → Statistiques → Vue globale                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
+| **Je veux...** | **Chemin dans GLPI** |
+|---|---|
+| **Créer un ticket** | Assistance → bouton + → Créer un ticket |
+| **Voir mes tickets** | Assistance → Tickets, filtre « Technicien = moi » |
+| **Changer le statut** | Ouvrir le ticket → en-tête → Statut |
+| **Ajouter un suivi** | Ouvrir le ticket → onglet *Suivi* → Ajouter. **Privé** coché : interne (invisible de l'utilisateur) ; décoché : public |
+| **Rédiger la solution** (passer en Résolu) | Ouvrir le ticket → onglet *Solution* → saisir et valider |
+| **Clore un ticket** | Ouvrir un ticket Résolu → Statut → Clos |
+| **Lier un équipement** | Ouvrir le ticket → onglet *Éléments* → Ajouter |
+| **Voir les statistiques** | Assistance → Statistiques → Vue globale |

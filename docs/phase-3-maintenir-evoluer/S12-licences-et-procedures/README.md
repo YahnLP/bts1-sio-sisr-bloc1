@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Complément** – Licences et procédures : utiles, mais aucune séance ne s'appuie dessus ; les licences sont aussi traitées en CEJM. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S02, S05, S06. |
-| **Matériel** | Export d'inventaire logiciel (fourni), GLPI |
+| **Matériel** | Export d'inventaire logiciel (fourni), GLPI ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B1.1 · B1.2 · B1.6 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

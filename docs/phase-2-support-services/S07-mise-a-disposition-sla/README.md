@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Mise à disposition et SLA (B1.5) : seule séance dédiée. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S03 (SLA), S06. |
-| **Matériel** | Calculatrice, modèles de PV et de SLA |
+| **Matériel** | Calculatrice, modèles de PV et de SLA ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B1.5 · B1.2 · B1.4 (amorcée) (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

@@ -23,26 +23,53 @@
 
 La **gestion de parc informatique** (ou **asset management** en anglais) désigne l'ensemble des activités permettant de **recenser, suivre et administrer** tous les équipements informatiques et logiciels d'une organisation, tout au long de leur cycle de vie.
 
-```
-   CYCLE DE VIE D'UN ÉQUIPEMENT
-   ─────────────────────────────────────────────────────────────
-
-   ① Acquisition          ② Déploiement        ③ Exploitation
-   ─────────────          ────────────          ──────────────
-   Achat / leasing        Installation          Utilisation
-   Réception              Configuration         Maintenance
-   Vérification           Intégration parc      Mises à jour
-   → Créer la fiche       → Compléter la        → Maintenir la
-                            fiche                 fiche à jour
-
-   ④ Maintenance          ⑤ Fin de vie
-   ─────────────          ────────────
-   Réparation             Décommission
-   Remplacement pièce     Effacement données
-   Mise à niveau          Recyclage / Don
-   → Historique           → Clôturer la fiche
-     dans la fiche
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 860 215" style="max-width:860px" role="img" aria-label="Cycle de vie d&#x27;un équipement en cinq étapes : acquisition, déploiement, exploitation, maintenance, fin de vie" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="10" width="160" height="150" rx="8" class="dg-box"/>
+<text x="80.0" y="63.0" text-anchor="middle" class="dg-t">1  Acquisition</text>
+<text x="80.0" y="81.0" text-anchor="middle" class="dg-s">Achat / leasing</text>
+<text x="80.0" y="99.0" text-anchor="middle" class="dg-s">Réception</text>
+<text x="80.0" y="117.0" text-anchor="middle" class="dg-s">Vérification</text>
+<rect x="0" y="166" width="160" height="38" rx="8" class="dg-ok"/>
+<text x="80" y="190" text-anchor="middle" class="dg-s">Créer la fiche</text>
+<line x1="161" y1="85" x2="165.0" y2="85.0" class="dg-line"/>
+<polygon points="174,85 165.0,80.0 165.0,90.0" class="dg-ah"/>
+<rect x="175" y="10" width="160" height="150" rx="8" class="dg-box"/>
+<text x="255.0" y="63.0" text-anchor="middle" class="dg-t">2  Déploiement</text>
+<text x="255.0" y="81.0" text-anchor="middle" class="dg-s">Installation</text>
+<text x="255.0" y="99.0" text-anchor="middle" class="dg-s">Configuration</text>
+<text x="255.0" y="117.0" text-anchor="middle" class="dg-s">Intégration au parc</text>
+<rect x="175" y="166" width="160" height="38" rx="8" class="dg-ok"/>
+<text x="255" y="190" text-anchor="middle" class="dg-s">Compléter la fiche</text>
+<line x1="336" y1="85" x2="340.0" y2="85.0" class="dg-line"/>
+<polygon points="349,85 340.0,80.0 340.0,90.0" class="dg-ah"/>
+<rect x="350" y="10" width="160" height="150" rx="8" class="dg-box"/>
+<text x="430.0" y="63.0" text-anchor="middle" class="dg-t">3  Exploitation</text>
+<text x="430.0" y="81.0" text-anchor="middle" class="dg-s">Utilisation</text>
+<text x="430.0" y="99.0" text-anchor="middle" class="dg-s">Support utilisateur</text>
+<text x="430.0" y="117.0" text-anchor="middle" class="dg-s">Mises à jour</text>
+<rect x="350" y="166" width="160" height="38" rx="8" class="dg-ok"/>
+<text x="430" y="190" text-anchor="middle" class="dg-s">Tenir la fiche à jour</text>
+<line x1="511" y1="85" x2="515.0" y2="85.0" class="dg-line"/>
+<polygon points="524,85 515.0,80.0 515.0,90.0" class="dg-ah"/>
+<rect x="525" y="10" width="160" height="150" rx="8" class="dg-box"/>
+<text x="605.0" y="63.0" text-anchor="middle" class="dg-t">4  Maintenance</text>
+<text x="605.0" y="81.0" text-anchor="middle" class="dg-s">Réparation</text>
+<text x="605.0" y="99.0" text-anchor="middle" class="dg-s">Remplacer une pièce</text>
+<text x="605.0" y="117.0" text-anchor="middle" class="dg-s">Mise à niveau</text>
+<rect x="525" y="166" width="160" height="38" rx="8" class="dg-ok"/>
+<text x="605" y="190" text-anchor="middle" class="dg-s">Historiser dans la fiche</text>
+<line x1="686" y1="85" x2="690.0" y2="85.0" class="dg-line"/>
+<polygon points="699,85 690.0,80.0 690.0,90.0" class="dg-ah"/>
+<rect x="700" y="10" width="160" height="150" rx="8" class="dg-box"/>
+<text x="780.0" y="63.0" text-anchor="middle" class="dg-t">5  Fin de vie</text>
+<text x="780.0" y="81.0" text-anchor="middle" class="dg-s">Décommission</text>
+<text x="780.0" y="99.0" text-anchor="middle" class="dg-s">Effacer les données</text>
+<text x="780.0" y="117.0" text-anchor="middle" class="dg-s">Recyclage / don</text>
+<rect x="700" y="166" width="160" height="38" rx="8" class="dg-ok"/>
+<text x="780" y="190" text-anchor="middle" class="dg-s">Clôturer la fiche</text>
+</svg>
+<figcaption>Le cycle de vie d&#x27;un équipement et ce que devient sa fiche à chaque étape</figcaption>
+</figure>
 
 *Légende : Le cycle de vie d'un équipement informatique en 5 phases. La fiche d'inventaire naît lors de l'acquisition et est mise à jour à chaque étape. Elle est clôturée (et conservée en archive) lors du décommissionnement.*
 
@@ -70,24 +97,36 @@ En cas de panne ou de sinistre, l'inventaire permet de savoir exactement ce qui 
 
 Un inventaire de parc complet couvre trois dimensions distinctes :
 
-```
-   ┌──────────────────────────────────────────────────────────────┐
-   │                    INVENTAIRE DE PARC                        │
-   │                                                              │
-   │   ┌──────────────┐  ┌──────────────┐  ┌────────────────┐    │
-   │   │   MATÉRIEL   │  │   LOGICIEL   │  │    LICENCES    │    │
-   │   │              │  │              │  │                │    │
-   │   │ • PC/laptops │  │ • OS (W/L)   │  │ • Type (OEM,  │    │
-   │   │ • Serveurs   │  │ • Bureautique│  │   Volume, Sub) │    │
-   │   │ • Switches   │  │ • Métier     │  │ • Nombre       │    │
-   │   │ • Routeurs   │  │ • Sécurité   │  │ • Expiration   │    │
-   │   │ • Imprimantes│  │ • Agents IT  │  │ • Clé/serial   │    │
-   │   │ • Téléphones │  │              │  │                │    │
-   │   └──────────────┘  └──────────────┘  └────────────────┘    │
-   │                                                              │
-   │   + Localisation + Affectation utilisateur + Historique      │
-   └──────────────────────────────────────────────────────────────┘
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 790 255" style="max-width:790px" role="img" aria-label="Un inventaire de parc : matériel, logiciels et licences, avec localisation, utilisateur affecté et historique" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="8" width="250" height="26" rx="6" class="dg-dark"/>
+<text x="125" y="26" text-anchor="middle" class="dg-w">Matériel</text>
+<rect x="0" y="38" width="250" height="150" rx="6" class="dg-box"/>
+<text x="16" y="62" text-anchor="start" class="dg-s">• PC et portables</text>
+<text x="16" y="84" text-anchor="start" class="dg-s">• Serveurs</text>
+<text x="16" y="106" text-anchor="start" class="dg-s">• Commutateurs (switchs)</text>
+<text x="16" y="128" text-anchor="start" class="dg-s">• Routeurs</text>
+<text x="16" y="150" text-anchor="start" class="dg-s">• Imprimantes</text>
+<text x="16" y="172" text-anchor="start" class="dg-s">• Téléphones</text>
+<rect x="270" y="8" width="250" height="26" rx="6" class="dg-dark"/>
+<text x="395" y="26" text-anchor="middle" class="dg-w">Logiciels</text>
+<rect x="270" y="38" width="250" height="150" rx="6" class="dg-box"/>
+<text x="286" y="62" text-anchor="start" class="dg-s">• Systèmes d&#x27;exploitation</text>
+<text x="286" y="84" text-anchor="start" class="dg-s">• Bureautique</text>
+<text x="286" y="106" text-anchor="start" class="dg-s">• Logiciels métier</text>
+<text x="286" y="128" text-anchor="start" class="dg-s">• Sécurité</text>
+<text x="286" y="150" text-anchor="start" class="dg-s">• Agents informatiques</text>
+<rect x="540" y="8" width="250" height="26" rx="6" class="dg-dark"/>
+<text x="665" y="26" text-anchor="middle" class="dg-w">Licences</text>
+<rect x="540" y="38" width="250" height="150" rx="6" class="dg-box"/>
+<text x="556" y="62" text-anchor="start" class="dg-s">• Type (OEM, volume, abonnement)</text>
+<text x="556" y="84" text-anchor="start" class="dg-s">• Nombre</text>
+<text x="556" y="106" text-anchor="start" class="dg-s">• Date d&#x27;expiration</text>
+<text x="556" y="128" text-anchor="start" class="dg-s">• Clé / numéro de série</text>
+<rect x="0" y="200" width="790" height="46" rx="8" class="dg-ok"/>
+<text x="395" y="228" text-anchor="middle" class="dg-t">Pour chaque élément : localisation  +  utilisateur affecté  +  historique des interventions</text>
+</svg>
+<figcaption>Ce que contient un inventaire de parc</figcaption>
+</figure>
 
 ### 1.4 Types de Licences Logicielles à Connaître
 

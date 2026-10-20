@@ -23,34 +23,50 @@
 
 ### 1.1 Les 7 Étapes
 
-```
-   ① SIGNALEMENT          ② ENREGISTREMENT        ③ QUALIFICATION
-   ─────────────          ─────────────────        ───────────────
-   Utilisateur            Ticket ouvert            Catégorie
-   contacte le      →     dans l'outil       →     Priorité (P1-P4)
-   support                ITSM                     Impact / Urgence
-   (tel, mail,            Toutes les               Niveau attribué
-   portail)               infos collectées         (N1/N2/N3)
-
-        │
-        ▼
-   ④ DIAGNOSTIC           ⑤ RÉSOLUTION            ⑥ VALIDATION
-   ────────────           ──────────────           ────────────
-   Méthode                Solution                 Utilisateur
-   structurée       →     appliquée          →     confirme
-   Hypothèses             Testée                   que le service
-   testées 1 à 1          Documentée               est restauré
-
-        │
-        ▼
-   ⑦ CLÔTURE
-   ─────────
-   Ticket fermé
-   MTTR calculé
-   Satisfaction recueillie
-   Alimentation base
-   de connaissances
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 900 330" style="max-width:900px" role="img" aria-label="Cycle de résolution d&#x27;un incident en sept étapes, du signalement à la clôture" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="8" width="200" height="110" rx="8" class="dg-box"/>
+<text x="100.0" y="50.0" text-anchor="middle" class="dg-t">1  Signalement</text>
+<text x="100.0" y="68.0" text-anchor="middle" class="dg-s">L&#x27;utilisateur contacte</text>
+<text x="100.0" y="86.0" text-anchor="middle" class="dg-s">le support</text>
+<line x1="202" y1="63" x2="222.0" y2="63.0" class="dg-line"/>
+<polygon points="231,63 222.0,58.0 222.0,68.0" class="dg-ah"/>
+<rect x="233" y="8" width="200" height="110" rx="8" class="dg-box"/>
+<text x="333.0" y="50.0" text-anchor="middle" class="dg-t">2  Enregistrement</text>
+<text x="333.0" y="68.0" text-anchor="middle" class="dg-s">Ticket ouvert dans l&#x27;ITSM</text>
+<text x="333.0" y="86.0" text-anchor="middle" class="dg-s">Infos collectées</text>
+<line x1="435" y1="63" x2="455.0" y2="63.0" class="dg-line"/>
+<polygon points="464,63 455.0,58.0 455.0,68.0" class="dg-ah"/>
+<rect x="466" y="8" width="200" height="110" rx="8" class="dg-box"/>
+<text x="566.0" y="50.0" text-anchor="middle" class="dg-t">3  Qualification</text>
+<text x="566.0" y="68.0" text-anchor="middle" class="dg-s">Catégorie, priorité</text>
+<text x="566.0" y="86.0" text-anchor="middle" class="dg-s">Niveau attribué</text>
+<line x1="668" y1="63" x2="688.0" y2="63.0" class="dg-line"/>
+<polygon points="697,63 688.0,58.0 688.0,68.0" class="dg-ah"/>
+<rect x="699" y="8" width="200" height="110" rx="8" class="dg-box"/>
+<text x="799.0" y="50.0" text-anchor="middle" class="dg-t">4  Diagnostic</text>
+<text x="799.0" y="68.0" text-anchor="middle" class="dg-s">Méthode structurée</text>
+<text x="799.0" y="86.0" text-anchor="middle" class="dg-s">Hypothèses testées une à une</text>
+<rect x="699" y="200" width="200" height="110" rx="8" class="dg-box"/>
+<text x="799.0" y="242.0" text-anchor="middle" class="dg-t">5  Résolution</text>
+<text x="799.0" y="260.0" text-anchor="middle" class="dg-s">Solution appliquée</text>
+<text x="799.0" y="278.0" text-anchor="middle" class="dg-s">testée, documentée</text>
+<line x1="697" y1="255" x2="677.0" y2="255.0" class="dg-line"/>
+<polygon points="668,255 677.0,260.0 677.0,250.0" class="dg-ah"/>
+<rect x="466" y="200" width="200" height="110" rx="8" class="dg-box"/>
+<text x="566.0" y="242.0" text-anchor="middle" class="dg-t">6  Validation</text>
+<text x="566.0" y="260.0" text-anchor="middle" class="dg-s">L&#x27;utilisateur confirme</text>
+<text x="566.0" y="278.0" text-anchor="middle" class="dg-s">le retour du service</text>
+<line x1="464" y1="255" x2="444.0" y2="255.0" class="dg-line"/>
+<polygon points="435,255 444.0,260.0 444.0,250.0" class="dg-ah"/>
+<rect x="233" y="200" width="200" height="110" rx="8" class="dg-ok"/>
+<text x="333.0" y="242.0" text-anchor="middle" class="dg-t">7  Clôture</text>
+<text x="333.0" y="260.0" text-anchor="middle" class="dg-s">MTTR calculé</text>
+<text x="333.0" y="278.0" text-anchor="middle" class="dg-s">Base de connaissances</text>
+<line x1="799.0" y1="120" x2="799.0" y2="189.0" class="dg-line"/>
+<polygon points="799.0,198 804.0,189.0 794.0,189.0" class="dg-ah"/>
+</svg>
+<figcaption>Les sept étapes de résolution d&#x27;un incident</figcaption>
+</figure>
 
 ### 1.2 Ce Qui Doit Figurer dans le Ticket à Chaque Étape
 
@@ -73,18 +89,34 @@
 
 La méthode la plus efficace pour diagnostiquer un incident réseau ou système consiste à remonter les couches du modèle OSI **du bas vers le haut** — de la couche physique (câble, alimentation) vers la couche application (logiciel, droits).
 
-```
-   COUCHE 7 — Application   ← Vérifier en dernier
-   COUCHE 6 — Présentation
-   COUCHE 5 — Session
-   COUCHE 4 — Transport     ← Ports, firewall, service actif ?
-   COUCHE 3 — Réseau        ← IP, routage, ping ?
-   COUCHE 2 — Liaison       ← MAC, switch, VLAN ?
-   COUCHE 1 — Physique      ← Vérifier en premier
-                               Câble branché ?
-                               Voyant allumé ?
-                               Alimentation ?
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 760 330" style="max-width:760px" role="img" aria-label="Les sept couches OSI et l&#x27;ordre du diagnostic : on commence par la couche physique et on remonte vers l&#x27;application" xmlns="http://www.w3.org/2000/svg">
+<rect x="80" y="8" width="240" height="38" rx="8" class="dg-soft"/>
+<text x="200.0" y="32.0" text-anchor="middle" class="dg-t">7  Application</text>
+<text x="340" y="32" text-anchor="start" class="dg-s">vérifier en dernier : droits, logiciel</text>
+<rect x="80" y="52" width="240" height="38" rx="8" class="dg-soft"/>
+<text x="200.0" y="76.0" text-anchor="middle" class="dg-t">6  Présentation</text>
+<rect x="80" y="96" width="240" height="38" rx="8" class="dg-soft"/>
+<text x="200.0" y="120.0" text-anchor="middle" class="dg-t">5  Session</text>
+<rect x="80" y="140" width="240" height="38" rx="8" class="dg-box"/>
+<text x="200.0" y="164.0" text-anchor="middle" class="dg-t">4  Transport</text>
+<text x="340" y="164" text-anchor="start" class="dg-s">ports, pare-feu, service actif ?</text>
+<rect x="80" y="184" width="240" height="38" rx="8" class="dg-box"/>
+<text x="200.0" y="208.0" text-anchor="middle" class="dg-t">3  Réseau</text>
+<text x="340" y="208" text-anchor="start" class="dg-s">adresse IP, routage, ping ?</text>
+<rect x="80" y="228" width="240" height="38" rx="8" class="dg-box"/>
+<text x="200.0" y="252.0" text-anchor="middle" class="dg-t">2  Liaison</text>
+<text x="340" y="252" text-anchor="start" class="dg-s">adresse MAC, commutateur, VLAN ?</text>
+<rect x="80" y="272" width="240" height="38" rx="8" class="dg-ok"/>
+<text x="200.0" y="296.0" text-anchor="middle" class="dg-t">1  Physique</text>
+<text x="340" y="296" text-anchor="start" class="dg-s">vérifier en premier : câble, voyant, alimentation</text>
+<line x1="48" y1="300" x2="48.0" y2="23.0" class="dg-line"/>
+<polygon points="48,14 43.0,23.0 53.0,23.0" class="dg-ah"/>
+<text transform="translate(28,160) rotate(-90)" text-anchor="middle" class="dg-i">sens du diagnostic</text>
+</svg>
+<figcaption>Le diagnostic remonte les couches OSI du bas vers le haut</figcaption>
+</figure>
+
+Les couches 5 à 7 se vérifient en dernier : on ne cherche un problème de logiciel ou de droits qu'une fois les couches basses éliminées.
 
 **En pratique pour chaque incident :**
 
@@ -106,83 +138,33 @@ Pour tout incident, se poser ces 5 questions dans l'ordre :
 
 #### IMPRIMANTE
 
-```
-   NIVEAU 1 — PHYSIQUE
-   ├── Imprimante allumée ? Voyant d'état normal ?
-   ├── Câble alimentation branché ?
-   ├── Câble USB ou réseau branché des deux côtés ?
-   └── Papier présent ? Bourrage papier ?
-
-   NIVEAU 2 — SYSTÈME
-   ├── Imprimante visible dans "Périphériques et imprimantes" ?
-   ├── État de l'imprimante : en ligne / hors ligne / en pause ?
-   ├── File d'attente : travaux bloqués ? Vider la file.
-   └── Imprimante définie comme "Par défaut" ?
-
-   NIVEAU 3 — PILOTE / RÉSEAU
-   ├── Pilote installé et à jour ?
-   ├── Si réseau : ping vers l'IP de l'imprimante ?
-   ├── Port d'impression correct (IP, port 9100 ou 515) ?
-   └── Pare-feu bloquant le port d'impression ?
-
-   NIVEAU 4 — APPLICATION
-   ├── L'application peut-elle imprimer (test page Windows) ?
-   ├── Problème avec un seul logiciel ou tous ?
-   └── Droits d'impression pour l'utilisateur ?
-```
+| Niveau | À vérifier |
+|---|---|
+| **1. Physique** | • Imprimante allumée ? Voyant d'état normal ?<br>• Câble alimentation branché ?<br>• Câble USB ou réseau branché des deux côtés ?<br>• Papier présent ? Bourrage papier ? |
+| **2. Système** | • Imprimante visible dans "Périphériques et imprimantes" ?<br>• État de l'imprimante : en ligne / hors ligne / en pause ?<br>• File d'attente : travaux bloqués ? Vider la file.<br>• Imprimante définie comme "Par défaut" ? |
+| **3. Pilote / Réseau** | • Pilote installé et à jour ?<br>• Si réseau : ping vers l'IP de l'imprimante ?<br>• Port d'impression correct (IP, port 9100 ou 515) ?<br>• Pare-feu bloquant le port d'impression ? |
+| **4. Application** | • L'application peut-elle imprimer (test page Windows) ?<br>• Problème avec un seul logiciel ou tous ?<br>• Droits d'impression pour l'utilisateur ? |
 
 #### ACCÈS DOSSIER REFUSÉ
 
-```
-   NIVEAU 1 — CONNECTIVITÉ
-   ├── Le partage réseau est-il accessible ? (ping du serveur)
-   ├── Le chemin UNC est-il correct ? (\\serveur\partage)
-   └── Le lecteur réseau est-il connecté ?
+| Niveau | À vérifier |
+|---|---|
+| **1. Connectivité** | • Le partage réseau est-il accessible ? (ping du serveur)<br>• Le chemin UNC est-il correct ? (\\serveur\partage)<br>• Le lecteur réseau est-il connecté ? |
+| **2. Authentification** | • L'utilisateur est-il authentifié sur le domaine ?<br>• Le compte est-il actif et non verrouillé ?<br>• Mot de passe expiré ? |
+| **3. Droits De Partage** | • L'utilisateur (ou son groupe) est-il dans les droits de partage ?<br>• Niveau de droits suffisant (Lecture / Modification / Contrôle total) ? |
+| **4. Droits Ntfs** | • Droits NTFS sur le dossier pour l'utilisateur ou son groupe ?<br>• Vérifier les "Permissions effectives" (onglet Sécurité → Avancé)<br>• Un refus (Deny) explicite annule tout droit accordé<br>• Héritage activé ou désactivé sur ce dossier ? |
 
-   NIVEAU 2 — AUTHENTIFICATION
-   ├── L'utilisateur est-il authentifié sur le domaine ?
-   ├── Le compte est-il actif et non verrouillé ?
-   └── Mot de passe expiré ?
-
-   NIVEAU 3 — DROITS DE PARTAGE
-   ├── L'utilisateur (ou son groupe) est-il dans les droits de partage ?
-   └── Niveau de droits suffisant (Lecture / Modification / Contrôle total) ?
-
-   NIVEAU 4 — DROITS NTFS
-   ├── Droits NTFS sur le dossier pour l'utilisateur ou son groupe ?
-   ├── Vérifier les "Permissions effectives" (onglet Sécurité → Avancé)
-   ├── Un refus (Deny) explicite annule tout droit accordé
-   └── Héritage activé ou désactivé sur ce dossier ?
-
-   → Règle : c'est la permission LA PLUS RESTRICTIVE entre
-     droits de partage et droits NTFS qui s'applique
-```
+> [!NOTE]
+> Règle : c'est la permission LA PLUS RESTRICTIVE entre droits de partage et droits NTFS qui s'applique
 
 #### POSTE LENT
 
-```
-   NIVEAU 1 — RESSOURCES SYSTÈME (Gestionnaire des tâches)
-   ├── CPU : consommation anormale ? Quel processus ?
-   ├── RAM : utilisation > 85% ? Fichier d'échange actif ?
-   ├── Disque : activité à 100% ? Disque HDD saturé ?
-   └── Réseau : activité suspecte en arrière-plan ?
-
-   NIVEAU 2 — PROCESSUS ET SERVICES
-   ├── Processus inconnus consommant des ressources → malware ?
-   ├── Mises à jour Windows en cours silencieusement ?
-   ├── Antivirus en scan complet ?
-   └── Service défaillant en boucle ?
-
-   NIVEAU 3 — DÉMARRAGE ET PERSISTANCE
-   ├── Nombreux programmes au démarrage ? (msconfig / Démarrage)
-   ├── Espace disque disponible < 10% → ralentissement swap
-   └── Fragmentation disque HDD ? (SSD : non pertinent)
-
-   NIVEAU 4 — MATÉRIEL
-   ├── RAM insuffisante pour l'usage (< 4Go pour W11)
-   ├── Température CPU élevée → throttling (HWMonitor)
-   └── Disque dur défaillant ? (CrystalDiskInfo — état SMART)
-```
+| Niveau | À vérifier |
+|---|---|
+| **1. RESSOURCES SYSTÈME (Gestionnaire des tâches)** | • CPU : consommation anormale ? Quel processus ?<br>• RAM : utilisation > 85% ? Fichier d'échange actif ?<br>• Disque : activité à 100% ? Disque HDD saturé ?<br>• Réseau : activité suspecte en arrière-plan ? |
+| **2. Processus Et Services** | • Processus inconnus consommant des ressources → malware ?<br>• Mises à jour Windows en cours silencieusement ?<br>• Antivirus en scan complet ?<br>• Service défaillant en boucle ? |
+| **3. Démarrage Et Persistance** | • Nombreux programmes au démarrage ? (msconfig / Démarrage)<br>• Espace disque disponible < 10% → ralentissement swap<br>• Fragmentation disque HDD ? (SSD : non pertinent) |
+| **4. Matériel** | • RAM insuffisante pour l'usage (< 4Go pour W11)<br>• Température CPU élevée → throttling (HWMonitor)<br>• Disque dur défaillant ? (CrystalDiskInfo — état SMART) |
 
 ## 3. La Base de Connaissances (Knowledge Base)
 
@@ -190,17 +172,24 @@ Pour tout incident, se poser ces 5 questions dans l'ordre :
 
 La **base de connaissances** (KB) est le référentiel des solutions aux incidents déjà rencontrés et résolus. Elle transforme l'expérience individuelle d'un technicien en **capital collectif** de la DSI.
 
-```
-   SANS BASE DE CONNAISSANCES          AVEC BASE DE CONNAISSANCES
-   ──────────────────────────          ──────────────────────────
-   Incident résolu                →    Incident résolu
-   Le technicien "sait"           →    Solution documentée dans KB
-   3 mois plus tard, même         →    3 mois plus tard, même
-   incident, autre technicien          incident, autre technicien
-   → repart de zéro               →    → consulte KB → 5 min
-   → 45 min                            → Utilisateur satisfait
-   → Utilisateur frustré          →    → MTTR en baisse
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 780 260" style="max-width:780px" role="img" aria-label="Comparaison d&#x27;un incident traité sans base de connaissances et avec base de connaissances" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="8" width="360" height="230" rx="8" class="dg-bad"/>
+<text x="180.0" y="83.0" text-anchor="middle" class="dg-t">Sans base de connaissances</text>
+<text x="180.0" y="101.0" text-anchor="middle" class="dg-s">Incident résolu, le technicien « sait »</text>
+<text x="180.0" y="119.0" text-anchor="middle" class="dg-s">3 mois plus tard : même incident,</text>
+<text x="180.0" y="137.0" text-anchor="middle" class="dg-s">un autre technicien</text>
+<text x="180.0" y="155.0" text-anchor="middle" class="dg-s">Il repart de zéro : 45 minutes</text>
+<text x="180.0" y="173.0" text-anchor="middle" class="dg-s">Utilisateur frustré</text>
+<rect x="420" y="8" width="360" height="230" rx="8" class="dg-ok"/>
+<text x="600.0" y="83.0" text-anchor="middle" class="dg-t">Avec base de connaissances</text>
+<text x="600.0" y="101.0" text-anchor="middle" class="dg-s">Incident résolu, solution documentée</text>
+<text x="600.0" y="119.0" text-anchor="middle" class="dg-s">3 mois plus tard : même incident,</text>
+<text x="600.0" y="137.0" text-anchor="middle" class="dg-s">un autre technicien</text>
+<text x="600.0" y="155.0" text-anchor="middle" class="dg-s">Il consulte la base : 5 minutes</text>
+<text x="600.0" y="173.0" text-anchor="middle" class="dg-s">Utilisateur satisfait, MTTR en baisse</text>
+</svg>
+<figcaption>Sans et avec base de connaissances : le même incident, trois mois plus tard</figcaption>
+</figure>
 
 ### 3.2 Structure d'une Fiche KB
 

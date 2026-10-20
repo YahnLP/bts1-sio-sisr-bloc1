@@ -290,17 +290,15 @@ ___________________________________________________________________
 
 Rédigez une courte procédure (5 à 8 étapes numérotées) expliquant comment connecter un ordinateur portable à un réseau WiFi sous Windows. Rédigez comme si c'était pour un utilisateur non-technique.
 
-```
-Procédure : Connexion à un réseau WiFi sous Windows
-──────────────────────────────────────────────────
-Étape 1 :
-Étape 2 :
-Étape 3 :
-Étape 4 :
-Étape 5 :
-Étape 6 (si applicable) :
-Étape 7 (si applicable) :
-```
+| Étape | Action à réaliser |
+|---|---|
+| 1 | |
+| 2 | |
+| 3 | |
+| 4 | |
+| 5 | |
+| 6 (si applicable) | |
+| 7 (si applicable) | |
 
 **D3 — Argumentation (4 pts)**
 

@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Complément** – Déploiement par images : technique, sans séance dépendante. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S02, S04, S05. |
-| **Matériel** | Clonezilla Live, deux machines virtuelles Windows, ISO |
+| **Matériel** | Clonezilla Live, deux machines virtuelles Windows, ISO ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B1.1 · B1.5 · B1.2 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

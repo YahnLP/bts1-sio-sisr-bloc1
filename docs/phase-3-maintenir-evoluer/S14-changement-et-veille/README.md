@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Complément** – Changement et veille : aucune séance ne s'appuie dessus, et la veille est reprise en 2e année (bloc 1). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S03 (ITIL), S06. |
-| **Matériel** | Modèle de RFC, agrégateur de flux (Feedly ou équivalent libre) |
+| **Matériel** | Modèle de RFC, agrégateur de flux (Feedly ou équivalent libre) ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B1.2 · B1.4 · B1.6 (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

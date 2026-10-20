@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Tickets et ITIL (B1.2) : prérequis de S06, S08, S14. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01, S02. |
-| **Matériel** | Poste avec navigateur |
+| **Matériel** | Poste avec navigateur ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B1.2 · B1.5 (amorcée) (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

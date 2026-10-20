@@ -3,6 +3,7 @@
 | Outil | Usage dans la formation | Accès |
 |---|---|---|
 | **VirtualBox** | Machines virtuelles Debian ou Ubuntu et Windows : c'est l'**environnement réel** des TP | Installé sur les postes de la salle |
+| **InfraLab** | Simulateur ITSM et inventaire (navigateur, sans installation) : prolongement des séances S02 à S09, S12 à S14, cœur de S05 et S06 | https://yahnlp.github.io/InfraLab/ ; fichiers de départ dans `docs/ressources/infralab/` |
 | **GLPI** | Tickets, parc, catalogue de services (S06, S09, S17, S18) | Serveur de la salle ou installé en S17 |
 | **OCS Inventory** | Inventaire automatique du parc (S05, S17) | Serveur de la salle ou installé en S17 |
 | **Clonezilla** | Capture et déploiement d'images système (S13) | Image de démarrage fournie |

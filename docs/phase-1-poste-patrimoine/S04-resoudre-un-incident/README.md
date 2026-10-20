@@ -7,7 +7,7 @@
 | **Durée** | 4 heures |
 | **Parcours** | **Cœur** – Diagnostic d'un incident (B1.2). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S03 (ticket, cycle de vie). |
-| **Matériel** | Poste Windows (VM), poste Linux (option) |
+| **Matériel** | Poste Windows (VM), poste Linux (option) ; simulateur InfraLab (navigateur, facultatif) |
 | **Compétences travaillées** | B1.2 · B1.1 · B1.5 (amorcée) (voir [le référentiel](../../ressources/referentiel.md)) |
 
 > [!NOTE]

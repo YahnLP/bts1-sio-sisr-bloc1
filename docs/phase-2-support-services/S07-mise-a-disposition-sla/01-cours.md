@@ -252,32 +252,33 @@ En S03, vous avez vu les composantes de base d'un SLA. Ici, voici le SLA complet
 
 Ces deux indicateurs définissent les **objectifs de reprise** après un incident majeur (panne grave, sinistre, cyberattaque) :
 
-```
-   INCIDENT MAJEUR
-   ──────────────────────────────────────────────────────────────────
+<figure class="graphe diagramme"><svg viewBox="0 0 760 230" style="max-width:760px" role="img" aria-label="RPO et RTO sur la ligne de temps d&#x27;un incident majeur" xmlns="http://www.w3.org/2000/svg">
+<line x1="40" y1="50" x2="720" y2="50" class="dg-line"/>
+<circle cx="120" cy="50" r="7" class="dg-dark"/>
+<text x="120" y="32" text-anchor="middle" class="dg-s">Dernière sauvegarde propre</text>
+<circle cx="340" cy="50" r="7" class="dg-dark"/>
+<text x="340" y="32" text-anchor="middle" class="dg-s">Incident survient</text>
+<circle cx="560" cy="50" r="7" class="dg-dark"/>
+<text x="560" y="32" text-anchor="middle" class="dg-s">Reprise du service</text>
+<circle cx="700" cy="50" r="7" class="dg-dark"/>
+<text x="700" y="32" text-anchor="middle" class="dg-s">Retour à la normale</text>
+<rect x="120" y="72" width="220" height="30" rx="6" class="dg-warn"/>
+<text x="230" y="92" text-anchor="middle" class="dg-t">RPO</text>
+<rect x="340" y="72" width="220" height="30" rx="6" class="dg-bad"/>
+<text x="450" y="92" text-anchor="middle" class="dg-t">RTO</text>
+<text x="230" y="126" text-anchor="middle" class="dg-s">perte de données acceptable</text>
+<text x="230" y="143" text-anchor="middle" class="dg-i">« Jusqu&#x27;où remonter dans le temps ? »</text>
+<text x="230" y="160" text-anchor="middle" class="dg-s">Ex. RPO 4 h : sauvegarde au moins</text>
+<text x="230" y="177" text-anchor="middle" class="dg-s">toutes les 4 h</text>
+<text x="450" y="126" text-anchor="middle" class="dg-s">durée d&#x27;arrêt acceptable</text>
+<text x="450" y="143" text-anchor="middle" class="dg-i">« En combien de temps rétablir ? »</text>
+<text x="450" y="160" text-anchor="middle" class="dg-s">Ex. RTO 2 h : serveur de secours,</text>
+<text x="450" y="177" text-anchor="middle" class="dg-s">procédure de bascule</text>
+</svg>
+</figure>
 
-   Dernière        Incident         Reprise du        Retour
-   sauvegarde      survient         service           à la normale
-   propre          │                │                 │
-       │           │                │                 │
-       ├───────────┼────────────────┼─────────────────┤
-       │           │                │
-       ◄── RPO ───►◄───── RTO ──────►
-
-   RPO (Recovery Point Objective)
-   ────────────────────────────────
-   Perte de données maximale acceptable.
-   "Jusqu'où peut-on remonter dans le temps ?"
-   Ex : RPO = 4h → on accepte de perdre au maximum 4h de données
-   → Sauvegarde toutes les 4h minimum
-
-   RTO (Recovery Time Objective)
-   ────────────────────────────────
-   Durée maximale acceptable pour reprendre le service.
-   "En combien de temps maximum faut-il être rétabli ?"
-   Ex : RTO = 2h → le service doit être restauré en moins de 2h
-   → Nécessite un serveur de secours, des procédures de bascule...
-```
+- **RPO (Recovery Point Objective)** : perte de données maximale acceptable. Exemple : RPO = 4 h, on accepte de perdre au plus 4 h de données, donc une sauvegarde toutes les 4 h au minimum.
+- **RTO (Recovery Time Objective)** : durée maximale acceptable pour reprendre le service. Exemple : RTO = 2 h, le service doit être restauré en moins de 2 h, ce qui demande un serveur de secours et des procédures de bascule.
 
 **Les RTO/RPO varient selon la criticité du service :**
 

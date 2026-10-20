@@ -69,21 +69,40 @@ Une **baseline** (ou **référence de configuration**) est un instantané figé 
 
 Un CI ne vit jamais seul. La CMDB enregistre les **dépendances** entre CI :
 
-```
-   Exemple de relations :
-   ─────────────────────────────────────────────────────────────
-   APPLICATION INTRANET
-       │
-       ├── Hébergée sur → SRV-WEB-01
-       ├── Utilise → BASE-INTRANET (MariaDB sur SRV-DB-01)
-       ├── Nécessite → Licence PHP (10 utilisateurs simultanés)
-       └── Accessible via → Switch-CoreN1 (VLAN 20)
+<figure class="graphe diagramme"><svg viewBox="0 0 760 300" style="max-width:760px" role="img" aria-label="Relations entre éléments de configuration autour de l&#x27;application intranet" xmlns="http://www.w3.org/2000/svg">
+<rect x="280" y="120" width="200" height="56" rx="8" class="dg-dark"/>
+<text x="380.0" y="153.0" text-anchor="middle" class="dg-w">Application intranet</text>
+<rect x="10" y="20" width="200" height="50" rx="8" class="dg-box"/>
+<text x="110.0" y="50.0" text-anchor="middle" class="dg-t">SRV-WEB-01</text>
+<line x1="380" y1="120" x2="218.5" y2="63.0" class="dg-line"/>
+<polygon points="210,60 216.8,67.7 220.2,58.3" class="dg-ah"/>
+<text x="250" y="76" text-anchor="middle" class="dg-s">hébergée sur</text>
+<rect x="550" y="20" width="200" height="50" rx="8" class="dg-box"/>
+<text x="650.0" y="41.0" text-anchor="middle" class="dg-t">BASE-INTRANET</text>
+<text x="650.0" y="59.0" text-anchor="middle" class="dg-s">MariaDB sur SRV-DB-01</text>
+<line x1="430" y1="120" x2="542.0" y2="64.0" class="dg-line"/>
+<polygon points="550,60 539.7,59.6 544.2,68.5" class="dg-ah"/>
+<text x="520" y="96" text-anchor="middle" class="dg-s">utilise</text>
+<rect x="10" y="230" width="200" height="50" rx="8" class="dg-warn"/>
+<text x="110.0" y="251.0" text-anchor="middle" class="dg-t">Licence PHP</text>
+<text x="110.0" y="269.0" text-anchor="middle" class="dg-s">10 utilisateurs simultanés</text>
+<line x1="330" y1="176" x2="217.9" y2="235.8" class="dg-line"/>
+<polygon points="210,240 220.3,240.2 215.6,231.4" class="dg-ah"/>
+<text x="230" y="214" text-anchor="middle" class="dg-s">nécessite</text>
+<rect x="550" y="230" width="200" height="50" rx="8" class="dg-box"/>
+<text x="650.0" y="251.0" text-anchor="middle" class="dg-t">Switch-CoreN1</text>
+<text x="650.0" y="269.0" text-anchor="middle" class="dg-s">VLAN 20</text>
+<line x1="430" y1="176" x2="542.1" y2="235.8" class="dg-line"/>
+<polygon points="550,240 544.4,231.4 539.7,240.2" class="dg-ah"/>
+<text x="530" y="214" text-anchor="middle" class="dg-s">accessible via</text>
+</svg>
+</figure>
 
-   Impact :
-   Si SRV-WEB-01 tombe en panne → l'intranet est inaccessible
-   Si Switch-CoreN1 redémarre → tous les services sur VLAN 20 coupés
-   Si la licence PHP expire → l'intranet peut cesser de fonctionner
-```
+**Impact :**
+
+- Si SRV-WEB-01 tombe en panne, l'intranet est inaccessible.
+- Si Switch-CoreN1 redémarre, tous les services du VLAN 20 sont coupés.
+- Si la licence PHP expire, l'intranet peut cesser de fonctionner.
 
 > [!NOTE]
 > **Utilité en gestion d'incidents :** Quand un incident P1 survient ("L'intranet est HS"), la CMDB permet de voir immédiatement tous les composants impliqués et de remonter la chaîne de dépendance pour identifier la cause.
@@ -147,31 +166,28 @@ Si vous gérez les configurations manuellement (sans Git), respecter une **conve
 
 Les équipements réseau Cisco (et la plupart des constructeurs) utilisent deux emplacements de stockage pour la configuration :
 
-```
-   ┌──────────────────────────────────────────────────────────────┐
-   │               RUNNING-CONFIG                                  │
-   │  Stockage : RAM (volatile — effacée au redémarrage)           │
-   │  Fichier  : running-config                                    │
-   │  Rôle     : Configuration ACTIVE, en cours d'utilisation       │
-   │  Commande : show running-config                                │
-   │                                                               │
-   │  C'est la config actuellement appliquée sur l'équipement.     │
-   │  Toute modification (ajout VLAN, changement IP...) modifie     │
-   │  d'abord la running-config.                                    │
-   └──────────────────────────────────────────────────────────────┘
-
-   ┌──────────────────────────────────────────────────────────────┐
-   │               STARTUP-CONFIG                                  │
-   │  Stockage : NVRAM (non-volatile — survit au redémarrage)       │
-   │  Fichier  : startup-config                                    │
-   │  Rôle     : Configuration SAUVEGARDÉE, chargée au boot         │
-   │  Commande : show startup-config                                │
-   │                                                               │
-   │  C'est la config que l'équipement chargera au prochain         │
-   │  redémarrage. Si on ne sauvegarde pas la running-config        │
-   │  vers la startup-config, les modifications sont perdues.       │
-   └──────────────────────────────────────────────────────────────┘
-```
+<figure class="graphe diagramme"><svg viewBox="0 0 760 230" style="max-width:760px" role="img" aria-label="Configuration active en RAM et configuration sauvegardée en NVRAM" xmlns="http://www.w3.org/2000/svg">
+<rect x="10" y="20" width="330" height="150" rx="8" class="dg-warn"/>
+<text x="175.0" y="64.0" text-anchor="middle" class="dg-t">running-config</text>
+<text x="175.0" y="82.0" text-anchor="middle" class="dg-s">RAM : volatile, effacée au redémarrage</text>
+<text x="175.0" y="100.0" text-anchor="middle" class="dg-s">configuration ACTIVE, en cours d&#x27;utilisation</text>
+<text x="175.0" y="118.0" text-anchor="middle" class="dg-s">show running-config</text>
+<text x="175.0" y="136.0" text-anchor="middle" class="dg-s">toute modification passe ici d&#x27;abord</text>
+<rect x="420" y="20" width="330" height="150" rx="8" class="dg-ok"/>
+<text x="585.0" y="73.0" text-anchor="middle" class="dg-t">startup-config</text>
+<text x="585.0" y="91.0" text-anchor="middle" class="dg-s">NVRAM : survit au redémarrage</text>
+<text x="585.0" y="109.0" text-anchor="middle" class="dg-s">configuration SAUVEGARDÉE, chargée au démarrage</text>
+<text x="585.0" y="127.0" text-anchor="middle" class="dg-s">show startup-config</text>
+<line x1="340" y1="70" x2="411.0" y2="70.0" class="dg-line"/>
+<polygon points="420,70 411.0,65.0 411.0,75.0" class="dg-ah"/>
+<text x="380.0" y="70.0" text-anchor="middle" class="dg-s"></text>
+<text x="380" y="58" text-anchor="middle" class="dg-s">copy run start</text>
+<line x1="420" y1="125" x2="349.0" y2="125.0" class="dg-dash"/>
+<polygon points="340,125 349.0,130.0 349.0,120.0" class="dg-ah"/>
+<text x="380" y="142" text-anchor="middle" class="dg-s">démarrage</text>
+<text x="380" y="204" text-anchor="middle" class="dg-i">sans sauvegarde vers la startup-config, les modifications sont perdues au redémarrage</text>
+</svg>
+</figure>
 
 ### 3.2 Commandes Cisco IOS Essentielles
 

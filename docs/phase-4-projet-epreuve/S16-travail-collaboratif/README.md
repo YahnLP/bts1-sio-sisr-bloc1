@@ -13,6 +13,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Comment partager ce que l'on sait dans l'équipe, retrouver qui a changé quoi, et gérer les téléphones des utilisateurs ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Les terminaux mobiles et le BYOD sont aussi vus en [bloc 3 (1re année), S13 – VPN : protéger les échanges entre sites et utilisateurs nomades](https://yahnlp.github.io/bts1-sio-sisr-bloc3/phase-3-chiffrement-reseau/S13-vpn-wireguard/). Ici, garder le wiki, Git et le partage documentaire.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :

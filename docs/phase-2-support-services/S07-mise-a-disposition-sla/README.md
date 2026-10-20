@@ -13,6 +13,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Le service est installé : comment prouver qu'il est prêt, à quel niveau de qualité on s'engage, et comment on le dit à l'utilisateur ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Les engagements de service sont aussi vus en [CEJM 1re année, S09 – Gérer un incident : processus, priorités et indicateurs](https://yahnlp.github.io/bts1-sio-sisr-cejma/phase-2-organisation-risques-financement/S09-gestion-incidents/), et repris en 2e année en [bloc 2 (2e année), S14 – Service sous contrat de niveau de service](https://yahnlp.github.io/bts2-sio-sisr-bloc2/phase-3-exploiter-superviser/S14-service-sous-contrat/). Ici, garder le procès-verbal de mise à disposition.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :

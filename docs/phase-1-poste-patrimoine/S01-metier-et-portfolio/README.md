@@ -54,7 +54,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Le test de positionnement sert à adapter la formation : il n'est pas noté pour le diplôme.
 - Le contenu sur les métiers et les chiffres d'embauche d'origine a été retiré faute de sources : voir les notes de la page « Métiers ».
 

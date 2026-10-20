@@ -3,7 +3,7 @@
 **Séances S16 à S19.** Travailler en équipe (wiki, Git), mener un projet de support de bout en bout (GLPI, OCS, catalogue, tickets, guide utilisateur), puis préparer l'épreuve E5 : portfolio, tableau de synthèse, oral de 40 minutes.
 
 > [!NOTE]
-> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes. Les séances marquées *à valider* ont été ajoutées ou réécrites lors de la refonte : elles attendent la relecture de l'enseignant.
+> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes.
 
 ## Progression
 

@@ -55,7 +55,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Le TP de rédaction de l'ancienne séance 10 a été déplacé en S10.
 - Les notions de sauvegarde (3-2-1, RPO, RTO) sont revues en profondeur dans le bloc 2 (S16) : ici, on sauvegarde des **configurations**.
 

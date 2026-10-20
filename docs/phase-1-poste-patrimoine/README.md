@@ -3,7 +3,7 @@
 **Séances S01 à S05.** Découvrir le métier de technicien SISR et le portfolio, inventorier un poste de travail, comprendre le vocabulaire ITIL et traiter les premiers incidents avec une démarche de diagnostic. La phase se termine par l'inventaire automatique d'un parc avec OCS Inventory.
 
 > [!NOTE]
-> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes. Les séances marquées *à valider* ont été ajoutées ou réécrites lors de la refonte : elles attendent la relecture de l'enseignant.
+> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes.
 
 ## Progression
 

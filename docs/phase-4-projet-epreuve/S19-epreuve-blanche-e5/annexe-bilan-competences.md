@@ -14,7 +14,7 @@
 | **B1.6** – Organiser son développement professionnel | S01, S08, S10, S14, S19 | | | |
 
 > [!NOTE]
-> Les codes sont ceux du [référentiel](../../ressources/referentiel.md) (l'arrêté numérote des activités : les codes « B… » sont un usage courant). L'association séance et compétence est une proposition de l'enseignant, **à valider**.
+> Les codes sont ceux du [référentiel](../../ressources/referentiel.md) (l'arrêté numérote des activités : les codes « B… » sont un usage courant).
 
 ## Synthèse
 

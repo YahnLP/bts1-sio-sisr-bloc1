@@ -58,7 +58,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Les trois incidents sont simulés dans un environnement de TP : à répéter sur des postes réels de la salle si possible.
 - **Ajout (savoirs du référentiel) :** la distinction incident / problème et la prise de contrôle à distance répondent aux savoirs « prise de contrôle d'un poste de travail » et « gestion des incidents et des problèmes ». La durée de la séance est inchangée : le rappel et le bilan sont raccourcis, et l'incident 3 peut être traité en démonstration si le temps manque. **À valider.**
 - La partie 4 du TP demande deux postes Windows Professionnel ou Entreprise ; le choix d'un outil de télé-assistance (propriétaire ou libre) est laissé à l'organisation.

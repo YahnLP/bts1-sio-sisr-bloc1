@@ -56,7 +56,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Cette séance regroupe l'ancienne introduction aux « SPS » : le vocabulaire officiel parle de réalisations professionnelles décrites dans un portfolio, avec un tableau de synthèse (annexe VI-1 de la circulaire).
 - Le portfolio doit mobiliser **toutes** les compétences du bloc 1 sur l'ensemble de la formation : le tableau de la page « Épreuve E5 » aide à suivre la couverture.
 

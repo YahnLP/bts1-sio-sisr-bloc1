@@ -60,7 +60,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Séance dense : WordPress (ancienne S14), HTTPS (ancienne S15) et SGBD (ajout) ; le TP SEO d'origine est conservé en annexe facultative.
 - L'ajout du SGBD répond à l'annexe II.E du référentiel : à valider par l'enseignant.
 

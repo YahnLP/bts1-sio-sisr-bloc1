@@ -13,7 +13,6 @@ Cours, TP et aide-mémoire du **bloc 1 (support et mise à disposition de servic
 | [`docs/phase-3-maintenir-evoluer`](docs/phase-3-maintenir-evoluer/README.md) | S11 à S15 : configurations et sauvegardes, licences et procédures, images système, changement et veille, présence en ligne |
 | [`docs/phase-4-projet-epreuve`](docs/phase-4-projet-epreuve/README.md) | S16 à S19 : travail collaboratif, projet de support, épreuve blanche E5 |
 | [`docs/ressources`](docs/ressources/README.md) | Référentiel, épreuve E5, fiche de réalisation, outils, glossaire, licences |
-| [`corriges`](corriges/) | Corrigés **réservés à l'enseignant** (non publiés sur le site, mais visibles dans ce dépôt) |
 | [`tools`](tools/CONVENTIONS.md) | Conventions de rédaction du site |
 
 ## Principe pédagogique

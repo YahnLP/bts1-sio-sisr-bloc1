@@ -14,7 +14,7 @@
    http://monsite.com                         https://monsite.com
    Port 80                                    Port 443
    Données en clair                           Données chiffrées
-   🔓 Non sécurisé                            🔒 Connexion sécurisée
+   Non sécurisé                             Connexion sécurisée
 
    RISQUE HTTP :
    ───────────────────────────────────────────────────────────────
@@ -110,11 +110,11 @@ Un **certificat SSL/TLS** est un fichier électronique qui :
 ```
    CARACTÉRISTIQUES
    ───────────────────────────────────────────────────────────────
-   ✅ Gratuit
-   ✅ Automatisé (installation en 5 minutes)
-   ✅ Reconnu par tous les navigateurs
-   ✅ Renouvellement automatique tous les 90 jours
-   ✅ Utilisé par 400 millions de sites web
+   OK : Gratuit
+   OK : Automatisé (installation en 5 minutes)
+   OK : Reconnu par tous les navigateurs
+   OK : Renouvellement automatique tous les 90 jours
+   OK : Utilisé par 400 millions de sites web
 
    FONCTIONNEMENT
    ───────────────────────────────────────────────────────────────
@@ -151,14 +151,14 @@ En environnement de TP avec un domaine local (`monsite.local`), Let's Encrypt ne
    CERTIFICAT AUTO-SIGNÉ
    ───────────────────────────────────────────────────────────────
    Avantages :
-   ✅ Fonctionne en local
-   ✅ Chiffrement actif (données protégées)
-   ✅ Gratuit, rapide (5 min)
+   OK : Fonctionne en local
+   OK : Chiffrement actif (données protégées)
+   OK : Gratuit, rapide (5 min)
 
    Inconvénients :
-   ❌ Navigateur affiche un avertissement de sécurité
-   ❌ "Connexion non privée" / "Certificat non valide"
-   ❌ Inutilisable en production
+   KO : Navigateur affiche un avertissement de sécurité
+   KO : "Connexion non privée" / "Certificat non valide"
+   KO : Inutilisable en production
 
    Usage :
    • Tests locaux

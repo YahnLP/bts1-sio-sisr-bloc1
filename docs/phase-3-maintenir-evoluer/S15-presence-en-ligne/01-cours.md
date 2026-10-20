@@ -144,19 +144,19 @@ Un **CMS** est un logiciel qui permet de créer, gérer et modifier le contenu d
 ```
 
 **Avantages d'un CMS :**
-- ✅ Pas besoin de coder
-- ✅ Interface graphique intuitive (WYSIWYG)
-- ✅ Gestion utilisateurs et droits
-- ✅ Thèmes pré-faits (design professionnel)
-- ✅ Plugins/extensions (fonctionnalités sans développement)
-- ✅ SEO facilité
-- ✅ Communauté et support
+- **Avantage :** Pas besoin de coder
+- **Avantage :** Interface graphique intuitive (WYSIWYG)
+- **Avantage :** Gestion utilisateurs et droits
+- **Avantage :** Thèmes pré-faits (design professionnel)
+- **Avantage :** Plugins/extensions (fonctionnalités sans développement)
+- **Avantage :** SEO facilité
+- **Avantage :** Communauté et support
 
 **Inconvénients :**
-- ❌ Performance inférieure à un site codé optimisé
-- ❌ Failles de sécurité potentielles (plugins non à jour)
-- ❌ Moins de flexibilité
-- ❌ Dépendance à l'écosystème du CMS
+- **Inconvénient :** Performance inférieure à un site codé optimisé
+- **Inconvénient :** Failles de sécurité potentielles (plugins non à jour)
+- **Inconvénient :** Moins de flexibilité
+- **Inconvénient :** Dépendance à l'écosystème du CMS
 
 ### 2.2 Comparatif des Principaux CMS
 

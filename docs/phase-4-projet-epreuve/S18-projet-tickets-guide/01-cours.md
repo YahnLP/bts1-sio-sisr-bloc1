@@ -55,34 +55,34 @@
 **① UTILISER UN LANGAGE SIMPLE**
 
 ```
-❌ MAUVAIS (trop technique)
+MAUVAIS (trop technique)
 "Authentifiez-vous sur l'interface GLPI en saisissant vos 
 credentials LDAP dans le formulaire d'authentification."
 
-✅ BON (simple et direct)
+BON (simple et direct)
 "Connectez-vous avec votre identifiant et mot de passe habituels."
 ```
 
 **② ÊTRE CONCRET ET DIRECT**
 
 ```
-❌ MAUVAIS (abstrait)
+MAUVAIS (abstrait)
 "Il est possible de générer une demande d'assistance via 
 le système de ticketing intégré."
 
-✅ BON (concret)
+BON (concret)
 "Pour demander de l'aide, créez un ticket en 3 clics."
 ```
 
 **③ UNE ACTION = UNE PHRASE COURTE**
 
 ```
-❌ MAUVAIS (phrase longue)
+MAUVAIS (phrase longue)
 "Après avoir ouvert votre navigateur web et tapé l'adresse du
 support dans la barre d'adresse, vous devrez cliquer sur le
 bouton de connexion situé en haut à droite de la page d'accueil."
 
-✅ BON (étapes numérotées)
+BON (étapes numérotées)
 1. Ouvrez votre navigateur
 2. Allez sur http://support.entreprise.fr
 3. Cliquez sur "Connexion" en haut à droite
@@ -179,11 +179,11 @@ Horaires : Lun-Ven 8h-18h
 
 | **Section** | **Contenu** | **Obligatoire** |
 |---|---|---|
-| **Introduction** | À quoi sert le service ? Qui l'utilise ? | ✅ Oui |
-| **Accès** | Comment se connecter ? URL, identifiants | ✅ Oui |
-| **Tâches courantes** | 3-5 tutoriels pas-à-pas | ✅ Oui |
-| **FAQ** | Questions fréquentes et réponses | ✅ Oui |
-| **Contact support** | Qui contacter en cas de problème ? | ✅ Oui |
+| **Introduction** | À quoi sert le service ? Qui l'utilise ? | Oui |
+| **Accès** | Comment se connecter ? URL, identifiants | Oui |
+| **Tâches courantes** | 3-5 tutoriels pas-à-pas | Oui |
+| **FAQ** | Questions fréquentes et réponses | Oui |
+| **Contact support** | Qui contacter en cas de problème ? | Oui |
 | **Glossaire** | Définitions des termes techniques (optionnel) | ☐ Non |
 | **Raccourcis clavier** | (si applicable) | ☐ Non |
 
@@ -243,11 +243,11 @@ RÉSULTAT
 ```
 TYPES D'ANNOTATIONS UTILES
 ──────────────────────────────────────────────────────────────
-🔴 Flèche rouge        → Indique où cliquer
-🔲 Encadré rouge       → Champ à remplir
+Flèche rouge        → Indique où cliquer
+Encadré rouge       → Champ à remplir
 ①②③ Numéros           → Ordre des actions
-💬 Bulle de texte      → Explication courte
-⚠️ Icône attention     → Point important
+Bulle de texte      → Explication courte
+**Attention :** Icône attention     → Point important
 ```
 
 **③ COHÉRENCE VISUELLE**

@@ -69,14 +69,14 @@ Organiser le travail, attribuer des tâches, suivre l'avancement.
 **① NOMMER LES FICHIERS CORRECTEMENT**
 
 ```
-❌ MAUVAIS EXEMPLES
+MAUVAIS EXEMPLES
 ─────────────────────────────────────────────────────────────
 • doc.txt (quoi comme doc ?)
 • nouveau.docx (nouveau quoi ?)
 • Copie de Copie de rapport.pdf (quelle version ?)
 • IMG_3847.jpg (contenu ?)
 
-✅ BONS EXEMPLES
+BONS EXEMPLES
 ─────────────────────────────────────────────────────────────
 • 2024-02-16_Procedure_Installation_Apache.pdf (date + description)
 • Config_Switch_Principal_v2.3.txt (nom + version)
@@ -107,8 +107,8 @@ Un document sans date est un document mort (on ne sait pas s'il est à jour).
 **④ UTILISER UN SEUL OUTIL PAR USAGE**
 
 Ne pas multiplier les outils pour le même besoin :
-- ❌ Documentation dans : emails + Word + Google Docs + papier
-- ✅ Documentation dans : wiki uniquement
+- **Mauvaise pratique :** Documentation dans : emails + Word + Google Docs + papier
+- **Bonne pratique :** Documentation dans : wiki uniquement
 
 ## 2. Le Wiki Technique
 
@@ -119,12 +119,12 @@ Un **wiki** est un site web collaboratif où chaque page peut être modifiée pa
 ```
    CARACTÉRISTIQUES D'UN WIKI
    ─────────────────────────────────────────────────────────────
-   ✅ Éditable par plusieurs personnes
-   ✅ Historique des modifications (qui, quand, quoi)
-   ✅ Recherche intégrée
-   ✅ Liens entre pages (navigation fluide)
-   ✅ Syntaxe simple (markdown ou équivalent)
-   ✅ Pas besoin de coder HTML
+   OK : Éditable par plusieurs personnes
+   OK : Historique des modifications (qui, quand, quoi)
+   OK : Recherche intégrée
+   OK : Liens entre pages (navigation fluide)
+   OK : Syntaxe simple (markdown ou équivalent)
+   OK : Pas besoin de coder HTML
 ```
 
 **Exemples de wikis connus :**
@@ -162,13 +162,13 @@ Un **wiki** est un site web collaboratif où chaque page peut être modifiée pa
 **DokuWiki** est un wiki open source créé en 2004, très utilisé dans les environnements IT.
 
 **Caractéristiques :**
-- ✅ Pas de base de données (tout en fichiers texte)
-- ✅ Installation en 5 minutes
-- ✅ Syntaxe wiki simple
-- ✅ 1000+ plugins disponibles
-- ✅ Gestion des droits (ACL)
-- ✅ Historique des modifications
-- ✅ Recherche full-text
+- Pas de base de données (tout en fichiers texte)
+- Installation en 5 minutes
+- Syntaxe wiki simple
+- 1000+ plugins disponibles
+- Gestion des droits (ACL)
+- Historique des modifications
+- Recherche full-text
 
 **Stockage :**
 ```
@@ -218,11 +218,11 @@ Mon_Projet/
 ```
 
 **Avantages :**
-- ✅ Historique complet de tous les changements
-- ✅ Chaque modification est datée et attribuée à son auteur
-- ✅ Possibilité de revenir en arrière à n'importe quel moment
-- ✅ Branches pour travailler sur des fonctionnalités séparées
-- ✅ Collaboration sans conflit
+- **Avantage :** Historique complet de tous les changements
+- **Avantage :** Chaque modification est datée et attribuée à son auteur
+- **Avantage :** Possibilité de revenir en arrière à n'importe quel moment
+- **Avantage :** Branches pour travailler sur des fonctionnalités séparées
+- **Avantage :** Collaboration sans conflit
 
 ### 3.3 Git vs GitHub
 

@@ -90,12 +90,12 @@ Référence    : PROC-SRV-APACHE-001
 
 | **Situation** | **Capturer ?** | **Raison** |
 |---|---|---|
-| Commande à exécuter | ✅ Oui | Montrer la syntaxe exacte |
-| Résultat de la commande | ✅ Oui | Montrer ce qui est attendu |
-| Menu de configuration | ✅ Oui | Éviter l'ambiguïté ("onglet Avancé" — lequel ?) |
-| Message d'erreur | ✅ Oui | Aider au dépannage |
-| Fenêtre standard Windows | ⚠ Optionnel | Si c'est évident (ex : "Suivant" dans un wizard), peut être omis |
-| Longue sortie texte | ❌ Non | Copier-coller le texte dans un bloc code |
+| Commande à exécuter | Oui | Montrer la syntaxe exacte |
+| Résultat de la commande | Oui | Montrer ce qui est attendu |
+| Menu de configuration | Oui | Éviter l'ambiguïté ("onglet Avancé" — lequel ?) |
+| Message d'erreur | Oui | Aider au dépannage |
+| Fenêtre standard Windows | Optionnel | Si c'est évident (ex : "Suivant" dans un wizard), peut être omis |
+| Longue sortie texte | Non | Copier-coller le texte dans un bloc code |
 
 ### 3.2 Règles de Capture
 

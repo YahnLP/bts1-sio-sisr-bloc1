@@ -94,32 +94,32 @@ Un catalogue de services est organisé en **catégories** cohérentes. Voici une
    CATALOGUE DE SERVICES IT — SimIO SARL
    ─────────────────────────────────────────────────────────────────
 
-   📧 COMMUNICATION
+   COMMUNICATION
    ├── Messagerie d'entreprise
    ├── Calendrier et salles de réunion
    └── Téléphonie (fixe / mobile)
 
-   💾 DONNÉES ET STOCKAGE
+   DONNÉES ET STOCKAGE
    ├── Partage de fichiers (dossiers réseau)
    ├── Sauvegarde et restauration
    └── Archivage
 
-   🖥️ POSTE DE TRAVAIL
+   POSTE DE TRAVAIL
    ├── Installation et configuration d'un poste
    ├── Logiciels métier et bureautique
    └── Impression
 
-   🔒 ACCÈS ET IDENTITÉ
+   ACCÈS ET IDENTITÉ
    ├── Création / modification de compte
    ├── Réinitialisation de mot de passe
    └── Accès VPN (télétravail)
 
-   🌐 RÉSEAU ET CONNECTIVITÉ
+   RÉSEAU ET CONNECTIVITÉ
    ├── Accès Internet
    ├── WiFi entreprise
    └── Connexion filaire
 
-   🛠️ SUPPORT ET ASSISTANCE
+   SUPPORT ET ASSISTANCE
    ├── Helpdesk N1 (centre de services)
    ├── Dépannage sur site
    └── Formation utilisateur
@@ -135,13 +135,13 @@ GLPI peut exposer le catalogue de services directement sur le **portail utilisat
    L'utilisateur arrive sur le portail et voit :
 
    ┌────────────────────────────────────────────────────────────┐
-   │  🔑 Problème avec mon mot de passe                        │
-   │  📧 Ma messagerie ne fonctionne pas                       │
-   │  🖨️ Mon imprimante ne répond pas                          │
-   │  💾 Je ne peux pas accéder à un dossier partagé           │
-   │  💻 Je souhaite installer un logiciel                     │
+   │   Problème avec mon mot de passe                        │
+   │   Ma messagerie ne fonctionne pas                       │
+   │   Mon imprimante ne répond pas                          │
+   │   Je ne peux pas accéder à un dossier partagé           │
+   │   Je souhaite installer un logiciel                     │
    │  🆕 Demande de création de compte                        │
-   │  📞 Autre demande                                         │
+   │   Autre demande                                         │
    └────────────────────────────────────────────────────────────┘
 
    Chaque tuile crée automatiquement un ticket avec :

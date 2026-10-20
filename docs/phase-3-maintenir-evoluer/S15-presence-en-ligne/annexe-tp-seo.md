@@ -62,10 +62,10 @@ Installer et configurer le plugin Yoast SEO pour optimiser le référencement du
 
 **Score SEO Yoast :**
 - Yoast analyse la page
-- Affiche des suggestions (points verts ✅ / orange  / rouges ❌)
+- Affiche des suggestions (points verts OK : / orange  / rouges KO : )
 - Exemples de suggestions :
-  - "La phrase clé apparaît dans le titre" ✅
-  - "La méta-description fait 155 caractères" ✅
+  - "La phrase clé apparaît dans le titre" (OK)
+  - "La méta-description fait 155 caractères" (OK)
   - "La phrase clé apparaît dans l'URL" 
 
 **Améliorer l'URL (slug) :**

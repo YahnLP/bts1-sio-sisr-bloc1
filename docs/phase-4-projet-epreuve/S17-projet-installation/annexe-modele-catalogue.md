@@ -8,7 +8,7 @@
 CATALOGUE DE SERVICES IT — SIMIO SARL
 ═══════════════════════════════════════════════════════════════
 
-📁 SUPPORT UTILISATEUR
+SUPPORT UTILISATEUR
    ├─ Compte et Authentification
    │  ├─ Création de compte utilisateur (SLA : 4h)
    │  ├─ Réinitialisation mot de passe (SLA : 2h)
@@ -29,7 +29,7 @@ CATALOGUE DE SERVICES IT — SIMIO SARL
       ├─ Installation imprimante réseau (SLA : 4h)
       └─ Dépannage impression (SLA : 2h)
 
-📁 INFRASTRUCTURE & RÉSEAU
+INFRASTRUCTURE & RÉSEAU
    ├─ Serveur
    │  ├─ Demande accès serveur fichiers (SLA : 8h)
    │  └─ Incident serveur (SLA : 1h si critique)
@@ -41,12 +41,12 @@ CATALOGUE DE SERVICES IT — SIMIO SARL
    └─ Stockage
       └─ Augmentation quota stockage (SLA : 48h)
 
-📁 APPLICATIONS MÉTIER
+APPLICATIONS MÉTIER
    ├─ GestCom (Gestion Commerciale)
    ├─ Paie & Compta
    └─ CRM
 
-📁 SÉCURITÉ
+SÉCURITÉ
    ├─ Signalement incident sécurité (SLA : immédiat)
    └─ Demande accès privilégiés (SLA : 24h + validation)
 ```

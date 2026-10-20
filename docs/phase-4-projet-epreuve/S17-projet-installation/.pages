@@ -1,1 +1,9 @@
 title: "S17 – Projet de support : installer GLPI, OCS et le catalogue"
+arrange:
+  - 01-cours-mode-projet.md
+  - 02-projet.md
+  - 01b-cours-glpi-ocs.md
+  - 02b-tp-glpi.md
+  - 02c-tp-ocs.md
+  - 02d-tp-catalogue.md
+  - ...

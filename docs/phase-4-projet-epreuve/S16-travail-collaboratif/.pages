@@ -1,1 +1,8 @@
 title: "S16 – Travail collaboratif : wiki, Git et terminaux mobiles"
+arrange:
+  - 01-cours.md
+  - 02-tp.md
+  - 02b-tp-git.md
+  - 01b-cours-terminaux-mobiles.md
+  - 02c-tp-terminaux-mobiles.md
+  - ...

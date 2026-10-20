@@ -11,7 +11,7 @@
 | **Dernière mise à jour** | 15/09/2024 |
 | **Rédigé par** | J. Dupont — Technicien SI |
 | **Version** | 1.0 |
-| **Statut** | ✅ En service |
+| **Statut** | ☑ En service |
 
 ## SECTION 1 — IDENTIFICATION
 
@@ -20,7 +20,7 @@
 | Marque | Dell |
 | Modèle | OptiPlex 7090 |
 | Numéro de série | 5CG93BXKL2 |
-| Type | ✅ Poste fixe |
+| Type | ☑ Poste fixe |
 | Date d'achat | 14/03/2023 |
 | Fin de garantie constructeur | 14/03/2026 |
 | Valeur d'achat HT | 720 € |
@@ -32,7 +32,7 @@
 | Localisation physique | Bâtiment A — Bureau 214 |
 | Utilisateur affecté | Alice Martin |
 | Service | Ressources Humaines |
-| Usage principal | ✅ Bureautique |
+| Usage principal | ☑ Bureautique |
 
 ## SECTION 3 — COMPOSANTS MATÉRIELS
 
@@ -55,8 +55,8 @@
 |---|---|
 | OS | Windows 11 Professionnel |
 | Version / Build | 23H2 — Build 22631.3737 |
-| Architecture | ✅ 64 bits |
-| Type de licence | ✅ Volume (Microsoft Open License) |
+| Architecture | ☑ 64 bits |
+| Type de licence | ☑ Volume (Microsoft Open License) |
 | Domaine | siosarl.local |
 | Langue | Français |
 
@@ -79,7 +79,7 @@
 
 | **Paramètre** | **Valeur** |
 |---|---|
-| Mode d'attribution IP | ✅ DHCP automatique |
+| Mode d'attribution IP | ☑ DHCP automatique |
 | VLAN | VLAN 10 — RH |
 | Nom DNS | pc-alice-rh.siosarl.local |
 
@@ -91,8 +91,8 @@
 | Version | 4.18.24050.9 |
 | Dernière mise à jour | 15/09/2024 |
 | Dernière MAJ OS | 12/09/2024 — KB5043076 |
-| Chiffrement disque | ✅ BitLocker activé |
-| Pare-feu actif | ✅ Oui (Windows Defender Firewall) |
+| Chiffrement disque | ☑ BitLocker activé |
+| Pare-feu actif | ☑ Oui (Windows Defender Firewall) |
 
 ## SECTION 8 — HISTORIQUE
 

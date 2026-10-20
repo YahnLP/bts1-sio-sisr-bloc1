@@ -32,6 +32,7 @@
 | [TP – Inventorier un parc : InfraLab, puis OCS Inventory](02-tp.md) | TP |
 | [Aide-mémoire – Inventaire automatique](03-aide-memoire.md) | Aide-mémoire |
 | [Fichier InfraLab : audit d'inventaire de NovaTech](../../ressources/infralab/s05-audit-inventaire.infralab.json) | Fichier de départ du simulateur |
+| [TP InfraLab autocorrigé : audit d'inventaire](../../ressources/infralab/tp-49-audit-inventaire.infralab-tp.json) | Fichier de TP du simulateur (à ouvrir avec « Ouvrir ») |
 
 ## Déroulé conseillé (4 h)
 

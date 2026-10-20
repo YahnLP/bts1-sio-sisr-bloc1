@@ -12,7 +12,9 @@
 - [ ] **Rédiger** une fiche de service ;
 - [ ] **Classer** des services en catégories ;
 - [ ] **Situer** le catalogue dans GLPI ;
-- [ ] **Décrire** le cycle de vie d'un service.
+- [ ] **Décrire** le cycle de vie d'un service ;
+- [ ] **Distinguer** PCA et PRA et **vérifier** les conditions de continuité d'un service ;
+- [ ] **Distinguer** sauvegarder, conserver et archiver, et citer des durées légales indicatives.
 
 ---
 
@@ -166,10 +168,74 @@ Un service n'est pas éternel. ITIL définit son cycle de vie dans le catalogue 
 
 ---
 
+## 3. Criticité, continuité et reprise d'activité
+
+Chaque fiche de service indique sa **disponibilité attendue**. Plus un service est critique, plus il faut prévoir ce qui se passe quand il tombe : c'est l'objet des plans de continuité et de reprise.
+
+### 3.1 PCA et PRA : continuer ou redémarrer
+
+| **Plan** | **Question à laquelle il répond** | **Objectif** | **Exemple** |
+|---|---|---|---|
+| **PCA** (plan de continuité d'activité) | « Comment continuer à travailler **pendant** la panne ? » | Maintenir un service minimal, parfois en **mode dégradé** | Le site garde un serveur de secours ; en dernier recours, les commandes se prennent sur papier |
+| **PRA** (plan de reprise d'activité) | « Comment **repartir** après le sinistre ? » | Rétablir le système d'information dans un délai et avec une perte de données acceptables | Restaurer la configuration du switch cœur et les données du serveur de fichiers |
+
+Deux mesures encadrent ces plans, vues en S07 (RTO et RPO) :
+
+- le **RTO** : durée maximale d'interruption acceptable ;
+- le **RPO** : quantité maximale de données que l'on accepte de perdre, exprimée en durée (« les 24 dernières heures »).
+
+### 3.2 Ce que contient un plan
+
+1. Les **activités critiques** et les services qui les portent.
+2. Le **RTO** et le **RPO** de chaque service.
+3. Les **solutions de secours** (sauvegardes, matériel, site de repli).
+4. Les **rôles et les contacts** : qui décide, qui exécute, qui prévient.
+5. Les **procédures** de bascule et de restauration, à jour.
+6. Les **tests périodiques**, avec leur compte rendu.
+
+### 3.3 Le rôle du technicien : vérifier et signaler
+
+Le technicien ne rédige pas seul le plan, mais il **vérifie que les conditions de la continuité sont réunies** et **signale les manquements**.
+
+| **Vérification** | **Manquement si…** |
+|---|---|
+| La dernière sauvegarde est assez récente | son âge dépasse le RPO du service |
+| Une restauration a été testée | aucun test récent n'existe (règle de l'organisation, par exemple au moins une fois par an) |
+| La procédure est à jour | elle décrit une version ancienne du service |
+| Le matériel ou le service de secours est disponible | il manque ou il est périmé |
+
+> [!NOTE]
+> **Exemple chiffré.** La configuration du switch cœur est sauvegardée une fois par mois (voir S11 pour la sauvegarde des configurations). Son RPO attendu est de 24 heures. Dans le pire cas, on perd 30 jours de modifications, soit 30 fois plus que prévu : c'est un **manquement** à signaler (ticket ou rapport), avec une proposition : sauvegarde automatique après chaque modification.
+
+## 4. Conserver, sauvegarder, archiver
+
+Ces trois mots ne veulent pas dire la même chose.
+
+| **Action** | **But** | **Exemple** |
+|---|---|---|
+| **Sauvegarder** | Pouvoir **restaurer** après une perte | Copie quotidienne du serveur de fichiers |
+| **Conserver** | Garder une donnée **utile** à l'activité pendant une durée définie | Dossier client actif |
+| **Archiver** | Garder une donnée à valeur **légale ou probante**, de façon intègre et à accès restreint | Factures des exercices clos |
+
+Une donnée suit un cycle : **base active**, puis **archive intermédiaire** (accès rare, durée légale à respecter), puis **destruction** ou archivage définitif. La destruction fait partie de l'obligation : une donnée personnelle ne doit pas être gardée plus longtemps que nécessaire.
+
+**Ordres de grandeur de durées (à vérifier sur des sources officielles avant usage)**
+
+| **Donnée** | **Durée indicative** |
+|---|---|
+| Journaux de connexion conservés par les hébergeurs et les fournisseurs d'accès | 1 an |
+| Pièces comptables et factures | 10 ans |
+| Bulletins de paie (copie conservée par l'employeur) | 5 ans |
+| Données personnelles en général | Durée fixée par le responsable de traitement, proportionnée à la finalité |
+
+Le technicien applique la **politique de conservation** de son organisation : il ne supprime pas ce qui doit être gardé et il purge ce qui doit être détruit. Pour l'intégrité d'une archive, on note la date et on calcule une empreinte (voir la séance S18 de CEJM pour la preuve électronique et la séance S05 du bloc 3 pour la sauvegarde).
+
 ## À retenir
 
 - Un **catalogue de services** décrit ce que l'organisation offre, du point de vue de l'**utilisateur**.
 - Chaque **fiche de service** précise description, public, disponibilité, engagements, procédure de demande et contact.
 - Le catalogue relie les services au **SLA** et aux **procédures**.
 - Il est **tenu à jour** : une fiche périmée est pire qu'une fiche absente.
+- Le **PCA** fait continuer l'activité pendant la panne ; le **PRA** la fait repartir après. Le technicien **vérifie** les conditions (sauvegarde récente, restauration testée, procédure à jour) et **signale** les manquements.
+- **Sauvegarder**, **conserver** et **archiver** sont trois actions différentes ; on applique la politique de conservation de l'organisation.
 

@@ -20,7 +20,9 @@
 2. **Rédiger** une fiche de service ;
 3. **Classer** des services en catégories ;
 4. **Situer** le catalogue dans GLPI ;
-5. **Décrire** le cycle de vie d'un service.
+5. **Décrire** le cycle de vie d'un service ;
+6. **Distinguer** un plan de continuité (PCA) d'un plan de reprise (PRA) et **vérifier** les conditions de continuité d'un service ;
+7. **Distinguer** sauvegarder, conserver et archiver.
 
 ## Contenu de la séance
 
@@ -28,6 +30,7 @@
 |---|---|
 | [Cours – Le catalogue de services](01-cours.md) | Cours |
 | [TP – Le catalogue de services de SimIO SARL](02-tp.md) | TP |
+| [Annexe – Vérifier les conditions de continuité](annexe-verification-continuite.md) | Annexe (partie B du TP) |
 | [Aide-mémoire – Catalogue de services](03-aide-memoire.md) | Aide-mémoire |
 | [Annexe – Fiche de service (modèle vierge)](annexe-fiche-service.md) | Annexe |
 
@@ -35,9 +38,9 @@
 
 | Durée | Activité | Format |
 |---|---|---|
-| 0 h 00 – 0 h 20 | **Accroche** : « comment je demande une imprimante ? » | Oral |
-| 0 h 20 – 1 h 10 | **Cours** : catalogue, fiche de service, catégories, cycle de vie | Cours et questions |
-| 1 h 10 – 3 h 30 | **TP** : le catalogue de SimIO SARL (un service par binôme) | Binôme |
+| 0 h 00 – 0 h 15 | **Accroche** : « comment je demande une imprimante ? » | Oral |
+| 0 h 15 – 1 h 25 | **Cours** : catalogue, fiche de service, catégories, cycle de vie ; PCA et PRA, conservation et archivage | Cours et questions |
+| 1 h 25 – 3 h 30 | **TP** : le catalogue de SimIO SARL (un service par binôme, ≈ 1 h 45), puis vérification de la continuité (≈ 20 min) | Binôme, puis individuel |
 | 3 h 30 – 4 h 00 | **Bilan de compétences** | Individuel |
 
 ## Retour en entreprise
@@ -54,5 +57,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
 - La mise en commun finale produit le catalogue de toute la classe.
+- **Ajout (savoirs du référentiel) :** PCA/PRA, vérification des conditions de continuité, conservation et archivage des données. Les durées de conservation du cours sont des ordres de grandeur **à vérifier** sur des sources officielles avant la séance. La règle « un test de restauration au moins par an » de l'annexe est une règle fictive de l'organisation. Le déroulé est resserré pour garder 4 h : **à valider**.
 
 </details>

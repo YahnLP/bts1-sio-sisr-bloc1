@@ -96,7 +96,8 @@ Remplis ce bilan **seul**, honnêtement : il sert à décider ce qu'il faut repr
 - [ ] Décrire le cycle d'un changement, le rôle du CAB et l'analyse de risque ;
 - [ ] Rédiger une demande de changement (RFC) ;
 - [ ] Choisir des sources de veille fiables et organiser une routine ;
-- [ ] Documenter sa veille pour le portfolio.
+- [ ] Documenter sa veille pour le portfolio ;
+- [ ] Présenter son identité professionnelle, délimiter son environnement d'apprentissage personnel et identifier ses besoins de formation.
 
 **Ce que je dois reprendre :** ______________________
 

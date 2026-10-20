@@ -17,6 +17,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **ANSSI** |  |  | Agence Nationale Sécurité SI (France) | S14 |
 | **Apache** |  |  | Serveur web open source | S15 |
 | **Apportez votre équipement personnel** | BYOD | *bring your own device* | Pratique où l'utilisateur emploie son propre appareil pour le travail. | S16 |
+| **Archivage** |  | *archiving* | Conservation d'une donnée à valeur légale ou probante, de façon intègre et à accès restreint | S09 |
 | **Audit trail** |  |  | Trace documentaire prouvant la légalité des licences (factures, contrats) | S12 |
 | **Backlog** |  |  | File d'attente des tickets ouverts non résolus | S03 |
 | **Balise Title** |  |  | Titre de la page (50-60 caractères) | S15 |
@@ -39,6 +40,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Change Manager** |  |  | Responsable du processus de gestion des changements | S14 |
 | **CHANGELOG** |  |  | Fichier documentant l'historique des modifications d'une configuration | S11 |
 | **Changement** |  |  | Ajout, modification ou retrait d'un composant de l'infrastructure | S03 |
+| **Charte graphique** |  | *style guide* | Document qui fixe l'identité visuelle d'une organisation : logo, couleurs, typographies, mise en page | S12 |
 | **CI (Configuration Item)** |  |  | Actif géré dans la CMDB — ordinateur, imprimante, serveur... | S06 |
 | **Clé primaire** |  | *primary key* | Colonne qui identifie chaque ligne d'une table de façon unique. | S15 |
 | **Clickbait** |  |  | Contenu sensationnaliste peu fiable | S14 |
@@ -51,6 +53,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Communication descendante** |  |  | Communication de la DSI vers les utilisateurs (annonces, procédures) | S08 |
 | **Compte rendu** |  | *minutes* | Document court qui résume un point d'avancement : fait, reste à faire, blocages, décisions. | S17 |
 | **Concurrent License** |  |  | Licence flottante utilisable par N utilisateurs simultanés (pool) | S12 |
+| **Conditions générales d'utilisation** | CGU | *terms of use* | Règles d'usage d'un site fixées par son éditeur | S12 |
 | **Configuration Management** |  |  | Pratique ITIL de gestion de tous les CI et leurs relations dans la CMDB | S11 |
 | **Configuration Management DataBase** | CMDB |  | Base de données des actifs IT | S03 |
 | **Conformité** |  |  | État où tous les logiciels installés sont couverts par des licences valides | S12 |
@@ -59,6 +62,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Contournement** |  | *workaround* | Solution temporaire qui rétablit le service sans supprimer la cause de l'incident | S04 |
 | **Contribution personnelle** |  |  | Ce que la personne a fait elle-même dans un travail d'équipe ; le jury l'évalue. | S10 |
 | **Critère d'acceptation** |  |  | Condition qui doit être remplie pour valider la mise en production | S07 |
+| **Curation** |  | *content curation* | Sélection, mise en forme et partage d'informations issues de la veille | S14 |
 | **CVE** |  |  | Common Vulnerabilities and Exposures | S14 |
 | **Cycle de vie d'un incident** |  |  | Séquence complète : signalement → enregistrement → qualification → diagnostic → résolution → validation → clôture | S04 |
 | **Décrire / Exprimer / Spécifier / Conséquences** | DESC |  | Technique de désescalade | S08 |
@@ -79,6 +83,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Écoute active** |  |  | Technique d'écoute impliquant reformulation, relance et validation | S08 |
 | **Empathie** |  |  | Capacité à reconnaître et comprendre les émotions de l'interlocuteur | S08 |
 | **Entité** |  |  | Unité organisationnelle dans GLPI (département, site, filiale) | S06 |
+| **Environnement d'apprentissage personnel** | PLE | *personal learning environment* | Ensemble des sources, outils, personnes et méthodes qu'une personne organise pour apprendre | S14 |
 | **Épreuve d'administration des systèmes et des réseaux** | E6 |  | Épreuve pratique et orale de l'option SISR (bloc 2). | S01 |
 | **Épreuve de cybersécurité** | E7 |  | Épreuve écrite de 4 heures de l'option SISR (bloc 3). | S01 |
 | **Épreuve de support et mise à disposition de services** | E5 |  | Épreuve orale de 40 minutes qui évalue le bloc 1, à partir du dossier numérique. | S01 |
@@ -104,6 +109,7 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Helpdesk** |  |  | Service d'assistance aux utilisateurs (synonyme : support) | S17 |
 | **Héritage NTFS** |  |  | Transmission automatique des droits d'un dossier parent à ses sous-dossiers | S04 |
 | **HTTP Secure** | HTTPS |  | Protocole HTTP avec chiffrement SSL/TLS | S15 |
+| **Identité numérique professionnelle** |  |  | Ensemble des traces et des profils qui décrivent une personne dans sa vie professionnelle en ligne | S14 |
 | **Image système** |  |  | Copie exacte d'un disque incluant OS, logiciels et configuration | S13 |
 | **Incident** |  |  | Interruption non planifiée ou dégradation d'un service IT | S03 |
 | **Information Technology Infrastructure Library** | ITIL |  | Référentiel de bonnes pratiques IT | S03 |
@@ -120,9 +126,11 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Maintenance planifiée** |  |  | Interruption programmée et annoncée à l'avance (souvent exclue du SLA) | S07 |
 | **Mean Time Between Failures** | MTBF |  | Temps moyen entre deux pannes | S03 |
 | **Mean Time To Repair** | MTTR |  | Temps moyen de résolution d'un incident | S03 |
+| **Mentions légales** |  | *legal notices* | Informations obligatoires qui identifient l'éditeur et l'hébergeur d'un site web | S12 |
 | **Meta Description** |  |  | Description de la page (150-160 caractères) | S15 |
 | **Microsoft Deployment Toolkit** | MDT |  | Surcouche WDS pour automatisation avancée | S13 |
 | **Mise à disposition** |  |  | Processus complet rendant un service accessible, documenté et utilisable par les utilisateurs | S07 |
+| **Mode dégradé** |  | *degraded mode* | Fonctionnement d'un service avec un niveau de service réduit mais acceptable pendant une panne | S09 |
 | **Multicast** |  |  | Déploiement simultané d'une image vers plusieurs machines | S13 |
 | **MySQL** |  |  | Système de gestion de base de données relationnelle | S15 |
 | **N1 / N2 / N3** |  |  | Niveaux de support du plus généraliste (N1) au plus expert (N3) | S03 |
@@ -140,6 +148,8 @@ La colonne « Vu en » indique la séance où le mot apparaît pour la première
 | **Perpetual License** |  |  | Licence perpétuelle payée une fois, utilisable indéfiniment | S12 |
 | **PHP** |  |  | Langage de programmation côté serveur | S15 |
 | **Plage horaire** |  |  | Période durant laquelle le SLA s'applique (ex : 8h-18h jours ouvrés) | S07 |
+| **Plan de continuité d'activité** | PCA | *business continuity plan* | Plan qui permet de continuer l'activité, au moins en service minimal, pendant un incident | S09 |
+| **Plan de reprise d'activité** | PRA | *disaster recovery plan* | Plan qui permet de rétablir le système d'information après un sinistre | S09 |
 | **Plugin** |  |  | Extension ajoutant des fonctionnalités à GLPI | S06 |
 | **Portail utilisateur** |  |  | Interface simplifiée GLPI pour les utilisateurs finaux | S06 |
 | **Portfolio** |  | *portfolio* | Dossier numérique qui retrace le parcours de professionnalisation et décrit les réalisations professionnelles. | S01 |

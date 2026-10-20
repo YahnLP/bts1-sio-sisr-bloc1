@@ -53,7 +53,8 @@ Remplis ce bilan **seul**, honnêtement : il sert à décider ce qu'il faut repr
 - [ ] Calculer un taux de conformité et proposer un plan de remédiation ;
 - [ ] Expliquer le coût total de possession ;
 - [ ] Rédiger une procédure technique structurée ;
-- [ ] Capturer des écrans exploitables et versionner un document.
+- [ ] Capturer des écrans exploitables et versionner un document ;
+- [ ] Contrôler la conformité d'un site web (mentions légales, contenus externes, charte graphique, contraste).
 
 **Ce que je dois reprendre :** ______________________
 

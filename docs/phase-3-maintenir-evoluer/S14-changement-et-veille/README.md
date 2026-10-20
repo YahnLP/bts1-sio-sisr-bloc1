@@ -20,7 +20,8 @@
 2. **Décrire** le cycle d'un changement, le rôle du CAB et l'analyse de risque ;
 3. **Rédiger** une demande de changement (RFC) ;
 4. **Choisir** des sources de veille fiables et **organiser** une routine ;
-5. **Documenter** sa veille pour le portfolio.
+5. **Documenter** sa veille pour le portfolio ;
+6. **Présenter** son identité professionnelle (CV, réseaux professionnels, métiers), distinguer veille et curation, délimiter son environnement d'apprentissage et identifier ses besoins de formation.
 
 ## Contenu de la séance
 
@@ -28,8 +29,10 @@
 |---|---|
 | [Cours – La gestion des changements (ITIL)](01-cours.md) | Cours |
 | [Cours – La veille technologique](01b-cours-veille.md) | Cours (suite) |
+| [Cours – Identité professionnelle, curation et apprentissage personnel](01c-cours-identite-pro.md) | Cours (suite) |
 | [TP – Rédiger une demande de changement (RFC)](02-tp.md) | TP |
 | [TP – Configurer sa veille technologique](02b-tp-veille.md) | TP (suite) |
+| [TP – Mon environnement d'apprentissage et mon profil](02c-tp-identite-pro.md) | TP (fin de séance) |
 | [Aide-mémoire – Changement et veille](03-aide-memoire.md) | Aide-mémoire |
 | [Annexe – Modèle de RFC vierge](annexe-modele-rfc.md) | Annexe |
 | [Annexe – Sources de veille fiables par domaine](annexe-sources-veille.md) | Annexe |
@@ -38,10 +41,10 @@
 
 | Durée | Activité | Format |
 |---|---|---|
-| 0 h 00 – 0 h 15 | **Accroche** : une mise à jour du vendredi soir | Oral |
-| 0 h 15 – 1 h 30 | **Cours** : gestion du changement, RFC ; veille, sources, outils | Cours et questions |
-| 1 h 30 – 3 h 30 | **TP** : une RFC puis configuration de sa veille | Individuel |
-| 3 h 30 – 4 h 00 | **Bilan de compétences** | Individuel |
+| 0 h 00 – 0 h 10 | **Accroche** : une mise à jour du vendredi soir | Oral |
+| 0 h 10 – 1 h 40 | **Cours** : gestion du changement, RFC ; veille, sources, outils ; identité professionnelle, curation, apprentissage personnel | Cours et questions |
+| 1 h 40 – 3 h 35 | **TP** : une RFC, configuration de sa veille (étape 4 raccourcie), puis environnement d'apprentissage et profil (≈ 25 min) | Individuel |
+| 3 h 35 – 4 h 00 | **Bilan de compétences** | Individuel |
 
 ## Retour en entreprise
 
@@ -57,5 +60,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
 - Le chiffre de l'ancien cours sur « l'obsolescence des compétences » a été retiré faute de source.
+- **Ajout (savoirs du référentiel) :** identité numérique professionnelle, CV et lettre de motivation, panorama des métiers, curation, environnement d'apprentissage personnel, besoins de formation. La liste des métiers et les outils cités (réseau professionnel, plateforme de code, outils libres de signets) sont des exemples **à valider** ; les poursuites d'études sont à vérifier sur des sources officielles. Le déroulé est resserré pour garder 4 h (étape 4 du TP de veille raccourcie) : **à valider**.
 
 </details>

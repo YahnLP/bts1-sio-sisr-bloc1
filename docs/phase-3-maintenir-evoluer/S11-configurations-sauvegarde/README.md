@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S11 (séance 11 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Configurations et sauvegarde (B1.1, B1.5). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S02 (inventaire), S06 (CMDB et actifs). |
 | **Matériel** | Simulateur ou Packet Tracer (une config Cisco), VM Debian avec Git |
 | **Compétences travaillées** | B1.1 · B1.5 · B1.2 (voir [le référentiel](../../ressources/referentiel.md)) |

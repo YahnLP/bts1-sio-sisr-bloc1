@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S18 (séance 18 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Suite du projet (S17 et S18 forment un ensemble de 8 h). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S17. |
 | **Matériel** | GLPI et OCS installés en S17, wiki de l'équipe |
 | **Compétences travaillées** | B1.2 · B1.4 · B1.5 · B1.6 (voir [le référentiel](../../ressources/referentiel.md)) |

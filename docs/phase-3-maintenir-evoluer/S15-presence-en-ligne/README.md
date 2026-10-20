@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S15 (séance 15 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Seule séance sur la présence en ligne (B1.3). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S13 du bloc 2 conseillé (LAMP, SSH) ; sinon suivre le TP pas à pas. |
 | **Matériel** | VM Debian ou Ubuntu avec accès Internet, poste client |
 | **Compétences travaillées** | B1.3 · B1.5 · B1.2 (voir [le référentiel](../../ressources/referentiel.md)) |

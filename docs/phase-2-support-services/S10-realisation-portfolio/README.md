@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S10 (séance 10 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Rédaction des réalisations : support direct de l'épreuve E5. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01 (portfolio), S04 à S09 (matière première). |
 | **Matériel** | Modèle de fiche de réalisation, tableau de synthèse (fichier fourni) |
 | **Compétences travaillées** | B1.6 · B1.4 · B1.5 (voir [le référentiel](../../ressources/referentiel.md)) |

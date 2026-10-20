@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S17 (séance 17 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Projet de bout en bout : mode projet (B1.4) et réalisation pour l'E5. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S05, S06, S09, S16. |
 | **Matériel** | Trois VM Debian ou Ubuntu, un poste Windows, wiki de l'équipe |
 | **Compétences travaillées** | B1.4 · B1.5 · B1.1 · B1.2 (voir [le référentiel](../../ressources/referentiel.md)) |

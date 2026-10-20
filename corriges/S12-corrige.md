@@ -78,6 +78,28 @@ subnet 192.168.10.0 netmask 255.255.255.0 {
 | Historique des versions rempli | Oui |
 | Test par un tiers | Un camarade ​réussit **sans aide** |
 
+## Partie C – Conformité du site de SimIO SARL
+
+*Les mentions légales sont rédigées avec des champs ​fictifs. Le contenu légal exact est à vérifier sur une source officielle avant de l'appliquer à un site réel.*
+
+| N° | Écart | Risque | Correction attendue |
+|---|---|---|---|
+| 1 | Pas de mentions légales : seul « © 2026 SimIO » en pied de page | Éditeur et hébergeur non identifiés ; non-conformité à l'obligation d'identification | Ajouter une page « Mentions ​légales » liée dans le pied de page de toutes les pages |
+| 2 | Photo copiée depuis un moteur de recherche, sans source | Atteinte au droit d'auteur, risque de réclamation | Retirer la photo, ou utiliser une photo propre ou sous licence adaptée, avec la source notée |
+| 3 | Liens « cliquez ici » | Lecture difficile, ​mauvaise accessibilité | Libellé explicite : « Télécharger la procédure d'installation (PDF) » |
+| 4 | Gris #AAAAAA sur blanc, contraste de 2,32 : 1 | Texte illisible pour certains visiteurs, inférieur au seuil de 4,5 : 1 | Utiliser une couleur plus foncée |
+| 5 | ​Formulaire sans information sur l'usage des données | Défaut d'information des personnes (RGPD) | Ajouter une mention d'information et un lien vers la politique de confidentialité |
+| 6 | Nom de fichier avec espaces, accents et parenthèses | ​Liens cassés, désordre des versions | `procedure-dhcp-v1.pdf` (minuscules, tirets, version) |
+| 7 | Images sans texte alternatif | Contenu inaccessible aux lecteurs d'écran | ​Ajouter un texte alternatif décrivant l'image utile |
+
+**Choix de couleur (question 2) :** #595959 (7,00 : 1) reste dans les gris tout en étant nettement conforme. #767676 (4,54 : 1) est conforme mais à la limite : la marge est faible. L'étudiant doit justifier par le rapport de contraste.
+
+**Mentions légales (question 3) :** attendues si tous les champs du modèle sont renseignés (éditeur, ​siège, contact, immatriculation, directeur de la publication, hébergeur, lien vers la politique de confidentialité). Vérifier qu'aucun numéro réel n'est utilisé.
+
+**Réflexion (question 4) :** un moteur de recherche indexe des images sans les libérer de droits ; la licence reste celle de l'auteur. On remplace par une photo ​réalisée par l'entreprise, une image libre dont on respecte les conditions, ou une illustration créée par l'équipe.
+
+**Pièges fréquents :** confondre mentions légales et CGU ; croire qu'une image sans mention de droits est libre ; corriger la couleur sans recalculer le contraste.
+
 ## Pièges fréquents
 
 - **Procédure qui décrit l'outil**, pas la démarche pour réussir.

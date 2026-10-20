@@ -3,10 +3,12 @@
 *[BSA]: Business Software Alliance : Organisme représentant les éditeurs pour les audits
 *[CA]: Certificate Authority : Autorité délivrant des certificats
 *[CAB]: Change Advisory Board : Comité décisionnel
+*[CGU]: Conditions générales d'utilisation : Règles d'usage d'un site fixées par son éditeur
 *[CMDB]: Configuration Management DataBase : Base de données des actifs IT
 *[CMS]: Content Management System : Logiciel de gestion de contenu web
 *[DESC]: Décrire / Exprimer / Spécifier / Conséquences : Technique de désescalade
 *[DAT]: Dossier d'Architecture Technique : Document décrivant l'infrastructure
+*[PLE]: Environnement d'apprentissage personnel : Ensemble des sources, outils, personnes et méthodes qu'une personne organise pour apprendre
 *[E6]: Épreuve d'administration des systèmes et des réseaux : Épreuve pratique et orale de l'option SISR (bloc 2).
 *[E7]: Épreuve de cybersécurité : Épreuve écrite de 4 heures de l'option SISR (bloc 3).
 *[E5]: Épreuve de support et mise à disposition de services : Épreuve orale de 40 minutes qui évalue le bloc 1, à partir du dossier numérique.
@@ -26,7 +28,10 @@
 *[NAS]: Network Attached Storage : Boîtier de stockage réseau
 *[NVRAM]: Non-Volatile RAM : Mémoire qui conserve les données sans alimentation
 *[OOBE]: Out-Of-Box Experience : Assistant de première configuration Windows
+*[PCA]: Plan de continuité d'activité : Plan qui permet de continuer l'activité, au moins en service minimal, pendant un incident
+*[PRA]: Plan de reprise d'activité : Plan qui permet de rétablir le système d'information après un sinistre
 *[PXE]: Preboot eXecution Environment : Boot réseau sans disque local ni USB
+*[RDP]: Protocole de bureau à distance : Protocole de Microsoft qui ouvre une session distante sur un poste ou un serveur (port TCP 3389)
 *[RSS]: Really Simple Syndication : Format de flux web
 *[RPO]: Recovery Point Objective : Perte de données maximale acceptable
 *[RTO]: Recovery Time Objective : Délai maximum pour reprendre un service après incident

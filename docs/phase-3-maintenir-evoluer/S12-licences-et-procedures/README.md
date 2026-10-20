@@ -20,7 +20,8 @@
 2. **Calculer** un taux de conformité et **proposer** un plan de remédiation ;
 3. **Expliquer** le coût total de possession ;
 4. **Rédiger** une procédure technique structurée ;
-5. **Capturer** des écrans exploitables et **versionner** un document.
+5. **Capturer** des écrans exploitables et **versionner** un document ;
+6. **Vérifier** la conformité d'un site web : mentions légales, contenus externes, charte graphique, conventions d'écriture électronique.
 
 ## Contenu de la séance
 
@@ -28,8 +29,10 @@
 |---|---|
 | [Cours – Licences, conformité et coût total de possession](01-cours.md) | Cours |
 | [Cours – Documentation technique et rédaction de procédures](01b-cours-procedures.md) | Cours (suite) |
+| [Cours – Conformité d'un site web](01c-cours-site-web.md) | Cours (suite) |
 | [TP – Audit de conformité des licences](02-tp.md) | TP |
 | [TP – Rédiger une procédure technique](02b-tp-procedure.md) | TP (suite) |
+| [TP – Contrôler la conformité du site de SimIO SARL](02c-tp-site-web.md) | TP (fin de séance) |
 | [Aide-mémoire – Licences et procédures](03-aide-memoire.md) | Aide-mémoire |
 | [Annexe – Grille d'audit de conformité](annexe-grille-audit.md) | Annexe |
 | [Annexe – Modèle de procédure vierge](annexe-modele-procedure.md) | Annexe |
@@ -38,10 +41,10 @@
 
 | Durée | Activité | Format |
 |---|---|---|
-| 0 h 00 – 0 h 20 | **Accroche** : 30 postes, 25 licences : quel risque ? | Oral |
-| 0 h 20 – 1 h 30 | **Cours** : licences, conformité, audit, TCO ; procédures, captures, versions | Cours et questions |
-| 1 h 30 – 3 h 30 | **TP** : audit de conformité puis procédure | Binôme |
-| 3 h 30 – 4 h 00 | **Bilan de compétences** | Individuel |
+| 0 h 00 – 0 h 10 | **Accroche** : 30 postes, 25 licences : quel risque ? | Oral |
+| 0 h 10 – 1 h 40 | **Cours** : licences, conformité, audit, TCO ; procédures, captures, versions ; conformité d'un site web | Cours et questions |
+| 1 h 40 – 3 h 35 | **TP** : audit de conformité des licences, procédure, puis contrôle d'un site (≈ 20 min) | Binôme |
+| 3 h 35 – 4 h 00 | **Bilan de compétences** | Individuel |
 
 ## Retour en entreprise
 
@@ -57,5 +60,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
 - Les ordres de grandeur des sanctions et des organismes de contrôle sont à relire sur des sources à jour avant la séance.
+- **Ajout (savoirs du référentiel) :** mentions légales et CGU, responsabilité de l'éditeur et de l'hébergeur, droit d'utilisation des contenus externes, charte graphique, conventions d'écriture électronique. Le contenu exact des mentions légales est **à vérifier** sur Légifrance avant la séance. Les rapports de contraste ont été recalculés (formule WCAG). Le déroulé est resserré pour garder 4 h : **à valider**.
 
 </details>

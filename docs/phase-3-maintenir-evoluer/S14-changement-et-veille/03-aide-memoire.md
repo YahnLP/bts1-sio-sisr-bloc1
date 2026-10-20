@@ -19,3 +19,11 @@ Identification · description · **justification** · impact et **risque** · pl
 ## Veille
 
 Sources fiables · agrégateur (flux RSS) · alertes · **routine courte et régulière** · notes datées dans le portfolio.
+
+## Identité professionnelle et apprentissage
+
+- **Identité numérique professionnelle** : lisible, cohérente, prudente ; jamais d'information interne publiée.
+- **CV** : une page, verbe d'action + outil + résultat chiffré et exact.
+- **Curation** = collecter, trier, enrichir, partager (la veille ne fait que détecter).
+- **PLE** : sources, outils, partage, routine ; délimité et expliqué.
+- **Besoins de formation** : compétence visée, niveau actuel, action, échéance.

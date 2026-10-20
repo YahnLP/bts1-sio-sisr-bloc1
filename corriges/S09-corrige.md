@@ -47,6 +47,27 @@
 - **Ce qui est exclu** : mieux vaut peu d'exclusions précises que beaucoup de vagues.
 - **Vue métier et vue technique** ​décrivent le même service, mais pas pour le même lecteur.
 
+## Partie B – Vérifier les conditions de continuité
+
+*Les données de l'annexe sont fictives. La règle « un test de restauration au ​moins une fois par an » est une règle de l'organisation fictive, à adapter à la réalité de votre contexte.*
+
+| Service | Manquements attendus |
+|---|---|
+| Messagerie | Test de restauration ​vieux de 14 mois, donc supérieur à un an (sauvegarde récente : elle respecte le RPO d'une heure) |
+| Serveur de fichiers | Dernière sauvegarde vieille de 3 jours pour un RPO de 24 heures ; restauration jamais testée ; procédure obsolète (version de 2021) |
+| ​Switch cœur (configuration) | Dernière sauvegarde vieille de 30 jours pour un RPO de 24 heures |
+| Annuaire | Aucun manquement (sauvegarde il y a 20 heures, test il y a 2 mois, procédure à jour) |
+
+**Total attendu : 5 manquements** (1 + 3 + 1 + 0).
+
+**Service le plus exposé :** le ​serveur de fichiers, qui cumule trois manquements. L'organisation ne sait pas s'il peut être restauré, et la perte pourrait atteindre 3 jours de données au lieu de 24 heures.
+
+**Message de signalement (exemple).** « Le serveur de fichiers a été sauvegardé pour la dernière fois il y a 3 jours alors que nous acceptons de perdre au plus 24 ​heures, et aucune restauration n'a jamais été testée. En cas de panne, nous risquons de perdre jusqu'à 3 jours de travail et de ne pas pouvoir restaurer. Je propose de relancer la ​sauvegarde quotidienne, d'organiser un test de restauration cette semaine et de mettre la procédure à jour. »
+
+**Critères d'évaluation :** le constat est chiffré et comparé à l'exigence ; le risque est exprimé pour l'organisation ; la proposition est concrète et réaliste.
+
+**Pièges fréquents :** confondre RTO et RPO ; compter la sauvegarde récente de la messagerie ​comme un manquement ; signaler sans proposer d'action.
+
 ## Pièges fréquents
 
 - **Copie de la vue technique** dans la vue métier.

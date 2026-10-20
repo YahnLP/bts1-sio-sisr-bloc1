@@ -22,3 +22,15 @@
 - **Vue technique** : pour l'équipe (serveurs, procédures, supervision).
 
 **Cycle de vie d'un service :** actif → déprécié → retiré.
+
+## Continuité et conservation
+
+| Notion | En une phrase |
+|---|---|
+| PCA | Continuer l'activité **pendant** la panne (service minimal, mode dégradé) |
+| PRA | **Repartir** après le sinistre (RTO, RPO) |
+| Sauvegarder | Pouvoir restaurer |
+| Conserver | Garder une donnée utile pendant une durée définie |
+| Archiver | Garder une donnée à valeur légale ou probante, intègre, à accès restreint |
+
+**À vérifier pour la continuité :** sauvegarde plus récente que le RPO, restauration testée, procédure à jour, secours disponible. Sinon : **signaler le manquement**.

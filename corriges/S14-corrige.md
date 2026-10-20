@@ -64,6 +64,27 @@ Le scénario **ne précise pas** la **passerelle** du VLAN 20 ni la façon dont 
 - Les outils proposés sont des **services externes** (compte personnel, données traitées hors du pays possible). Prévoir une **alternative sans compte** pour un élève qui refuse (lecteur de flux libre installé en local).
 - Une veille sans **trace** (notes, fiches) n'est pas une preuve : relier à la compétence B1.6 et au portfolio.
 
+## Partie C – Environnement d'apprentissage et profil
+
+*Travail individuel : les réponses dépendent de l'étudiant et de son entreprise. Le corrigé ​donne les critères et des exemples.*
+
+**Critères d'évaluation**
+
+| Partie | Attendu |
+|---|---|
+| A – Schéma | Quatre blocs présents (sources, outils de traitement, partage, routine), au moins deux sources officielles, une limite assumée (« ce que je ne suis pas ») avec sa raison |
+| B – Besoins de formation | Trois lignes avec compétence visée, ​niveau actuel honnête, action concrète, échéance datée |
+| C – CV | Trois lignes avec verbe d'action, outil et résultat chiffré exact ; à défaut, une manière précise de mesurer |
+| D – Profil en ligne | Trois réglages ​cités (visibilité du profil, coordonnées visibles, historique de recherche ou d'activité) ; aucune information de l'entreprise ne doit être publiée |
+
+**Exemples de réponses acceptables**
+
+- Besoin de formation : « Superviser un service. Niveau actuel : débutant. Action : ​tutoriel guidé puis TP en laboratoire. Échéance : fin du semestre. »
+- Ligne de CV : « Inventaire de 120 postes avec OCS Inventory ; 18 licences non conformes identifiées. » Les nombres doivent venir d'un vrai travail de l'étudiant ou du cas SimIO.
+- ​Information à ne jamais publier : noms de serveurs, schéma réseau, adresses IP internes, noms de clients, incident de sécurité en cours. Raison : devoir de discrétion et risque d'ingénierie sociale.
+
+**Pièges fréquents :** CV sans chiffre ou avec un chiffre inventé ; schéma ​réduit à une liste d'outils sans routine ; besoin de formation sans échéance ; publication d'une capture d'écran qui montre des noms de machines de l'entreprise.
+
 ## Pièges fréquents
 
 - **RFC ​rédigée comme un tutoriel** (commandes sans justification ni rollback).

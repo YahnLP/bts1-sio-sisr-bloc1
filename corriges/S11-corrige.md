@@ -1,13 +1,13 @@
 # Corrigé – S11 : Configurations, sauvegarde et versionnement
 
-*Réservé à l'enseignant. **Testé** : tout le déroulé (sauvegarde, vérification d'empreinte, Git, modification, panne, retour arrière, restauration) a été rejoué sur **Ubuntu 24.04** avec Apache 2.4.58. Le TP vise Debian : les résultats sont identiques, seuls la chaîne `Server:` et le nombre de fichiers changent légèrement.*
+*Réservé à l'enseignant. **Testé** : tout le déroulé (sauvegarde, vérification d'empreinte, Git, modification, panne, ​retour arrière, restauration) a été rejoué sur **Ubuntu 24.04** avec Apache 2.4.58. Le TP vise Debian : les résultats sont identiques, seuls la chaîne `Server:` et le nombre de fichiers changent légèrement.*
 
 ## Problème corrigé dans cette PR
 
-L'annexe « script de sauvegarde » ne contenait **pas** le script attendu par le TP : elle proposait un script d'équipements Cisco (`backup_configs.sh`, avec `expect`) alors que le TP installe `sauvegarde-configs.sh` (archive `.tar.gz`, empreinte `.sha256`, journal `sauvegarde.log`). Le script Cisco avait aussi une redirection mal placée (`EOF > "$FILENAME"`). L'annexe donne maintenant :
+L'annexe « script de sauvegarde » ne contenait **pas** le script attendu par le TP : elle ​proposait un script d'équipements Cisco (`backup_configs.sh`, avec `expect`) alors que le TP installe `sauvegarde-configs.sh` (archive `.tar.gz`, empreinte `.sha256`, journal `sauvegarde.log`). Le script Cisco avait aussi une redirection mal placée (`EOF > "$FILENAME"`). L'annexe donne maintenant :
 
 1. le **script du TP**, testé ;
-2. l'exemple Cisco conservé « pour aller plus loin », avec la redirection corrigée (non testé : demande des équipements joignables).
+2. l'exemple Cisco conservé « pour aller plus loin », avec la redirection ​corrigée (non testé : demande des équipements joignables).
 
 ## Étape 0 – Préparation
 
@@ -19,18 +19,18 @@ L'annexe « script de sauvegarde » ne contenait **pas** le script attendu par l
 |---|---|
 | Fichiers créés | `configs-AAAAMMJJ-HHMMSS.tar.gz`, `configs-….sha256`, `sauvegarde.log` dans `/var/backups/configs` |
 | `sha256sum -c` | `configs-….tar.gz: OK` |
-| Contenu de l'archive | Chemins **relatifs** (`etc/apache2/…`), environ 150 à 200 entrées (194 sur notre test) |
+| ​Contenu de l'archive | Chemins **relatifs** (`etc/apache2/…`), environ 150 à 200 entrées (194 sur notre test) |
 | Taille | Quelques dizaines de Ko (34 Ko sur notre test) |
 
 **Pièges.**
 
-- Lancer `sha256sum -c` **hors** du dossier des sauvegardes : « fichier introuvable » (le fichier d'empreinte contient un nom relatif).
+- Lancer `sha256sum -c` **hors** du dossier des sauvegardes : « ​fichier introuvable » (le fichier d'empreinte contient un nom relatif).
 - Script non exécutable (`chmod 750` oublié) : `Permission denied`.
 - Oubli de `sudo` : le dossier `/var/backups` n'est pas accessible en écriture.
 
 ## Étape 2 – Baseline Git
 
-`git log --oneline` doit afficher un seul commit « Baseline ». Piège : `git commit` sans identité configurée (`Please tell me who you are`).
+`git log --oneline` doit afficher un seul ​commit « Baseline ». Piège : `git commit` sans identité configurée (`Please tell me who you are`).
 
 ## Étape 3 – Modification
 
@@ -45,7 +45,7 @@ L'annexe « script de sauvegarde » ne contenait **pas** le script attendu par l
 
 - Après `ServerTokensss Prod`, `configtest` répond : `Invalid command 'ServerTokensss', perhaps misspelled…` (testé).
 - Après la restauration par `rsync --delete`, `diff -r` répond « identique » et `Server: Apache` s'affiche de nouveau (testé).
-- **À faire dire** : on revient à la dernière version **saine versionnée**, on ne « défait pas à la main ».
+- **À faire dire** : on revient à la dernière version **saine ​versionnée**, on ne « défait pas à la main ».
 - Piège : lancer `systemctl restart` au lieu de `reload` **avant** `configtest` : le service ne redémarre plus.
 
 ## Étape 5 – Planification et restauration d'essai
@@ -56,7 +56,7 @@ L'annexe « script de sauvegarde » ne contenait **pas** le script attendu par l
 
 ## Étape 6 – Journal des modifications
 
-Une ligne par modification : version, date, auteur, **raison**, référence du ticket. Refuser « modif Apache ».
+Une ligne par modification : version, date, auteur, **raison**, référence du ​ticket. Refuser « modif Apache ».
 
 ## Partie facultative – Cisco
 

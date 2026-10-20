@@ -60,7 +60,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - La partie « terminaux mobiles » est ajoutée par la refonte (annexe II.E : terminal mobile) : le TP associé (`02c`) ne demande aucune installation ; il peut se faire en travail personnel si le temps manque, et se compléter par une démonstration si une console de gestion de flotte est disponible.
 
 </details>

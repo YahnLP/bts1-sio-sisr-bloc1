@@ -59,7 +59,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Le chiffre de l'ancien cours sur « l'obsolescence des compétences » a été retiré faute de source.
 - **Ajout (savoirs du référentiel) :** identité numérique professionnelle, CV et lettre de motivation, panorama des métiers, curation, environnement d'apprentissage personnel, besoins de formation. La liste des métiers et les outils cités (réseau professionnel, plateforme de code, outils libres de signets) sont des exemples **à valider** ; les poursuites d'études sont à vérifier sur des sources officielles. Le déroulé est resserré pour garder 4 h (étape 4 du TP de veille raccourcie) : **à valider**.
 

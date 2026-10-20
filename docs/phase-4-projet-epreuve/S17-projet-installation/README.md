@@ -59,7 +59,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Séance de travail en équipe : prévoir un tableau de planning visible (papier ou outil libre).
 - **Ajout (savoirs du référentiel) :** approches prédictive et agile, outil de gestion de projet (fonctionnalités et paramétrage), tests d'intégration et d'acceptation avec rapport de test. Le temps ajouté est pris sur la durée du cours d'ouverture et sur le point d'étape : si l'installation prend du retard, finir le catalogue (T4) en début de S18. Le barème du projet a été rééquilibré (/100) : **à valider**. Les écrans du module « Projets » de GLPI dépendent de la version installée : **à vérifier**.
 - Le cours « mode projet » est ajouté par la refonte : la compétence B1.4 n'était pas travaillée explicitement.

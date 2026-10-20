@@ -59,7 +59,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - Les ordres de grandeur des sanctions et des organismes de contrôle sont à relire sur des sources à jour avant la séance.
 - **Ajout (savoirs du référentiel) :** mentions légales et CGU, responsabilité de l'éditeur et de l'hébergeur, droit d'utilisation des contenus externes, charte graphique, conventions d'écriture électronique. Le contenu exact des mentions légales est **à vérifier** sur Légifrance avant la séance. Les rapports de contraste ont été recalculés (formule WCAG). Le déroulé est resserré pour garder 4 h : **à valider**.
 

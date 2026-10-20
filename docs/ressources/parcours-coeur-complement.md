@@ -3,7 +3,7 @@
 Les 19 séances de 4 h représentent **76 h** par an. Le volume prévu pour ce bloc dans la grille sous statut scolaire est nettement plus élevé en première année (**210 h**, annexe III.A du référentiel). Quand le temps manque, ce parcours indique **quelles séances garder en priorité** et lesquelles peuvent être raccourcies, regroupées ou traitées en autonomie.
 
 > [!NOTE]
-> Ce classement est une **proposition de l'auteur, à valider** par l'équipe pédagogique. Il ne retire rien du site : chaque séance reste disponible, et son statut est rappelé dans sa fiche.
+> Il ne retire rien du site : chaque séance reste disponible, et son statut est rappelé dans sa fiche.
 
 ## Principe
 

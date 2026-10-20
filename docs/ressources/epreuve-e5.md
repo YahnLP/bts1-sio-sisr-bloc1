@@ -58,4 +58,4 @@ La commission s'appuie sur la **grille d'aide à l'évaluation** de la circulair
 | B1.6 Organiser son développement professionnel | S01, S08, S10, S14, S19 |
 
 > [!WARNING]
-> Une seule séance (S15) alimente la compétence **B1.3**, et le portfolio doit couvrir **les six compétences**. Il faudra donc compléter par des réalisations en entreprise ou en projet, notamment pour la présence en ligne. L'association séance et compétence est une proposition de l'enseignant, **à valider**.
+> Une seule séance (S15) alimente la compétence **B1.3**, et le portfolio doit couvrir **les six compétences**. Il faudra donc compléter par des réalisations en entreprise ou en projet, notamment pour la présence en ligne.

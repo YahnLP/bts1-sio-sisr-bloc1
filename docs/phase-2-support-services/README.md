@@ -3,7 +3,7 @@
 **Séances S06 à S10.** Gérer les tickets avec GLPI, mettre un service à disposition (SLA, disponibilité, procès-verbal), dialoguer avec l'utilisateur, construire un catalogue de services et rédiger sa première réalisation professionnelle pour le portfolio.
 
 > [!NOTE]
-> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes. Les séances marquées *à valider* ont été ajoutées ou réécrites lors de la refonte : elles attendent la relecture de l'enseignant.
+> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes.
 
 ## Progression
 

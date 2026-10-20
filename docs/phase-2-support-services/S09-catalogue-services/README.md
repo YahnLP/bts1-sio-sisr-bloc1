@@ -56,7 +56,7 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <details markdown="1">
 <summary>Notes pour l'enseignant</summary>
 
-- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
+- **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)).
 - La mise en commun finale produit le catalogue de toute la classe.
 - **Ajout (savoirs du référentiel) :** PCA/PRA, vérification des conditions de continuité, conservation et archivage des données. Les durées de conservation du cours sont des ordres de grandeur **à vérifier** sur des sources officielles avant la séance. La règle « un test de restauration au moins par an » de l'annexe est une règle fictive de l'organisation. Le déroulé est resserré pour garder 4 h : **à valider**.
 

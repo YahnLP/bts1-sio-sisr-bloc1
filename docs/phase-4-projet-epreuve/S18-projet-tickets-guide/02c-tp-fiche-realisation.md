@@ -54,7 +54,6 @@ Utilise le [canevas guidé](../../phase-2-support-services/S10-realisation-portf
 | **B1.6** | Documentation, wiki, veille | Pages du wiki |
 
 > [!NOTE]
-> Le choix de ces compétences est une proposition de l'enseignant, **à valider**. Ne coche que ce que **tu** peux prouver : la compétence **B1.3** (présence en ligne) n'est pas travaillée dans ce projet.
 
 ## Étape 3 : Vérifier avec la grille (10 min)
 

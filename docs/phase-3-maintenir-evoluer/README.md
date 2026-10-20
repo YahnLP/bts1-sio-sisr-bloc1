@@ -3,7 +3,7 @@
 **Séances S11 à S15.** Garder le parc en bon état : gestion des configurations et sauvegardes, licences et conformité, documentation de procédures, déploiement d'images système, gestion du changement et veille technologique, puis présence en ligne de l'organisation (CMS, HTTPS, base de données).
 
 > [!NOTE]
-> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes. Les séances marquées *à valider* ont été ajoutées ou réécrites lors de la refonte : elles attendent la relecture de l'enseignant.
+> Chaque séance de 4 h contient une **fiche séance**, un **cours**, un **TP** (avec un bilan de compétences en fin de séance) et, selon les cas, des annexes.
 
 ## Progression
 

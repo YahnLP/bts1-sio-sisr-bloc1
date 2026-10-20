@@ -1,1 +1,9 @@
 title: "S15 – Présence en ligne : site WordPress, HTTPS et base de données"
+arrange:
+  - 01-cours.md
+  - 02-tp.md
+  - 01b-cours-https-seo.md
+  - 02b-tp-https.md
+  - 01c-cours-sgbd.md
+  - 02c-tp-sgbd.md
+  - ...

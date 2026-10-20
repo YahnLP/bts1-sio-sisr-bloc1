@@ -1,1 +1,9 @@
 title: "S12 – Licences, conformité et rédaction de procédures"
+arrange:
+  - 01-cours.md
+  - 02-tp.md
+  - 01b-cours-procedures.md
+  - 02b-tp-procedure.md
+  - 01c-cours-site-web.md
+  - 02c-tp-site-web.md
+  - ...

@@ -1,1 +1,9 @@
 title: "S14 – Gérer le changement et organiser sa veille"
+arrange:
+  - 01-cours.md
+  - 02-tp.md
+  - 01b-cours-veille.md
+  - 02b-tp-veille.md
+  - 01c-cours-identite-pro.md
+  - 02c-tp-identite-pro.md
+  - ...

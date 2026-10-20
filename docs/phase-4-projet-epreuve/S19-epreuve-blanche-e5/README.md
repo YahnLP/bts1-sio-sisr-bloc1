@@ -55,7 +55,6 @@ Si ta situation le permet : **observer** comment ton entreprise traite le sujet 
 <summary>Notes pour l'enseignant</summary>
 
 - **Compétences :** codes relus sur le référentiel (page [Référentiel](../../ressources/referentiel.md)) ; le choix des compétences pour cette séance est une proposition à valider.
-- **Corrigé :** dans `corriges/` à la racine du dépôt (hors du site publié).
 - Pour une classe entière, les oraux se déroulent en rotation (deux salles, observateurs) ou sur deux séances.
 - L'épreuve réelle (arrêté du 8 juillet 2024, circulaire 2026) est orale, de 40 minutes : 10 minutes de présentation puis 30 minutes d'échange ; le dossier numérique doit être accessible aux commissions. À relire sur la circulaire en vigueur.
 - Cette séance regroupe les anciennes semaines 19 et 20.

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S02 (séance 2 sur 19) – Phase 1 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Inventaire (B1.1) : prérequis de S05, S06, S11. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S01. |
 | **Matériel** | Poste Windows (VM ou physique), VM Debian (option) |
 | **Compétences travaillées** | B1.1 · B1.2 (amorcée) (voir [le référentiel](../../ressources/referentiel.md)) |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S09 (séance 9 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Complément** – Le catalogue de services est refait en projet (S17, TP catalogue) ; la mise à disposition et les SLA sont vus en S07. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S06, S07. |
 | **Matériel** | Modèles de fiche de service, GLPI (option) |
 | **Compétences travaillées** | B1.5 · B1.1 · B1.4 (amorcée) (voir [le référentiel](../../ressources/referentiel.md)) |

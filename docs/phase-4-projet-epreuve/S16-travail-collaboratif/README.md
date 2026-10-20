@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S16 (séance 16 sur 19) – Phase 4 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Git et wiki : prérequis de S17 et S18 ; terminaux mobiles (savoir du bloc). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S11 (Git), S12 (documentation). |
 | **Matériel** | VM Debian (DokuWiki), Git |
 | **Compétences travaillées** | B1.4 · B1.5 · B1.6 (voir [le référentiel](../../ressources/referentiel.md)) |

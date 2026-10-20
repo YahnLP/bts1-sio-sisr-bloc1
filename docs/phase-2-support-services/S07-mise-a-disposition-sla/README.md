@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S07 (séance 7 sur 19) – Phase 2 |
 | **Durée** | 4 heures |
+| **Parcours** | **Cœur** – Mise à disposition et SLA (B1.5) : seule séance dédiée. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S03 (SLA), S06. |
 | **Matériel** | Calculatrice, modèles de PV et de SLA |
 | **Compétences travaillées** | B1.5 · B1.2 · B1.4 (amorcée) (voir [le référentiel](../../ressources/referentiel.md)) |

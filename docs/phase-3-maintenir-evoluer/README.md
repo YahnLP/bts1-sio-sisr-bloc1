@@ -7,12 +7,12 @@
 
 ## Progression
 
-| Séance | Semaine | Thème | Statut |
-|---|---|---|---|
-| S11 | 11 | [Gérer les configurations et les sauvegarder](S11-configurations-sauvegarde/README.md) | **disponible** |
-| S12 | 12 | [Licences, conformité et rédaction de procédures](S12-licences-et-procedures/README.md) | **disponible** |
-| S13 | 13 | [Déployer des postes avec des images système](S13-images-systeme/README.md) | **disponible** |
-| S14 | 14 | [Gérer le changement et organiser sa veille](S14-changement-et-veille/README.md) | **disponible** |
-| S15 | 15 | [Présence en ligne : site WordPress, HTTPS et base de données](S15-presence-en-ligne/README.md) | **disponible** |
+| Séance | Semaine | Thème | Parcours | Statut |
+|---|---|---|---|---|
+| S11 | 11 | [Gérer les configurations et les sauvegarder](S11-configurations-sauvegarde/README.md) | **Cœur** | **disponible** |
+| S12 | 12 | [Licences, conformité et rédaction de procédures](S12-licences-et-procedures/README.md) | **Complément** | **disponible** |
+| S13 | 13 | [Déployer des postes avec des images système](S13-images-systeme/README.md) | **Complément** | **disponible** |
+| S14 | 14 | [Gérer le changement et organiser sa veille](S14-changement-et-veille/README.md) | **Complément** | **disponible** |
+| S15 | 15 | [Présence en ligne : site WordPress, HTTPS et base de données](S15-presence-en-ligne/README.md) | **Cœur** | **disponible** |
 
 Les numéros de semaine sont ceux de la séquence (semaine 01 à 19) : ils ne correspondent pas à des dates, les 19 semaines d'alternance étant réparties sur l'année.

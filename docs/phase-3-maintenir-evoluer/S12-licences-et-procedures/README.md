@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S12 (séance 12 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
+| **Parcours** | **Complément** – Licences et procédures : utiles, mais aucune séance ne s'appuie dessus ; les licences sont aussi traitées en CEJM. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S02, S05, S06. |
 | **Matériel** | Export d'inventaire logiciel (fourni), GLPI |
 | **Compétences travaillées** | B1.1 · B1.2 · B1.6 (voir [le référentiel](../../ressources/referentiel.md)) |

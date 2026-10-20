@@ -7,11 +7,11 @@
 
 ## Progression
 
-| Séance | Semaine | Thème | Statut |
-|---|---|---|---|
-| S16 | 16 | [Travail collaboratif : wiki, Git et terminaux mobiles](S16-travail-collaboratif/README.md) | **disponible** |
-| S17 | 17 | [Projet de support : installer GLPI, OCS et le catalogue](S17-projet-installation/README.md) | **disponible** |
-| S18 | 18 | [Projet de support : tickets, guide utilisateur et documentation](S18-projet-tickets-guide/README.md) | **disponible** |
-| S19 | 19 | [Épreuve blanche E5 et bilan de positionnement](S19-epreuve-blanche-e5/README.md) | **disponible** |
+| Séance | Semaine | Thème | Parcours | Statut |
+|---|---|---|---|---|
+| S16 | 16 | [Travail collaboratif : wiki, Git et terminaux mobiles](S16-travail-collaboratif/README.md) | **Cœur** | **disponible** |
+| S17 | 17 | [Projet de support : installer GLPI, OCS et le catalogue](S17-projet-installation/README.md) | **Cœur** | **disponible** |
+| S18 | 18 | [Projet de support : tickets, guide utilisateur et documentation](S18-projet-tickets-guide/README.md) | **Cœur** | **disponible** |
+| S19 | 19 | [Épreuve blanche E5 et bilan de positionnement](S19-epreuve-blanche-e5/README.md) | **Cœur** | **disponible** |
 
 Les numéros de semaine sont ceux de la séquence (semaine 01 à 19) : ils ne correspondent pas à des dates, les 19 semaines d'alternance étant réparties sur l'année.

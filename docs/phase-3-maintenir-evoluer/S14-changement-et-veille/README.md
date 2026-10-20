@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR, 1re année – bloc 1 |
 | **Séance** | S14 (séance 14 sur 19) – Phase 3 |
 | **Durée** | 4 heures |
+| **Parcours** | **Complément** – Changement et veille : aucune séance ne s'appuie dessus, et la veille est reprise en 2e année (bloc 1). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Prérequis** | S03 (ITIL), S06. |
 | **Matériel** | Modèle de RFC, agrégateur de flux (Feedly ou équivalent libre) |
 | **Compétences travaillées** | B1.2 · B1.4 · B1.6 (voir [le référentiel](../../ressources/referentiel.md)) |

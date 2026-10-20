@@ -13,6 +13,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Une imprimante n'imprime plus, un dossier refuse l'accès, un poste est lent : par où commence-t-on, et que garde-t-on pour la prochaine fois ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Le processus de traitement d'un incident est aussi vu en [CEJM 1re année, S09 – Gérer un incident : processus, priorités et indicateurs](https://yahnlp.github.io/bts1-sio-sisr-cejma/phase-2-organisation-risques-financement/S09-gestion-incidents/). Selon l'ordre de vos séances, la première pose les bases et la seconde les reprend en rappel (15 à 20 minutes). Ici, garder le diagnostic et la base de connaissances.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :

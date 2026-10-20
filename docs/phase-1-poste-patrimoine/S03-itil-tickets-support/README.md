@@ -13,6 +13,9 @@
 > [!NOTE]
 > **Question qui guide la séance :** *« Un utilisateur écrit « ça ne marche pas » : comment transformer cette phrase en ticket exploitable, et à qui le confier ? »*
 
+> [!NOTE]
+> **Recoupement avec d'autres séances.** Le centre de services et les niveaux de support sont aussi vus en [CEJM 1re année, S08 – Organiser les ressources et un service de support (ITIL)](https://yahnlp.github.io/bts1-sio-sisr-cejma/phase-2-organisation-risques-financement/S08-organisation-support/). Selon l'ordre de vos séances, la première pose les bases et la seconde les reprend en rappel (15 à 20 minutes). Ici, garder les outils et le vocabulaire ITIL.
+
 ## Objectifs
 
 À la fin de la séance, l'étudiant est capable de :
